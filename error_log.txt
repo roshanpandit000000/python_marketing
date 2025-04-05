@@ -1,0 +1,871 @@
+
+2025-02-27 16:30:30 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 138, in automate_instagram_post
+    select_original_size = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01030B43+25139]
+	(No symbol) [0x00FC13F4]
+	(No symbol) [0x00EA04E3]
+	(No symbol) [0x00EE83D7]
+	(No symbol) [0x00EE872B]
+	(No symbol) [0x00F31002]
+	(No symbol) [0x00F0D014]
+	(No symbol) [0x00F2E778]
+	(No symbol) [0x00F0CDC6]
+	(No symbol) [0x00EDBDE9]
+	(No symbol) [0x00EDD124]
+	GetHandleVerifier [0x01334373+3185251]
+	GetHandleVerifier [0x0135291A+3309578]
+	GetHandleVerifier [0x0134CF42+3286578]
+	GetHandleVerifier [0x010C7AE0+643536]
+	(No symbol) [0x00FCA20D]
+	(No symbol) [0x00FC70B8]
+	(No symbol) [0x00FC7257]
+	(No symbol) [0x00FB9E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-02-27 16:48:23 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 142, in automate_instagram_post
+    select_original_size = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003D0B43+25139]
+	(No symbol) [0x003613F4]
+	(No symbol) [0x002404E3]
+	(No symbol) [0x002883D7]
+	(No symbol) [0x0028872B]
+	(No symbol) [0x002D1002]
+	(No symbol) [0x002AD014]
+	(No symbol) [0x002CE778]
+	(No symbol) [0x002ACDC6]
+	(No symbol) [0x0027BDE9]
+	(No symbol) [0x0027D124]
+	GetHandleVerifier [0x006D4373+3185251]
+	GetHandleVerifier [0x006F291A+3309578]
+	GetHandleVerifier [0x006ECF42+3286578]
+	GetHandleVerifier [0x00467AE0+643536]
+	(No symbol) [0x0036A20D]
+	(No symbol) [0x003670B8]
+	(No symbol) [0x00367257]
+	(No symbol) [0x00359E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-02-27 16:54:31 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 142, in automate_instagram_post
+    select_original_size = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003D0B43+25139]
+	(No symbol) [0x003613F4]
+	(No symbol) [0x002404E3]
+	(No symbol) [0x002883D7]
+	(No symbol) [0x0028872B]
+	(No symbol) [0x002D1002]
+	(No symbol) [0x002AD014]
+	(No symbol) [0x002CE778]
+	(No symbol) [0x002ACDC6]
+	(No symbol) [0x0027BDE9]
+	(No symbol) [0x0027D124]
+	GetHandleVerifier [0x006D4373+3185251]
+	GetHandleVerifier [0x006F291A+3309578]
+	GetHandleVerifier [0x006ECF42+3286578]
+	GetHandleVerifier [0x00467AE0+643536]
+	(No symbol) [0x0036A20D]
+	(No symbol) [0x003670B8]
+	(No symbol) [0x00367257]
+	(No symbol) [0x00359E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-02-27 17:00:30 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 143, in automate_instagram_post
+    select_original_size = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003D0B43+25139]
+	(No symbol) [0x003613F4]
+	(No symbol) [0x002404E3]
+	(No symbol) [0x002883D7]
+	(No symbol) [0x0028872B]
+	(No symbol) [0x002D1002]
+	(No symbol) [0x002AD014]
+	(No symbol) [0x002CE778]
+	(No symbol) [0x002ACDC6]
+	(No symbol) [0x0027BDE9]
+	(No symbol) [0x0027D124]
+	GetHandleVerifier [0x006D4373+3185251]
+	GetHandleVerifier [0x006F291A+3309578]
+	GetHandleVerifier [0x006ECF42+3286578]
+	GetHandleVerifier [0x00467AE0+643536]
+	(No symbol) [0x0036A20D]
+	(No symbol) [0x003670B8]
+	(No symbol) [0x00367257]
+	(No symbol) [0x00359E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-02-27 18:06:58 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 165, in automate_instagram_post
+    click_next = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x003C0B43+25139]
+	(No symbol) [0x003513F4]
+	(No symbol) [0x002304E3]
+	(No symbol) [0x002783D7]
+	(No symbol) [0x0027872B]
+	(No symbol) [0x002C1002]
+	(No symbol) [0x0029D014]
+	(No symbol) [0x002BE778]
+	(No symbol) [0x0029CDC6]
+	(No symbol) [0x0026BDE9]
+	(No symbol) [0x0026D124]
+	GetHandleVerifier [0x006C4373+3185251]
+	GetHandleVerifier [0x006E291A+3309578]
+	GetHandleVerifier [0x006DCF42+3286578]
+	GetHandleVerifier [0x00457AE0+643536]
+	(No symbol) [0x0035A20D]
+	(No symbol) [0x003570B8]
+	(No symbol) [0x00357257]
+	(No symbol) [0x00349E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-01 12:55:12 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 165, in automate_instagram_post
+    click_presentation = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x002D0B43+25139]
+	(No symbol) [0x002613F4]
+	(No symbol) [0x001404E3]
+	(No symbol) [0x001883D7]
+	(No symbol) [0x0018872B]
+	(No symbol) [0x001D1002]
+	(No symbol) [0x001AD014]
+	(No symbol) [0x001CE778]
+	(No symbol) [0x001ACDC6]
+	(No symbol) [0x0017BDE9]
+	(No symbol) [0x0017D124]
+	GetHandleVerifier [0x005D4373+3185251]
+	GetHandleVerifier [0x005F291A+3309578]
+	GetHandleVerifier [0x005ECF42+3286578]
+	GetHandleVerifier [0x00367AE0+643536]
+	(No symbol) [0x0026A20D]
+	(No symbol) [0x002670B8]
+	(No symbol) [0x00267257]
+	(No symbol) [0x00259E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+	(No symbol) [0x00000000]
+
+
+
+2025-03-01 12:58:18 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 175, in automate_instagram_post
+    click_next = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x002D0B43+25139]
+	(No symbol) [0x002613F4]
+	(No symbol) [0x001404E3]
+	(No symbol) [0x001883D7]
+	(No symbol) [0x0018872B]
+	(No symbol) [0x001D1002]
+	(No symbol) [0x001AD014]
+	(No symbol) [0x001CE778]
+	(No symbol) [0x001ACDC6]
+	(No symbol) [0x0017BDE9]
+	(No symbol) [0x0017D124]
+	GetHandleVerifier [0x005D4373+3185251]
+	GetHandleVerifier [0x005F291A+3309578]
+	GetHandleVerifier [0x005ECF42+3286578]
+	GetHandleVerifier [0x00367AE0+643536]
+	(No symbol) [0x0026A20D]
+	(No symbol) [0x002670B8]
+	(No symbol) [0x00267257]
+	(No symbol) [0x00259E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+	(No symbol) [0x00000000]
+
+
+
+2025-03-01 13:03:00 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 195, in automate_instagram_post
+    caption_input = wait.until(
+        EC.presence_of_element_located(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x002D0B43+25139]
+	(No symbol) [0x002613F4]
+	(No symbol) [0x001404E3]
+	(No symbol) [0x001883D7]
+	(No symbol) [0x0018872B]
+	(No symbol) [0x001D1002]
+	(No symbol) [0x001AD014]
+	(No symbol) [0x001CE778]
+	(No symbol) [0x001ACDC6]
+	(No symbol) [0x0017BDE9]
+	(No symbol) [0x0017D124]
+	GetHandleVerifier [0x005D4373+3185251]
+	GetHandleVerifier [0x005F291A+3309578]
+	GetHandleVerifier [0x005ECF42+3286578]
+	GetHandleVerifier [0x00367AE0+643536]
+	(No symbol) [0x0026A20D]
+	(No symbol) [0x002670B8]
+	(No symbol) [0x00267257]
+	(No symbol) [0x00259E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+	(No symbol) [0x00000000]
+
+
+
+2025-03-01 13:23:38 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 196, in automate_instagram_post
+    caption_input = wait.until(
+        EC.presence_of_element_located(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x002D0B43+25139]
+	(No symbol) [0x002613F4]
+	(No symbol) [0x001404E3]
+	(No symbol) [0x001883D7]
+	(No symbol) [0x0018872B]
+	(No symbol) [0x001D1002]
+	(No symbol) [0x001AD014]
+	(No symbol) [0x001CE778]
+	(No symbol) [0x001ACDC6]
+	(No symbol) [0x0017BDE9]
+	(No symbol) [0x0017D124]
+	GetHandleVerifier [0x005D4373+3185251]
+	GetHandleVerifier [0x005F291A+3309578]
+	GetHandleVerifier [0x005ECF42+3286578]
+	GetHandleVerifier [0x00367AE0+643536]
+	(No symbol) [0x0026A20D]
+	(No symbol) [0x002670B8]
+	(No symbol) [0x00267257]
+	(No symbol) [0x00259E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+	(No symbol) [0x00000000]
+
+
+
+2025-03-01 16:01:10 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 219, in automate_instagram_post
+    alt_text_input = wait.until(
+        EC.presence_of_element_located(
+            (By.XPATH, """//input[@placeholder='Write alt text...']""")
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01200B43+25139]
+	(No symbol) [0x011913F4]
+	(No symbol) [0x010704E3]
+	(No symbol) [0x010B83D7]
+	(No symbol) [0x010B872B]
+	(No symbol) [0x01101002]
+	(No symbol) [0x010DD014]
+	(No symbol) [0x010FE778]
+	(No symbol) [0x010DCDC6]
+	(No symbol) [0x010ABDE9]
+	(No symbol) [0x010AD124]
+	GetHandleVerifier [0x01504373+3185251]
+	GetHandleVerifier [0x0152291A+3309578]
+	GetHandleVerifier [0x0151CF42+3286578]
+	GetHandleVerifier [0x01297AE0+643536]
+	(No symbol) [0x0119A20D]
+	(No symbol) [0x011970B8]
+	(No symbol) [0x01197257]
+	(No symbol) [0x01189E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-01 16:22:25 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 219, in automate_instagram_post
+    click_accesbility = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01200B43+25139]
+	(No symbol) [0x011913F4]
+	(No symbol) [0x010704E3]
+	(No symbol) [0x010B83D7]
+	(No symbol) [0x010B872B]
+	(No symbol) [0x01101002]
+	(No symbol) [0x010DD014]
+	(No symbol) [0x010FE778]
+	(No symbol) [0x010DCDC6]
+	(No symbol) [0x010ABDE9]
+	(No symbol) [0x010AD124]
+	GetHandleVerifier [0x01504373+3185251]
+	GetHandleVerifier [0x0152291A+3309578]
+	GetHandleVerifier [0x0151CF42+3286578]
+	GetHandleVerifier [0x01297AE0+643536]
+	(No symbol) [0x0119A20D]
+	(No symbol) [0x011970B8]
+	(No symbol) [0x01197257]
+	(No symbol) [0x01189E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-01 16:59:24 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 250, in automate_instagram_post
+    click_accesbility = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01200B43+25139]
+	(No symbol) [0x011913F4]
+	(No symbol) [0x010704E3]
+	(No symbol) [0x010B83D7]
+	(No symbol) [0x010B872B]
+	(No symbol) [0x01101002]
+	(No symbol) [0x010DD014]
+	(No symbol) [0x010FE778]
+	(No symbol) [0x010DCDC6]
+	(No symbol) [0x010ABDE9]
+	(No symbol) [0x010AD124]
+	GetHandleVerifier [0x01504373+3185251]
+	GetHandleVerifier [0x0152291A+3309578]
+	GetHandleVerifier [0x0151CF42+3286578]
+	GetHandleVerifier [0x01297AE0+643536]
+	(No symbol) [0x0119A20D]
+	(No symbol) [0x011970B8]
+	(No symbol) [0x01197257]
+	(No symbol) [0x01189E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-01 17:06:26 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 250, in automate_instagram_post
+    click_accesbility = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01200B43+25139]
+	(No symbol) [0x011913F4]
+	(No symbol) [0x010704E3]
+	(No symbol) [0x010B83D7]
+	(No symbol) [0x010B872B]
+	(No symbol) [0x01101002]
+	(No symbol) [0x010DD014]
+	(No symbol) [0x010FE778]
+	(No symbol) [0x010DCDC6]
+	(No symbol) [0x010ABDE9]
+	(No symbol) [0x010AD124]
+	GetHandleVerifier [0x01504373+3185251]
+	GetHandleVerifier [0x0152291A+3309578]
+	GetHandleVerifier [0x0151CF42+3286578]
+	GetHandleVerifier [0x01297AE0+643536]
+	(No symbol) [0x0119A20D]
+	(No symbol) [0x011970B8]
+	(No symbol) [0x01197257]
+	(No symbol) [0x01189E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-01 17:18:34 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 250, in automate_instagram_post
+    click_accesbility = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01200B43+25139]
+	(No symbol) [0x011913F4]
+	(No symbol) [0x010704E3]
+	(No symbol) [0x010B83D7]
+	(No symbol) [0x010B872B]
+	(No symbol) [0x01101002]
+	(No symbol) [0x010DD014]
+	(No symbol) [0x010FE778]
+	(No symbol) [0x010DCDC6]
+	(No symbol) [0x010ABDE9]
+	(No symbol) [0x010AD124]
+	GetHandleVerifier [0x01504373+3185251]
+	GetHandleVerifier [0x0152291A+3309578]
+	GetHandleVerifier [0x0151CF42+3286578]
+	GetHandleVerifier [0x01297AE0+643536]
+	(No symbol) [0x0119A20D]
+	(No symbol) [0x011970B8]
+	(No symbol) [0x01197257]
+	(No symbol) [0x01189E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-01 17:23:31 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 285, in automate_instagram_post
+    advance_option = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01200B43+25139]
+	(No symbol) [0x011913F4]
+	(No symbol) [0x010704E3]
+	(No symbol) [0x010B83D7]
+	(No symbol) [0x010B872B]
+	(No symbol) [0x01101002]
+	(No symbol) [0x010DD014]
+	(No symbol) [0x010FE778]
+	(No symbol) [0x010DCDC6]
+	(No symbol) [0x010ABDE9]
+	(No symbol) [0x010AD124]
+	GetHandleVerifier [0x01504373+3185251]
+	GetHandleVerifier [0x0152291A+3309578]
+	GetHandleVerifier [0x0151CF42+3286578]
+	GetHandleVerifier [0x01297AE0+643536]
+	(No symbol) [0x0119A20D]
+	(No symbol) [0x011970B8]
+	(No symbol) [0x01197257]
+	(No symbol) [0x01189E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-01 18:04:25 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\Location_finder\auto_posting.py", line 305, in automate_instagram_post
+    checkbox_element = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01200B43+25139]
+	(No symbol) [0x011913F4]
+	(No symbol) [0x010704E3]
+	(No symbol) [0x010B83D7]
+	(No symbol) [0x010B872B]
+	(No symbol) [0x01101002]
+	(No symbol) [0x010DD014]
+	(No symbol) [0x010FE778]
+	(No symbol) [0x010DCDC6]
+	(No symbol) [0x010ABDE9]
+	(No symbol) [0x010AD124]
+	GetHandleVerifier [0x01504373+3185251]
+	GetHandleVerifier [0x0152291A+3309578]
+	GetHandleVerifier [0x0151CF42+3286578]
+	GetHandleVerifier [0x01297AE0+643536]
+	(No symbol) [0x0119A20D]
+	(No symbol) [0x011970B8]
+	(No symbol) [0x01197257]
+	(No symbol) [0x01189E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-04 11:48:44 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\meta_autometion.py", line 66, in automate_meta_post
+    username_input = wait.until(
+        EC.presence_of_element_located((By.NAME, "username"))
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006C0B43+25139]
+	(No symbol) [0x006513F4]
+	(No symbol) [0x005304E3]
+	(No symbol) [0x005783D7]
+	(No symbol) [0x0057872B]
+	(No symbol) [0x005C1002]
+	(No symbol) [0x0059D014]
+	(No symbol) [0x005BE778]
+	(No symbol) [0x0059CDC6]
+	(No symbol) [0x0056BDE9]
+	(No symbol) [0x0056D124]
+	GetHandleVerifier [0x009C4373+3185251]
+	GetHandleVerifier [0x009E291A+3309578]
+	GetHandleVerifier [0x009DCF42+3286578]
+	GetHandleVerifier [0x00757AE0+643536]
+	(No symbol) [0x0065A20D]
+	(No symbol) [0x006570B8]
+	(No symbol) [0x00657257]
+	(No symbol) [0x00649E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-04 12:07:50 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\meta_autometion.py", line 81, in automate_meta_post
+    driver.switch_to.window(main_window)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\switch_to.py", line 133, in window
+    self._w3c_window(window_name)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\switch_to.py", line 141, in _w3c_window
+    send_handle(window_name)
+    ~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\switch_to.py", line 137, in send_handle
+    self._driver.execute(Command.SWITCH_TO_WINDOW, {"handle": h})
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x006C0B43+25139]
+	(No symbol) [0x006513F4]
+	(No symbol) [0x005304E3]
+	(No symbol) [0x0051E8D8]
+	(No symbol) [0x0051F92D]
+	(No symbol) [0x00530EF3]
+	(No symbol) [0x0050F2A5]
+	(No symbol) [0x005ACB46]
+	(No symbol) [0x0059CF93]
+	(No symbol) [0x0056BDE9]
+	(No symbol) [0x0056D124]
+	GetHandleVerifier [0x009C4373+3185251]
+	GetHandleVerifier [0x009E291A+3309578]
+	GetHandleVerifier [0x009DCF42+3286578]
+	GetHandleVerifier [0x00757AE0+643536]
+	(No symbol) [0x0065A20D]
+	(No symbol) [0x006570B8]
+	(No symbol) [0x00657257]
+	(No symbol) [0x00649E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-04 12:30:15 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\meta_autometion.py", line 52, in automate_meta_post
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_element_located((By.XPATH, "//div[@aria-label='Facebook']"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006C0B43+25139]
+	(No symbol) [0x006513F4]
+	(No symbol) [0x005304E3]
+	(No symbol) [0x005783D7]
+	(No symbol) [0x0057872B]
+	(No symbol) [0x005C1002]
+	(No symbol) [0x0059D014]
+	(No symbol) [0x005BE778]
+	(No symbol) [0x0059CDC6]
+	(No symbol) [0x0056BDE9]
+	(No symbol) [0x0056D124]
+	GetHandleVerifier [0x009C4373+3185251]
+	GetHandleVerifier [0x009E291A+3309578]
+	GetHandleVerifier [0x009DCF42+3286578]
+	GetHandleVerifier [0x00757AE0+643536]
+	(No symbol) [0x0065A20D]
+	(No symbol) [0x006570B8]
+	(No symbol) [0x00657257]
+	(No symbol) [0x00649E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-06 13:43:51 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\insta_autocomment.py", line 164, in automate_instagram_comment
+    next_post = wait.until(
+        EC.element_to_be_clickable(
+    ...<4 lines>...
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00EF0B43+25139]
+	(No symbol) [0x00E813F4]
+	(No symbol) [0x00D604E3]
+	(No symbol) [0x00DA83D7]
+	(No symbol) [0x00DA872B]
+	(No symbol) [0x00DF1002]
+	(No symbol) [0x00DCD014]
+	(No symbol) [0x00DEE778]
+	(No symbol) [0x00DCCDC6]
+	(No symbol) [0x00D9BDE9]
+	(No symbol) [0x00D9D124]
+	GetHandleVerifier [0x011F4373+3185251]
+	GetHandleVerifier [0x0121291A+3309578]
+	GetHandleVerifier [0x0120CF42+3286578]
+	GetHandleVerifier [0x00F87AE0+643536]
+	(No symbol) [0x00E8A20D]
+	(No symbol) [0x00E870B8]
+	(No symbol) [0x00E87257]
+	(No symbol) [0x00E79E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+
+
+
+2025-03-07 11:57:17 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\insta_autocomment.py", line 141, in automate_instagram_comment
+    comment_box.send_keys(comment_text)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 303, in send_keys
+    self._execute(
+    ~~~~~~~~~~~~~^
+        Command.SEND_KEYS_TO_ELEMENT, {"text": "".join(keys_to_typing(value)), "value": keys_to_typing(value)}
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 572, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=133.0.6943.143); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00310B43+25139]
+	(No symbol) [0x002A13F4]
+	(No symbol) [0x001804E3]
+	(No symbol) [0x00186F01]
+	(No symbol) [0x0018900A]
+	(No symbol) [0x00189087]
+	(No symbol) [0x001C8FFA]
+	(No symbol) [0x001C9081]
+	(No symbol) [0x001C0A3D]
+	(No symbol) [0x001ECFCC]
+	(No symbol) [0x001BD9A4]
+	(No symbol) [0x001ED244]
+	(No symbol) [0x0020E778]
+	(No symbol) [0x001ECDC6]
+	(No symbol) [0x001BBDE9]
+	(No symbol) [0x001BD124]
+	GetHandleVerifier [0x00614373+3185251]
+	GetHandleVerifier [0x0063291A+3309578]
+	GetHandleVerifier [0x0062CF42+3286578]
+	GetHandleVerifier [0x003A7AE0+643536]
+	(No symbol) [0x002AA20D]
+	(No symbol) [0x002A70B8]
+	(No symbol) [0x002A7257]
+	(No symbol) [0x00299E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+	(No symbol) [0x00000000]
+
+
+
+2025-03-07 12:24:29 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\insta_autocomment.py", line 135, in automate_instagram_comment
+    comment_box = wait.until(
+        EC.presence_of_element_located(
+            (By.XPATH, "//textarea[@aria-label='Add a comment…']")
+        )
+    )
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00310B43+25139]
+	(No symbol) [0x002A13F4]
+	(No symbol) [0x001804E3]
+	(No symbol) [0x001C83D7]
+	(No symbol) [0x001C872B]
+	(No symbol) [0x00211002]
+	(No symbol) [0x001ED014]
+	(No symbol) [0x0020E778]
+	(No symbol) [0x001ECDC6]
+	(No symbol) [0x001BBDE9]
+	(No symbol) [0x001BD124]
+	GetHandleVerifier [0x00614373+3185251]
+	GetHandleVerifier [0x0063291A+3309578]
+	GetHandleVerifier [0x0062CF42+3286578]
+	GetHandleVerifier [0x003A7AE0+643536]
+	(No symbol) [0x002AA20D]
+	(No symbol) [0x002A70B8]
+	(No symbol) [0x002A7257]
+	(No symbol) [0x00299E00]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x776AC0CB+107]
+	RtlClearBits [0x776AC04F+191]
+	(No symbol) [0x00000000]
+
+
+
+2025-03-19 13:11:13 - Traceback (most recent call last):
+  File "c:\Users\PcHelps\Documents\Python\insta_autocomment.py", line 100, in automate_instagram_comment
+    search_button.click()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 119, in click
+    self._execute(Command.CLICK_ELEMENT)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 572, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\PcHelps\Documents\Python\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <div class="x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1">...</div> is not clickable at point (36, 178). Other element would receive the click: <div class="x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k x3l4zpa" style="--fds-black: black; --fds-black-alpha-05: rgba(0, 0, 0, 0.05); --fds-black-alpha-10: rgba(0, 0, 0, 0.1); --fds-black-alpha-15: rgba(0, 0, 0, 0.15); --fds-black-alpha-20: rgba(0, 0, 0, 0.2); --fds-black-alpha-30: rgba(0, 0, 0, 0.3); --fds-black-alpha-40: rgba(0, 0, 0, 0.4); --fds-black-alpha-50: rgba(0, 0, 0, 0.5); --fds-black-alpha-60: rgba(0, 0, 0, 0.6); --fds-black-alpha-80: rgba(0, 0, 0, 0.8); --fds-blue-05: black; --fds-blue-30: black; --fds-blue-40: black; --fds-blue-60: black; --fds-blue-70: black; --fds-blue-80: black; --fds-button-text: black; --fds-comment-background: black; --fds-dark-mode-gray-35: black; --fds-dark-mode-gray-50: black; --fds-dark-mode-gray-70: black; --fds-dark-mode-gray-80: black; --fds-dark-mode-gray-90: black; --fds-dark-mode-gray-100: black; --fds-gray-00: black; --fds-gray-05: black; --fds-gray-10: black; --fds-gray-20: black; --fds-gray-25: black; --fds-gray-30: black; --fds-gray-45: black; --fds-gray-70: black; --fds-gray-80: black; --fds-gray-90: black; --fds-gray-100: black; --fds-green-55: black; --fds-green-65: black; --fds-highlight: black; --fds-highlight-cell-background: black; --fds-primary-icon: white; --fds-primary-text: white; --fds-red-55: black; --fds-soft: cubic-bezier(.08,.52,.52,1); --fds-spectrum-aluminum-tint-70: black; --fds-spectrum-blue-gray-tint-70: black; --fds-spectrum-cherry: black; --fds-spectrum-cherry-tint-70: black; --fds-spectrum-grape-tint-70: black; --fds-spectrum-grape-tint-90: black; --fds-spectrum-lemon-dark-1: black; --fds-spectrum-lemon-tint-70: black; --fds-spectrum-lime: black; --fds-spectrum-lime-tint-70: black; --fds-spectrum-orange-tint-70: black; --fds-spectrum-orange-tint-90: black; --fds-spectrum-seafoam-tint-70: black; --fds-spectrum-slate-dark-2: black; --fds-spectrum-slate-tint-70: black; --fds-spectrum-teal: black; --fds-spectrum-teal-dark-1: black; --fds-spectrum-teal-dark-2: black; --fds-spectrum-teal-tint-70: black; --fds-spectrum-teal-tint-90: black; --fds-spectrum-tomato: black; --fds-spectrum-tomato-tint-30: black; --fds-spectrum-tomato-tint-90: black; --fds-strong: cubic-bezier(.12,.8,.32,1); --fds-unified-blue-35: black; --fds-unified-gray-20: black; --fds-white: black; --fds-white-alpha-05: rgba(255, 255, 255, 0.05); --fds-white-alpha-10: rgba(255, 255, 255, 0.1); --fds-white-alpha-20: rgba(255, 255, 255, 0.2); --fds-white-alpha-30: rgba(255, 255, 255, 0.3); --fds-white-alpha-40: rgba(255, 255, 255, 0.4); --fds-white-alpha-50: rgba(255, 255, 255, 0.5); --fds-white-alpha-60: rgba(255, 255, 255, 0.6); --fds-white-alpha-80: rgba(255, 255, 255, 0.8); --fds-yellow-20: black; --accent: #F1F4F7; --always-white: #FFFFFF; --always-black: #000000; --always-dark-gradient: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6)); --always-dark-overlay: rgba(0, 0, 0, 0.4); --always-light-overlay: rgba(255, 255, 255, 0.4); --always-gray-40: #65676B; --always-gray-75: #BCC0C4; --always-gray-95: #F0F2F5; --attachment-footer-background: rgba(255, 255, 255, 0.1); --background-deemphasized: #0A1317; --badge-background-color-blue: var(--accent); --badge-background-color-dark-gray: var(--secondary-icon); --badge-background-color-gray: var(--disabled-icon); --badge-background-color-green: var(--positive); --badge-background-color-light-blue: var(--highlight-bg); --badge-background-color-red: var(--notification-badge); --badge-background-color-yellow: var(--base-lemon); --base-blue: #1877F2; --base-cherry: #F3425F; --base-grape: #9360F7; --base-lemon: #F7B928; --base-lime: #45BD62; --base-pink: #FF66BF; --base-seafoam: #54C7EC; --base-teal: #2ABBA7; --base-tomato: #FB724B; --text-badge-info-background: #042F97; --text-badge-success-background: #09441F; --text-badge-attention-background: #5D2E04; --text-badge-critical-background: #7B0210; --blue-link: #4BA9FE; --border-focused: #A4B0BC; --card-background: #152127; --card-background-flat: #152127; --comment-background: rgba(255, 255, 255, 0.1); --comment-footer-background: #4E4F50; --dataviz-primary-1: rgb(0,174,143); --disabled-button-background: rgba(255, 255, 255, 0.2); --disabled-button-text: rgba(255, 255, 255, 0.3); --disabled-icon: #5D6C7B; --disabled-text: #5D6C7B; --divider: #3D4F5C; --event-date: #FB7D87; --fb-wordmark: #FFFFFF; --fb-logo: #0866FF; --filter-accent: invert(40%) sepia(52%) saturate(200%) saturate(200%) saturate(200%) saturate(189%) hue-rotate(191deg) brightness(103%) contrast(102%); --filter-always-white: invert(100%); --filter-disabled-icon: invert(100%) opacity(30%); --filter-placeholder-icon: invert(59%) sepia(11%) saturate(200%) saturate(135%) hue-rotate(176deg) brightness(96%) contrast(94%); --filter-primary-accent: invert(40%) sepia(52%) saturate(200%) saturate(200%) saturate(200%) saturate(189%) hue-rotate(191deg) brightness(103%) contrast(102%); --filter-primary-icon: invert(89%) sepia(6%) hue-rotate(185deg); --filter-secondary-button-icon-on-media: invert(100%); --filter-secondary-icon: invert(62%) sepia(98%) saturate(12%) hue-rotate(175deg) brightness(90%) contrast(96%); --filter-warning-icon: invert(77%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(128%) hue-rotate(359deg) brightness(102%) contrast(107%); --filter-blue-link-icon: invert(73%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(103.25%) hue-rotate(189deg) brightness(101%) contrast(101%); --filter-positive: invert(37%) sepia(61%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(115%) hue-rotate(91deg) brightness(97%) contrast(105%); --filter-primary-deemphasized-button-icon: brightness(0) saturate(100%) invert(63%) sepia(20%) saturate(1290%) hue-rotate(185deg) brightness(107%) contrast(101%); --filter-negative: invert(25%) sepia(33%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(110%) hue-rotate(345deg) brightness(132%) contrast(96%); --focus-ring-blue: #1877F2; --glimmer-spinner-icon: white; --hero-banner-background: #E85D07; --hosted-view-selected-state: #DDE2E8; --highlight-bg: rgba(24, 119, 242, .31); --hover-overlay: rgba(255, 255, 255, 0.1); --inverse-text: #0A1317; --list-cell-chevron: #A4B0BC; --media-hover: rgba(68, 73, 80, 0.15); --media-inner-border: rgba(241, 244, 247, 0.1); --media-outer-border: #33363A; --media-pressed: rgba(255, 255, 255, 0.3); --messenger-card-background: #242526; --messenger-card-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.3); --mwp-header-background-color: var(--messenger-card-background); --mwp-header-button-color: var(--accent); --mwp-message-row-background: var(--messenger-card-background); --messenger-reply-background: #18191A; --overlay-alpha-80: rgba(0, 0, 0, 0.6); --overlay-on-media: rgba(0, 0, 0, 0.7); --nav-bar-background: rgba(0,0,0,0.00); --popover-card-background: var(--card-background); --nav-bar-background-gradient: linear-gradient(to top, #242526, rgba(36,37,38,.9), rgba(36,37,38,.7), rgba(36,37,38,.4), rgba(36,37,38,0)); --nav-bar-background-gradient-wash: linear-gradient(to top, #18191A, rgba(24,25,26,.9), rgba(24,25,26,.7), rgba(24,25,26,.4), rgba(24,25,26,0)); --negative: #FB7D87; --negative-background: hsl(350, 87%, 55%, 20%); --new-notification-background: rgba(255, 255, 255, 0.1); --non-media-pressed: rgba(255, 255, 255, 0.2); --non-media-pressed-on-dark: rgba(255, 255, 255, 0.3); --notification-badge: #FB7D87; --placeholder-icon: #96A6B4; --placeholder-image: #3D4F5C; --placeholder-text: #96A6B4; --placeholder-text-on-media: #CCD3DB; --popover-background: #152127; --positive: #3CBC22; --positive-background: #1F3520; --press-overlay: rgba(255, 255, 255, 0.2); --primary-button-background: #0064E0; --primary-button-icon: #F1F4F7; --primary-button-pressed: #77A7FF; --primary-button-text: #F1F4F7; --primary-deemphasized-button-background: rgba(0,0,0,0.00); --primary-deemphasized-button-pressed: rgb(255,255,255,.05); --primary-deemphasized-button-pressed-overlay: rgb(255,255,255,.15); --primary-deemphasized-button-text: #0A1317; --primary-icon: #F1F4F7; --primary-text: #F1F4F7; --primary-text-on-media: #FFFFFF; --primary-web-focus-indicator: #D24294; --progress-ring-neutral-background: rgba(255, 255, 255, 0.2); --progress-ring-neutral-foreground: #ffffff; --progress-ring-on-media-background: rgba(255, 255, 255, 0.2); --progress-ring-on-media-foreground: rgb(255,255,255); --progress-ring-blue-background: rgba(45, 136, 255, 0.2); --progress-ring-blue-foreground: hsl(214, 100%, 59%); --progress-ring-disabled-background: rgba(122,125,130, 0.2); --progress-ring-disabled-foreground: #7A7D82; --rating-star-active: #FF9831; --scroll-thumb: rgba(255, 255, 255, 0.3); --scroll-shadow: 0 0px 16px 0 rgba(52,72,84,0.05); --secondary-button-background: rgba(21, 33, 39, 0.2); --secondary-button-background-floating: #4B4C4F; --secondary-button-background-on-dark: rgba(255, 255, 255, 0.4); --secondary-button-pressed: rgba(0,0,0,0.00); --secondary-button-stroke: #445664; --secondary-button-text: #F1F4F7; --secondary-icon: #96A6B4; --secondary-text: #96A6B4; --secondary-text-on-media: #CCD3DB; --section-header-text: #BCC0C4; --shadow-1: rgba(0, 0, 0, 0.1); --shadow-2: rgba(0, 0, 0, 0.2); --shadow-5: rgba(0, 0, 0, 0.5); --shadow-8: rgba(0, 0, 0, 0.8); --shadow-base: 0 1px 2px var(--shadow-2); --shadow-elevated: 0px 4px 12px rgba(10, 19, 23, 0.12); --shadow-emphasis: 0 2px 12px var(--shadow-2); --shadow-inset: rgba(255, 255, 255, 0.05); --shadow-on-media: 0px 0px 1px rgba(0, 0, 0, 0.62); --shadow-persistent: 0px 6px 16px rgba(10, 19, 23, 0.16); --shadow-primary: 0px 0px 0px rgba(255, 255, 255, 0); --shadow-responsive: 0px 8px 16px 0px rgba(0, 0, 0, 0.1); --surface-background: #152127; --switch-active: #0082FB; --switch-inactive: #5D6C7B; --switch-unchecked-background-color: #6F7276; --text-highlight: #4BA9FE; --input-background: rgba(21, 33, 39, 0.2); --input-background-hover: var(--input-background); --input-background-warn-hover: hsla(var(--warning-h), var(--warning-s), var(--warning-l), 0.05); --input-background-error-hover: hsla(var(--negative-h), var(--negative-s), var(--negative-l), 0.05); --input-background-active: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.05); --input-background-warn-active: hsla(var(--warning-h), var(--warning-s), var(--warning-l), 0.05); --input-background-error-active: hsla(var(--negative-h), var(--negative-s), var(--negative-l), 0.05); --input-background-disabled: #18191A; --input-border-color: #3E4042; --input-border-color-hover: var(--placeholder-text); --input-label-color-highlighted: hsl(214, 100%, 59%); --input-label-color-inside: var(--secondary-text); --input-label-color-error: var(--negative); --input-label-color-disabled: var(--disabled-text); --text-input-outside-label: #FFFFFF; --toast-background: #283943; --toast-text: #FFFFFF; --toast-text-link: #4BA9FE; --toast-border-color: transparent; --toast-border-style: none; --toast-border-width: 0px; --toggle-active-background: #F1F4F7; --toggle-active-icon: #0082FB; --toggle-active-text: #0A1317; --toggle-button-active-background: #E6F2FF; --tooltip-background: #25363F; --tooltip-box-shadow: none; --popover-border-color: transparent; --wash: #3E4042; --web-wash: #152127; --warning: #D69804; --chat-bubble-emphasis-ring-after: white; --chat-bubble-emphasis-ring-before: black; --chat-text-blockquote-color-background-line: rgba(255, 255, 255, 0.19); --chat-text-blockquote-color-text-primary-media: rgba(255, 255, 255, 0.7); --chat-incoming-message-bubble-background-color: #303030; --chat-outgoing-message-bubble-background-color: var(--accent); --chat-replied-message-background-color: rgba(255, 255, 255, 0.12); --radio-border-color: var(--primary-icon); --radio-border-color-disabled: var(--disabled-button-background); --radio-border-color-selected: var(--accent); --radio-checked-icon-color: var(--accent); --radio-checked-icon-color-disabled: var(--disabled-button-background); --dialog-anchor-vertical-padding: 32px; --header-height: 0px; --global-panel-width: 0px; --global-panel-width-expanded: 0px; --alert-banner-corner-radius: 16px; --button-corner-radius: 22px; --button-corner-radius-medium: 18px; --button-corner-radius-large: 12px; --button-height-large: 44px; --button-height-medium: 36px; --button-padding-horizontal-large: 20px; --button-padding-horizontal-medium: 16px; --button-padding-icon-only: 16px; --button-icon-padding-large: 16px; --button-icon-padding-medium: 12px; --button-inner-icon-spacing-large: 4px; --button-inner-icon-spacing-medium: 3px; --blueprint-button-height-medium: 40px; --blueprint-button-height-large: 48px; --card-corner-radius: 16px; --card-box-shadow: 0 8px 20px 0  var(--shadow-2), 0 2px 4px 0 var(--shadow-1); --card-padding-horizontal: 16px; --card-padding-vertical: 16px; --chip-corner-radius: 8px; --comment-bubble: 18px; --dialog-corner-radius: 32px; --glimmer-corner-radius: 16px; --image-corner-radius: 16px; --infochip-medium-radius: 12px; --input-corner-radius: 16px; --input-border-width: 1px; --nav-list-cell-corner-radius: 16px; --list-cell-corner-radius: 16px; --list-cell-min-height: 52px; --list-cell-padding-vertical: 16px; --list-cell-padding-vertical-with-addon: 12px; --menu-base-list-item-padding-horizontal: 8px; --menu-base-list-item-padding-vertical: 12px; --menu-base-size-full-margin-end: 48px; --menu-item-base-margin-horizontal: 8px; --menu-item-base-margin-vertical: 0px; --menu-item-base-padding-horizontal: 8px; --menu-item-base-overlay-radius: 4px; --menu-item-base-padding-vertical: 12px; --menu-item-base-with-icon-padding-horizontal: var(--menu-item-base-padding-horizontal); --separator-menu-item-margin-horizontal: 16px; --separator-menu-item-margin-vertical: 4px; --nav-list-cell-min-height: 52px; --nav-list-cell-padding-vertical: 16px; --nav-list-cell-padding-vertical-with-addon: 12px; --nux-card-body-padding-end: 24px; --page-footer-padding-vertical: 28px; --popover-border-style: none; --popover-border-width: 0px; --section-header-addOnEnd-margin-horizontal: 8px; --section-header-addOnStart-margin-horizontal: 12px; --section-header-addOnEnd-button-padding-horizontal: 0px; --section-header-addOnEnd-button-padding-vertical: 0px; --section-header-padding-vertical: 16px; --section-header-subtitle-margin-vertical: 14px; --section-header-subtitle-with-addOnEnd-margin-vertical: 6px; --tab-height: 60px; --tab-icon-padding-end: 0px; --tab-text-icon-gap: 4px; --tab-underline-color: transparent; --tab-underline-height: 3px; --text-badge-corner-radius: 20px; --text-badge-padding-horizontal: 8px; --text-badge-padding-vertical: 6px; --text-input-multi-padding-between-text-scrollbar: 16px; --text-input-multi-padding-scrollbar: 8px; --text-input-caption-margin-top: 12px; --text-input-padding-vertical: 10px; --toast-addon-padding-horizontal: 6px; --toast-addon-padding-vertical: 0px; --toast-container-max-width: 100%; --toast-container-min-width: 320px; --toast-container-padding-horizontal: 14px; --toast-container-padding-vertical: 16px; --toast-corner-radius: 16px; --toaster-view-max-width: 328px; --tooltip-corner-radius: 16px; --typeahead-list-outer-padding-vertical: 8px; --fds-animation-enter-exit-in: cubic-bezier(0.14, 1, 0.34, 1); --fds-animation-enter-exit-out: cubic-bezier(0.45, 0.1, 0.2, 1); --fds-animation-swap-shuffle-in: cubic-bezier(0.14, 1, 0.34, 1); --fds-animation-swap-shuffle-out: cubic-bezier(0.45, 0.1, 0.2, 1); --fds-animation-move-in: cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-move-out: cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-expand-collapse-in: cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-expand-collapse-out: cubic-bezier(0.17, 0.17, 0, 1); --fds-animation-passive-move-in: cubic-bezier(0.5, 0, 0.1, 1); --fds-animation-passive-move-out: cubic-bezier(0.5, 0, 0.1, 1); --fds-animation-quick-move-in: cubic-bezier(0.1, 0.9, 0.2, 1); --fds-animation-quick-move-out: cubic-bezier(0.1, 0.9, 0.2, 1); --fds-animation-fade-in: cubic-bezier(0, 0, 1, 1); --fds-animation-fade-out: cubic-bezier(0, 0, 1, 1); --fds-duration-extra-extra-short-in: 100ms; --fds-duration-extra-extra-short-out: 100ms; --fds-duration-extra-short-in: 200ms; --fds-duration-extra-short-out: 150ms; --fds-duration-short-in: 280ms; --fds-duration-short-out: 200ms; --fds-duration-medium-in: 400ms; --fds-duration-medium-out: 350ms; --fds-duration-long-in: 500ms; --fds-duration-long-out: 350ms; --fds-duration-extra-long-in: 1000ms; --fds-duration-extra-long-out: 1000ms; --fds-duration-none: 0ms; --fds-fast: 200ms; --fds-slow: 400ms; --font-family-apple: system-ui, -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif; --font-family-code: ui-monospace, Menlo, Consolas, Monaco, monospace; --font-family-default: Helvetica, Arial, sans-serif; --font-family-segoe: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif; --body-font-family: Optimistic; --body-font-size: 0.9375rem; --body-font-weight: 400; --body-line-height: 1.2667; --body-emphasized-font-family: Optimistic; --body-emphasized-font-size: 0.9375rem; --body-emphasized-font-weight: 700; --body-emphasized-line-height: 1.2667; --headline1-font-family: Optimistic; --headline1-font-size: 1.5rem; --headline1-font-weight: 600; --headline1-line-height: 1.1667; --headline2-font-family: Optimistic; --headline2-font-size: 1.5rem; --headline2-font-weight: 600; --headline2-line-height: 1.1667; --headline3-font-family: Optimistic; --headline3-font-size: 1.0625rem; --headline3-font-weight: 600; --headline3-line-height: 1.2941; --meta-font-family: Optimistic; --meta-font-size: 0.8125rem; --meta-font-weight: 400; --meta-line-height: 1.3077; --meta-emphasized-font-family: Optimistic; --meta-emphasized-font-size: 0.8125rem; --meta-emphasized-font-weight: 700; --meta-emphasized-line-height: 1.3077; --primary-label-font-family: Optimistic; --primary-label-font-size: 0.9375rem; --primary-label-font-weight: 500; --primary-label-line-height: 1.2667; --secondary-label-font-family: Optimistic; --secondary-label-font-size: 0.8125rem; --secondary-label-font-weight: 500; --secondary-label-line-height: 1.3077; --tertiary-label-font-family: Optimistic; --tertiary-label-font-size: 0.6875rem; --tertiary-label-font-weight: 500; --tertiary-label-line-height: 1.4545; --text-input-field-font-family: Optimistic; --text-input-field-font-size: 0.9375rem; --text-input-field-font-stretch: 100%; --text-input-field-font-weight: 500; --text-input-field-line-height: 1.2667; --text-input-label-font-family: Optimistic; --text-input-label-font-size: 0.9375rem; --text-input-label-font-size-scale-multiplier: 0.86666666666667; --text-input-label-font-stretch: 100%; --text-input-label-font-weight: 400; --text-input-label-line-height: 1.13334; --messenger-card-min-width: 300px; --messenger-card-max-width: 480px; --messenger-application-max-width: 2560px; --messenger-sidebar-collapsed-width: 44px; --messenger-sidebar-expanded-width: 240px; --messenger-card-corner-radius: 8px; --messenger-card-spacing: 16px; --chat-bubble-padding-vertical: 8px; --chat-bubble-padding-horizontal: 12px; --chat-bubble-border-radius: 18px; --dialog-size-medium-width: 100%; --dialog-size-small-width: 100%; --focus-ring-outline-link: 2px auto var(--focus-ring-blue); --focus-ring-shadow-default: 0 0 0 2px var(--always-white), 0 0 0 4px var(--focus-ring-blue); --focus-ring-shadow-inset: 0 0 0 2px var(--focus-ring-blue) inset, 0 0 0 4px var(--always-white) inset; --glimmer-animation-direction: alternate; --glimmer-animation-duration: 1000ms; --glimmer-animation-timing-function: steps(10, end); --glimmer-opacity-min: 0.25; --glimmer-opacity-max: 1; --radio-checked-icon-size-large: 12px; --radio-checked-icon-size-medium: 12px; --radio-border-width: 2px; --radio-size-large: 24px; --radio-size-medium: 20px; --blue-primary: rgb(0,136,244); --blue-secondary: rgb(235,245,255); --blue-tertiary: rgb(4,59,114); --chartreuse-primary: rgb(106,147,22); --chartreuse-secondary: rgb(226,255,152); --chartreuse-tertiary: rgb(50,65,19); --cyan-primary: rgb(0,142,213); --cyan-secondary: rgb(231,245,255); --cyan-tertiary: rgb(15,63,93); --dataviz-primary-2: rgb(156,219,255); --dataviz-primary-3: rgb(73,156,255); --dataviz-secondary-1: rgb(92,87,210); --dataviz-secondary-2: rgb(142,129,255); --dataviz-secondary-3: rgb(119,45,88); --dataviz-supplementary-1: rgb(253,91,67); --dataviz-supplementary-2: rgb(161,132,0); --dataviz-supplementary-3: rgb(36,131,44); --dataviz-supplementary-4: rgb(232,234,238); --fuschia-primary: rgb(250,45,138); --fuschia-secondary: rgb(255,241,246); --fuschia-tertiary: rgb(118,14,62); --green-primary: rgb(43,154,53); --green-secondary: rgb(227,250,224); --green-tertiary: rgb(26,68,27); --magenta-primary: rgb(215,77,204); --magenta-secondary: rgb(255,239,254); --magenta-tertiary: rgb(96,36,91); --orange-primary: rgb(208,108,20); --orange-secondary: rgb(255,241,239); --orange-tertiary: rgb(94,49,14); --purple-primary: rgb(125,116,255); --purple-secondary: rgb(245,241,255); --purple-tertiary: rgb(55,50,121); --red-primary: rgb(251,60,68); --red-secondary: rgb(255,241,239); --red-tertiary: rgb(118,22,27); --teal-primary: rgb(0,152,124); --teal-secondary: rgb(227,247,241); --teal-tertiary: rgb(10,68,56); --yellow-primary: rgb(161,132,0); --yellow-secondary: rgb(255,246,161); --yellow-tertiary: rgb(72,59,12); --emphasized-card-background-blue-comet: linear-gradient(rgb(0,59,173),rgb(0,10,73)); --emphasized-card-background-green-comet: linear-gradient(rgb(0,82,35),rgb(0,20,11)); --emphasized-card-background-purple-comet: linear-gradient(rgb(66,23,160),rgb(18,3,53)); --emphasized-card-background-teal-comet: linear-gradient(rgb(0,65,75), rgb(0,19,26)); --search-input-background: #1C2B33; --secondary-emphasized-button-stroke: rgb(69,153,255); --stepper-active: #F1F4F7; --stepper-inactive: #5D6C7B; --animation-ambient-default: cubic-bezier(0,0,1,1); --animation-ambient-max: cubic-bezier(0.6,0,0.7,0); --animation-ambient-min: cubic-bezier(0,0.1,0.4,1); --animation-duration-extra-fast-default-in: 100ms; --animation-duration-extra-fast-default-out: 100ms; --animation-duration-extra-fast-max-in: 150ms; --animation-duration-extra-fast-max-out: 150ms; --animation-duration-extra-fast-min-in: 50ms; --animation-duration-extra-fast-min-out: 50ms; --animation-duration-extra-slow-default-in: 1000ms; --animation-duration-extra-slow-default-out: 1000ms; --animation-duration-extra-slow-max-in: 1200ms; --animation-duration-extra-slow-max-out: 1200ms; --animation-duration-extra-slow-min-in: 800ms; --animation-duration-extra-slow-min-out: 800ms; --animation-duration-fast-default-in: 250ms; --animation-duration-fast-default-out: 250ms; --animation-duration-fast-max-in: 300ms; --animation-duration-fast-max-out: 300ms; --animation-duration-fast-min-in: 200ms; --animation-duration-fast-min-out: 200ms; --animation-duration-medium-default-in: 500ms; --animation-duration-medium-default-out: 500ms; --animation-duration-medium-max-in: 600ms; --animation-duration-medium-max-out: 600ms; --animation-duration-medium-min-in: 400ms; --animation-duration-medium-min-out: 400ms; --animation-duration-short-in: 280ms; --animation-duration-short-out: 200ms; --animation-duration-slow-default-in: 2000ms; --animation-duration-slow-default-out: 2000ms; --animation-duration-slow-max-in: 2500ms; --animation-duration-slow-max-out: 2500ms; --animation-duration-slow-min-in: 1500ms; --animation-duration-slow-min-out: 1500ms; --animation-elastic-default-in: cubic-bezier(0.25,1.4,0.5,1); --animation-elastic-default-out: cubic-bezier(0.45,0,0.75,-0.43); --animation-elastic-max: cubic-bezier(0.17,0.89,0.32,1.27); --animation-elastic-min: cubic-bezier(0,1.2,0.4,1); --animation-organic-default: cubic-bezier(0.6,0,0.1,1); --animation-organic-max-in: cubic-bezier(0.9,0,0.1,1); --animation-organic-max-out: cubic-bezier(0.8,0,0.64,1); --animation-organic-min: cubic-bezier(0.64,0,0.67,1); --animation-responsive-default: cubic-bezier(0.1,1,0.36,1); --animation-responsive-max: cubic-bezier(0,1,0.2,1); --animation-responsive-min: cubic-bezier(0.04,0,0,1); --badge-attention-background-color: #5D2E04; --badge-critical-background-color: #7B0210; --badge-informational-background-color: #042F97; --badge-inner-padding-horizontal: 8px; --badge-inner-padding-vertical: 6px; --badge-neutral-background-color: #2B3D46; --badge-success-background-color: #09441F; --body-emphasized-font-stretch: 100%; --body-font-stretch: 100%; --border-unfocused: #3D4F5C; --button-large-corner-radius: 22px; --button-large-height: 44px; --button-large-icon-padding: 16px; --button-large-inner-icon-spacing: 4px; --button-large-padding-horizontal: 20px; --button-medium-corner-radius: 18px; --button-medium-height: 36px; --button-medium-icon-padding: 12px; --button-medium-inner-icon-spacing: 3px; --button-medium-padding-horizontal: 16px; --card-border-color: #3D4F5C; --card-border-width: 1px; --chip-background: rgba(255, 255, 255, 0); --chip-background-selected: #CBD2D9; --display-font-family: Optimistic; --display-font-size: 3rem; --display-font-stretch: 100%; --display-font-weight: 600; --display-line-height: 1.1667; --fb-app-wordmark: #FFFFFF; --glimmer: #BFC7D0; --glimmer-max-opacity: 0.12; --glimmer-min-opacity: 0.03; --glimmer-on-white-background: #BFC7D0; --glimmer-on-white-background-max-opacity: 0.12; --glimmer-on-white-background-min-opacity: 0.03; --gradient-opacity: 1; --headline1-font-stretch: 100%; --headline2-font-stretch: 100%; --headline3-font-stretch: 100%; --list-border-color: #3D4F5C; --list-border-width: 1px; --list-cell-margin-horizontal: 0px; --list-cell-padding-vertical-with-no-addon: 16px; --media-card-corner-radius: 16px; --menu-list-cell-corner-radius: 0px; --meta-emphasized-font-stretch: 100%; --meta-font-stretch: 100%; --nav-list-cell-corner-radius-dense: 12px; --nav-list-cell-margin-horizontal: 16px; --nav-list-cell-margin-horizontal-inner-addon: 16px; --nav-list-cell-min-height-dense: 44px; --nav-list-selected-accent: #5D6C7B; --nav-list-selected-accent-text: #FFFFFF; --overlay-on-surface: rgba(0, 0, 0, 0.6); --primary-destructive-button-background: #D31130; --primary-destructive-button-icon: #FFFFFF; --primary-destructive-button-text: #FFFFFF; --primary-label-font-stretch: 100%; --screen-header-height: 0px; --secondary-destructive-button-background: rgba(21, 33, 39, 0.2); --secondary-destructive-button-icon: #FB7D87; --secondary-destructive-button-stroke: #FB7D87; --secondary-destructive-button-text: #FB7D87; --secondary-label-font-stretch: 100%; --slider-handle: #0082FB; --slider-handle-disabled: #5D6C7B; --slider-track-filled: #0082FB; --slider-track-filled-disabled: #5D6C7B; --slider-track-unfilled: #5D6C7B; --slider-track-unfilled-disabled: #3D4F5C; --tertiary-label-font-stretch: 100%; --text-badge-neutral-background: #2B3D46; --text-input-bar-background: rgba(21, 33, 39, 0.2); --text-input-label-top: 18px; --text-input-min-height: 60px; --tile-tonal-container-background-blue: #000844; --tile-tonal-container-background-elevated: #1C2B33; --tile-tonal-container-background-green: #001608; --tile-tonal-container-background-orange: #270701; --tile-tonal-container-background-purple: #18023E; --tile-tonal-container-background-rose: #2C010C; --tile-tonal-container-background-teal: #01141C; --tile-tonal-container-background-yellow: #220B02; --tile-tonal-icon-blue: #0082FB; --tile-tonal-icon-container-background-blue: #001E75; --tile-tonal-icon-container-background-elevated: #1C2B33; --tile-tonal-icon-container-background-green: #053018; --tile-tonal-icon-container-background-orange: #4E1608; --tile-tonal-icon-container-background-purple: #31067B; --tile-tonal-icon-container-background-rose: #58021E; --tile-tonal-icon-container-background-teal: #062D38; --tile-tonal-icon-container-background-yellow: #451E03; --tile-tonal-icon-green: #0B991F; --tile-tonal-icon-orange: #D66100; --tile-tonal-icon-purple: #856CFF; --tile-tonal-icon-rose: #F63368; --tile-tonal-icon-teal: #0C9293; --tile-tonal-icon-yellow: #B47700; --tile-tonal-text-blue: #0082FB; --tile-tonal-text-green: #0B991F; --tile-tonal-text-orange: #D66100; --tile-tonal-text-purple: #856CFF; --tile-tonal-text-rose: #F63368; --tile-tonal-text-teal: #0C9293; --tile-tonal-text-yellow: #B47700; --toast-text-web: #FFFFFF; --tooltip-padding-horizontal: 16px; --tooltip-padding-vertical: 16px; --ui-background: #0A1317;">...</div>
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00E0B5A3+24387]
+	(No symbol) [0x00D95904]
+	(No symbol) [0x00C70753]
+	(No symbol) [0x00CBEE50]
+	(No symbol) [0x00CBD1F4]
+	(No symbol) [0x00CBAD87]
+	(No symbol) [0x00CBA044]
+	(No symbol) [0x00CAE6D5]
+	(No symbol) [0x00CDD84C]
+	(No symbol) [0x00CAE164]
+	(No symbol) [0x00CDDAC4]
+	(No symbol) [0x00CFF138]
+	(No symbol) [0x00CDD646]
+	(No symbol) [0x00CAC59F]
+	(No symbol) [0x00CAD8E4]
+	GetHandleVerifier [0x0110D883+3179043]
+	GetHandleVerifier [0x01126CF9+3282585]
+	GetHandleVerifier [0x0112167C+3260444]
+	GetHandleVerifier [0x00EA4330+650448]
+	(No symbol) [0x00D9ED0D]
+	(No symbol) [0x00D9BAF8]
+	(No symbol) [0x00D9BC99]
+	(No symbol) [0x00D8E530]
+	BaseThreadInitThunk [0x75BA7BA9+25]
+	RtlInitializeExceptionChain [0x770BC0CB+107]
+	RtlClearBits [0x770BC04F+191]
+
+
