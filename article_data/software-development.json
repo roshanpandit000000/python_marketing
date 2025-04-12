@@ -1,0 +1,128 @@
+[
+  {
+    "category": "software-Development",
+    "article_number": 1,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 2,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 3,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 4,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 5,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 6,
+    "title": "Is AI Coding Cheating? A Tale of Slowpoke and Speedy",
+    "subtitle": "A difference of perspective",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 7,
+    "title": "Stallman’s Shadow to Proprietary Chains: My Journey from College FOSS Enthusiast to the Walled…",
+    "subtitle": "How life and convenience led me away from free software and the renewed search for a middle ground",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 8,
+    "title": "Error handling: We’re doing it all wrong",
+    "subtitle": "How decades of exception-throwing have been making our programs less stable, and what we should be doing instead",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 9,
+    "title": "Ultimate Guide to Writing a High-Quality User Story",
+    "subtitle": "Since a User Story is a core, valuable deliverable in Agile, making a high-quality User Story is critical for a high-performance Agile…",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 10,
+    "title": "The Value Of Being Pedantic In Software Development",
+    "subtitle": "After decades of software engineering, we still call things what they’re not…",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 11,
+    "title": "Structured Query Language — Intuitively and Exhaustively Explained",
+    "subtitle": "Speaking with Data",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 12,
+    "title": "Ignore It For Long Enough And It Will Definitely Go Away",
+    "subtitle": "Dealing with management ideas, HR events, and low value think-ins in modern day software engineering.",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 13,
+    "title": "Why Clean Architecture?",
+    "subtitle": "An intuitive explanation of “why” behind Clean Architecture.",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 14,
+    "title": "Learn Docker in under 15 mins — Not a clickbait ! — Part II",
+    "subtitle": "If you are not a Medium member, you can click here to read the full version of this post for free. Enjoy !",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*059OPey78niBzLZx"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 15,
+    "title": "15 API Design Patterns from Google SRE",
+    "subtitle": "Discover battle-tested strategies that transform fragile implementations into production-grade interfaces. Learn how advanced security…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*EPnI3s0IwJXKuQoa"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 16,
+    "title": "The Ultimate Blockchain Developer Roadmap (2025 Edition)",
+    "subtitle": "The demand for blockchain developers has exploded in recent years, driven by the rapid rise of decentralized finance (DeFi), NFTs, and web3…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Ymd8lTBDvedHwJQ-hME-gA.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 17,
+    "title": "Kubernetes is Overkill — Change My Mind",
+    "subtitle": "Let’s be honest. Kubernetes is cool. It makes you feel like an infrastructure wizard. Pods, deployments, services, ingress, autoscaling —…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*kR12BN5VELgE_o7g"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 18,
+    "title": "From 10 Users to 1 Million: How We Scaled Using DevOps Principles",
+    "subtitle": "When we first launched, we were just a small team of builders, nervously watching the dashboard light up with our first ten users. We…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*pq0h7ycV-CbZHpIR.jpg"
+  }
+]

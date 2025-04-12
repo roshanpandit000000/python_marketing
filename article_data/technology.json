@@ -1,0 +1,772 @@
+[
+  {
+    "category": "technology",
+    "article_number": 1,
+    "title": "Is AI Coding Cheating? A Tale of Slowpoke and Speedy",
+    "subtitle": "A difference of perspective",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QDastKDPXEQYHJpXJeQMOQ.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 2,
+    "title": "Stallman’s Shadow to Proprietary Chains: My Journey from College FOSS Enthusiast to the Walled…",
+    "subtitle": "How life and convenience led me away from free software and the renewed search for a middle ground",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*TmLOH0drZ5V_YC4AF8oErg.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 3,
+    "title": "Why is Every Single Video Game Character So Hungry for Treasure?",
+    "subtitle": "What’s my motivation?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*A-q5KdzLMNJriCesTL9Bpg.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 4,
+    "title": "Musk’s Terraforming Masterplan Has Failed",
+    "subtitle": "Mars? No. Earth.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*ZIaTC6-yjH84uG93"
+  },
+  {
+    "category": "technology",
+    "article_number": 5,
+    "title": "When AIs Start Believing Other AIs’ Hallucinations, We’re F&#%ed",
+    "subtitle": "AI is eating its own made-up tail, and we’re all along for the ride",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RjUjlrTmu-cYn_E84G562Q.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 6,
+    "title": "What Finding Nemo Taught Me About Tech for Good",
+    "subtitle": "You know that bit in Finding Nemo where the Tank Gang hatch their elaborate escape plan?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*hp3pH0iHuD51uHdk"
+  },
+  {
+    "category": "technology",
+    "article_number": 7,
+    "title": "Interstellar Passover",
+    "subtitle": "It is conceivable that the Earth-mass planet Proxima b, which lies in the habitable zone of the nearest star to the Sun, Proxima Centauri…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EG_8duHXnq5N68zGw3tAag.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 8,
+    "title": "A Practical Guide To Fast Fine-Tuning Your LLMs With Unsloth",
+    "subtitle": "Learn to Fine-tune Llama 3 in minutes for medical question-answering with Unsloth using QLoRA",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IjWPczr9orxfeX4TSloJmQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 9,
+    "title": "Structured Query Language — Intuitively and Exhaustively Explained",
+    "subtitle": "Speaking with Data",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HhZuQUmEzjWz2tn3yvhM7w.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 10,
+    "title": "Which Movies Have “Aged Poorly”? A Statistical Analysis",
+    "subtitle": "Which films have not stood the test of time?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*p2htpYUEqySPz1SR.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 11,
+    "title": "Are you really getting the LLM you paid for?",
+    "subtitle": "Auditing model substitution in LLM APIs",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fLsXhWXSfCKc5PtVOeW6FQ.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 12,
+    "title": "Only the Beginning Matters: How the LLM Decides Where to Focus Attention",
+    "subtitle": "Understanding How the First Token Shapes LLM’s Focus and Responses",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*U6uDd1XfGfHWgwMbYe2gzQ.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 13,
+    "title": "Why most technical documentation fails (and how to fix it with inclusive, accessible design)",
+    "subtitle": "By: Thor K. Salehi",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-7xS95PT94-SwVqLvKYBhA.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 14,
+    "title": "The Superintelligent Future: Are We Ready for AI’s Next Leap?",
+    "subtitle": "Explore the existential risks of superintelligent AI and why alignment must guide our next technological leap.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*jPFGES6zOLjU8kwG6VjIlA.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 15,
+    "title": "Divorced from Google, Now Dating an iPhone",
+    "subtitle": "18 Years of BlackBerry Loyalty Meant No iPhones Until My Google Divorce Rewrote the Rules.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*JssytOHvOcMkXEts.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 16,
+    "title": "We Can’t Regulate Tech to Human Speeds — We’ve Tried And Failed Before",
+    "subtitle": "The First Speed Limit Was Set By How Fast a Human Could Walk In Front of a Car",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uaOJrqSSCSsPMVtRehlpUg.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 17,
+    "title": "What Can All Product Managers Learn from Apple’s Misstep With Apple Intelligence?",
+    "subtitle": "3 lessons from Apple’s AI debacle.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zDsBsfDSNMkAPh-aPebXKQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 18,
+    "title": "Why I Switched to the M4 MacBook Air",
+    "subtitle": "And traded in my MacBook Pro",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*s2NSfo-uRHxjXU_Eh6SxUg.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 19,
+    "title": "The McDonaldization of Our World Takes Away Unique Color and Sound",
+    "subtitle": "But there’s opportunity hidden in the grayscale and unoriginal pop music",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eel1xVsKt9GYmTIhevyc4g.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 20,
+    "title": "Pythagoras and the Cult of Numbers",
+    "subtitle": "On the Pythagoreans, their fear of irrational numbers, and the search for universal music.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*5WEdz-A56IqjO7Cp.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 21,
+    "title": "Tariffs, AI, & Big Tech. A Deadly Trio?",
+    "subtitle": "The Harsh Reality AI and Big Tech Face",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cDBkO7OFEY7TfMZ14lICUw.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 22,
+    "title": "Guess Who’s Back (Again)? Measles, Unfortunately.",
+    "subtitle": "“How bad is measles?” in 5 min.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*mTq6sLRH96YqwT0-57N17w.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 23,
+    "title": "Technology Won’t Set Us Free",
+    "subtitle": "Tech’s promise: A future with no more work, easy living, and an end to suffering … Well, that’s not gonna happen!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nymAj7Wx1wTcZtajFJQCJg.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 24,
+    "title": "Hidden Trackers: 5 Ways Your Technology Betrays You",
+    "subtitle": "Let’s talk about Steganography, Fingerprinting & File Metadata",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OZwm_t-z7avjCdgKPiqz2w.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 25,
+    "title": "Why the car horn is the most annoying UX failure on the road",
+    "subtitle": "How a simple safety device became a source of urban stress",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*VeLCEqU6tAyj3fo3TRajZA.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 26,
+    "title": "When constraints sparked creativity",
+    "subtitle": "A 16-bit memory made me reflect on how constraints shaped the most inventive games — and still influence design today.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uT07cWbEP-dTpdIchjcKnA.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 27,
+    "title": "Has no one told you the Earth rotates one extra day every year?",
+    "subtitle": "You’ve probably heard that Earth takes 365 days to orbit the Sun. So far, so good.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*cR781bv4J8GyPCpn"
+  },
+  {
+    "category": "technology",
+    "article_number": 28,
+    "title": "Cosmic Russian Roulette: Death by Dark Energy",
+    "subtitle": "The alarming news from the recent DESI data on the expansion of the Universe is that the energy density of the vacuum might not have been…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MCudzLDeOJovl1XXklcDJg.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 29,
+    "title": "The Beautiful & Strange Collison of John Lennon & Neo-Soul",
+    "subtitle": "When Liam Gallagher, D’Angelo & Hip-Hop collide, it’s proof that Lennon’s music still endures across genres.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Sxl9MCQzxRhZCIPS.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 30,
+    "title": "Why Microwaves Always Mess Up Your Food",
+    "subtitle": "… and the 3 hacks to fix it (without getting killed).",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OabVKfVKmsxZNtN6BPxKKQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 31,
+    "title": "The (Social) Physics of Polarization — Part 1",
+    "subtitle": "Building Models to Understand Social Polarization",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*mKugrVlH1RTwupZa8Bi1CQ.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 32,
+    "title": "Technology Is Making Us Forget How To Get Stuff Done",
+    "subtitle": "The loss of agency is real, and it goes deeper than you might think",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*jtP4-hXyTkzNu9AOpBsGNQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 33,
+    "title": "A Decade Later: The All-nighter that Still Shapes How I Work",
+    "subtitle": "The story of a critical release, a dedicated colleague, and an enduring lesson in ownership at my first job",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bSuarbZieqDq-5aS8uuolA.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 34,
+    "title": "Beware the Crap Gap in Daily Life",
+    "subtitle": "Often, it takes little additional time on a product or service to separate quality from crap. It’s worth that extra effort.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*syQnsaZSymQzNySXTVlO1w.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 35,
+    "title": "Gravitational SETI",
+    "subtitle": "One of the most exciting breakthroughs in astronomy over the past decade was the detection of gravitational waves. Since the days of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ON6R7VFopot1aYju1UL6-w.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 36,
+    "title": "When Do Viewers Get Hooked on a TV Show? A Statistical Analysis",
+    "subtitle": "When do TV viewers become committed fans?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Y16dMf209FuNk5lr.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 37,
+    "title": "One Simple Formula, One Trillion Dollar Impact: The Math of Reciprocal Tariffs",
+    "subtitle": "The surprisingly simple math behind “reciprocal” tariffs and why economists are sounding the alarm",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2sz9znDljlgeUpcIJZCmOw.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 38,
+    "title": "Discover the Anatomy of the AI Mind.",
+    "subtitle": "Anthropic has published one of the most fascinating research papers I’ve read in months (or probably ever), one that dissects the anatomy…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*-u7jDlq7ehO-Sh6l"
+  },
+  {
+    "category": "technology",
+    "article_number": 39,
+    "title": "Is The “AI” Grim Reaper Coming For Your Job?",
+    "subtitle": "Very likely, especially if you’re cranking out busywork or don’t do anything physical in your day job besides walking to meetings.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Z6xSarb-Gc_4NhJaegvjsA.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 40,
+    "title": "Could We Trade AI Like Wheat or Oil? A Wild Idea for Large Language Models",
+    "subtitle": "Photo by Delfino Barboza on Unsplash",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*BdJUmQOHAOi6jTWL"
+  },
+  {
+    "category": "technology",
+    "article_number": 41,
+    "title": "The Algorithmic Gentrification of Your Sunday Roast",
+    "subtitle": "“When mighty roast Beef was the Englishman’s Food, it ennobled our Hearts, and enrichèd our Blood.”",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*FHPMKdRtcJ1Pij9t"
+  },
+  {
+    "category": "technology",
+    "article_number": 42,
+    "title": "The Disappearance of Feeling",
+    "subtitle": "Our growing disinhibition shapes the way we experience the world — understanding its impact is essential.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cWwkb_Nqk5ctxsOk0IB2Ig.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 43,
+    "title": "OpenAI’s Creativity Heist and What Survives",
+    "subtitle": "March 2025, when Ghibli’s soul was outsourced to a prompt that you, I, and millions are eager accomplices. Here’s how the creative economy…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*_DqaJi641HOgLeOD.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 44,
+    "title": "From Monochrome Film to Digital Color Sensors",
+    "subtitle": "A brief look at how modern camera sensors came to be",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HSQ8b1OKFKX_OysLf24BxA.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 45,
+    "title": "Q&A: Kevin Peter Hand, Director of NASA’s Ocean Worlds Lab, Is Ready for a Revolution",
+    "subtitle": "One of the key scientists in our search for life elsewhere in our solar system discusses his work, the intersection of art and science, and…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*-W_d6vSEFO8nm3tE.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 46,
+    "title": "Croissants and Code: French Pastries vs. the AI Apocalypse",
+    "subtitle": "Growing up in France, I learned two fundamental truths: properly pronouncing “croissant” doesn’t involve anything that sounds like…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LJytlIR0oWgRghs6UnEZJg.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 47,
+    "title": "Two Months Undetected: A BEC Scheme Lurking in Plain Sight",
+    "subtitle": "Lessons from a Cyber Threat Defense Manager",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*DBUZcXo9_VqBrlAT"
+  },
+  {
+    "category": "technology",
+    "article_number": 48,
+    "title": "So You Uploaded Your Brain… Now What?",
+    "subtitle": "“Don’t worry, I’ve got this. I am you.”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*S-1XC8KESrQVyfWr7YDKGg.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 49,
+    "title": "How to Create a 4D Hyper-Fractal: The Magic Menger Hyper-Sponge",
+    "subtitle": "The fascinating geometric construct and visualization of a hypercube that confines a fractal four-dimensional Menger sponge—a universal…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*W3pIwKJGFDOC0WjfXv1zeg.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 50,
+    "title": "The shape of design to come",
+    "subtitle": "Design is shifting — again. These are the signals I’m seeing, and where I think we’re headed.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eG5HEHF9VN4jQuqmu3VlVA@2x.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 51,
+    "title": "I Wrote an Extended Kalman Filter for UAV Attitude Estimation — From Scratch in Rust",
+    "subtitle": "Part of my custom Rust-based UAV project, this EKF delivers real-time attitude estimation from raw IMU data using quaternions.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*b2yFqt3gCEOajCsyfx5cuQ.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 52,
+    "title": "Can We Reduce Electricity Emissions By Changing When We Plug-In?",
+    "subtitle": "An exhaustive examination of how time of use affects our carbon footprint to find the best hour to plug in.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*rxt9_PjwzVFktUBH"
+  },
+  {
+    "category": "technology",
+    "article_number": 53,
+    "title": "The Second ‘ChatGPT Moment’ is Here",
+    "subtitle": "ChatGPT’s latest update is already changing the world. Millions already affected, many more to come.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*BwYfdzBCeWWX8NY7"
+  },
+  {
+    "category": "technology",
+    "article_number": 54,
+    "title": "Is the iPad Good Enough to Replace Your Mac? My Real-World Experience as a Developer & Writer",
+    "subtitle": "A deep dive into how the iPad fits into my daily workflow — Why I prefer the iPad over the Mac, 90% of the time. And the moments I don’t.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-3ZvxvpHlSWx2geO5rVrkA.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 55,
+    "title": "Why There’s No Substance Behind Your Sparkle",
+    "subtitle": "Generative AI is technoglitter, the cheap bedazzling of marketing and entertainment with dubious results",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*9JGvIt8M2lVXzNvV"
+  },
+  {
+    "category": "technology",
+    "article_number": 56,
+    "title": "Graph Convolutional Networks — Intuitively and Exhaustively Explained",
+    "subtitle": "Applying AI to Complex Relationships",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eihXVS1N6OuFYJtqymYe7A.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 57,
+    "title": "Detecting AI Content or Playing a Game of Guess?",
+    "subtitle": "Let’s talk about the flawed science behind AI text detection tools and why systems built to spot machines often fail to understand humans.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Uska4ZqPDllQ7jvQMo59ug.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 58,
+    "title": "The Definitive Guide to Homemade PCBs",
+    "subtitle": "The UV Method",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*B0mV95FI4yiQqWXw"
+  },
+  {
+    "category": "technology",
+    "article_number": 59,
+    "title": "AI Will Drive The Cost Of Intelligence To Zero? Not So Fast.",
+    "subtitle": "AI-powered tools bring builders closer to solutions, but not necessarily problems.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*BYIwQ4__83q1izTT"
+  },
+  {
+    "category": "technology",
+    "article_number": 60,
+    "title": "Wow, Who Thought It Made Sense To Compare AI To Old, Dead Poets?",
+    "subtitle": "A study says people like AI poetry better than human poetry but the humans they chose were a problem",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*erYSljNvfAlCPe4oat9nVA.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 61,
+    "title": "Via $400B, Consumer Businesses Face a Reckoning as AI Intermediaries Reshape Profitability",
+    "subtitle": "The explosive growth of AI assistants is rewiring how people discover and search for things. Instead of starting their journeys on Google…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*KOTqiTPbJBpBeRkScsXSig.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 62,
+    "title": "Elon Musk Is Going to Break Social Security",
+    "subtitle": "Is it deliberate or just hubris and ignorance?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*l1zgbZZaFKnkEK-V3qv7BQ.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 63,
+    "title": "Balancing Capacity and Cost for Kubernetes Clusters",
+    "subtitle": "Infinite Choices, but Which Is the Right One?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vUzjPd6O1juoxKqKUVd9Sw.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 64,
+    "title": "I Betrayed My Gaming PC for the Cloud",
+    "subtitle": "Can streaming finally deliver a “next gen” experience?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9GcVRFzl3Egbq-VX1cLhyQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 65,
+    "title": "I Spent a Month With the iPhone 16E (And I’m Not Stopping There)",
+    "subtitle": "AND people still don’t believe I’ve switched",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*TMoBSnRGgGr8UL7wqjKzcA.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 66,
+    "title": "Covert Channel Chronicles: The RAMBO Attack",
+    "subtitle": "At this time in modernity, in the technologically advanced year 2025 of the twenty-first century, Wi-Fi signals are ubiquitous as the…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*iRaOtHMpQs1Jy52z"
+  },
+  {
+    "category": "technology",
+    "article_number": 67,
+    "title": "Why Your Child Can’t Stop Using That App (A Game Designer’s Warning)",
+    "subtitle": "Something mildly infuriating happened in my house last month.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*80vqhWFTtL1rCUn4NffZPg.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 68,
+    "title": "How To Make Your Photos And Videos Look Like Famous Movies",
+    "subtitle": "How I turn my photos from boring to instantly recognisable, and how you can do too with just a click or two. No AI necessary!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uL9092ZMy3VB7is-cdglzQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 69,
+    "title": "The End of Creativity in the Tech Industry",
+    "subtitle": "Are we still creating tech at this point? Or just manufacturing it.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*G7GuHjH8qRD9q3CQ3p7z3A.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 70,
+    "title": "Prepare To Be Probed By Your Extraterrestrial Ultrasound Technician",
+    "subtitle": "It could take minutes, hours, or days.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Nsf1IiSvHlzrKhgWpO1X4A.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 71,
+    "title": "Algorithms, Trade Wars & Sovereignty",
+    "subtitle": "You might not think that algorithms would have an impact on trade & tariffs. Surprisingly, they might well be. In dangerous ways.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*aP7yzYR03Jpf3zBu7ZcJ4A.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 72,
+    "title": "The AI Book Heist: What Authors Need to Know About Meta, LibGen, and Protecting Their Rights",
+    "subtitle": "Oh boy did this one make me angry.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IEbz-VhrR_NxNCVGphQLPw.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 73,
+    "title": "Superhuman AI is Closer Than We Think, for the Wrong Reason!",
+    "subtitle": "A couple of weeks ago, Nobel laureate Demis Hassabis forecasted that artificial intelligence (AI) will match human intelligence within the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LWVaCVprhqE8O-JAKVr3vQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 74,
+    "title": "SpaceX Will Fail",
+    "subtitle": "The company is overstretched and poorly managed.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*FrephjUw6fw4Gu3j"
+  },
+  {
+    "category": "technology",
+    "article_number": 75,
+    "title": "When Your Friend Thinks You Are a Real Hacker",
+    "subtitle": "If you have ever dabbled in cybersecurity, programming, or even just used a terminal in front of a non-tech friend, you’ve probably…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dbc2kmbZSct8lCwXCoazkg.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 76,
+    "title": "Five Minutes to Oblivion: The Achilles’ Heel That Could Bring Down The ‘Titans’",
+    "subtitle": "Tesla, Big Oil, and the crumbling illusion of invincibility",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CC264oayh03GsV-8B6oy4Q.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 77,
+    "title": "What Van Gogh’s Sunflowers Tell Us About Technology And AI",
+    "subtitle": "LEGO’s take on the Van Gogh “Sunflowers” is borderline disappointing. But within a historical context, it becomes an intriguing glimpse…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ON8XoXfR6bqBWJBobGRY7g.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 78,
+    "title": "Foreign Policy Doesn’t Matter to Voters, But Competence Does",
+    "subtitle": "Why Signalgate is a big deal",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zLgvoSm_1NR_tIlnOWkswg.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 79,
+    "title": "Is AI becoming a global race between the tortoise and the hare?",
+    "subtitle": "There’s a race underway between the world’s two major powers to lead AI. But they seem to be moving at different speeds and taking…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*4yAbGrBStRAUTbwPbntsOw.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 80,
+    "title": "Delete Your Privilege: The Hidden Economy of Digital Ghosts",
+    "subtitle": "Ever Googled yourself? Of course you have. We all do it. The digital equivalent of staring at your reflection, except instead of just…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*kFfP2Uh2DbAxUEVX.gif"
+  },
+  {
+    "category": "technology",
+    "article_number": 81,
+    "title": "Nature Cannot Be Ruled in the Court of Public Opinion",
+    "subtitle": "Physics aims to figure out the rules that govern the reality we all share. Once inferred, the laws of physics cannot be broken. A specific…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EoTCXlHc39LjK0J2cXDryQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 82,
+    "title": "The Revolution Will Not Be AI-Prompted",
+    "subtitle": "Maybe this technology isn’t liberatory, after all?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OMN43tg6C3MYYlvuQ1pEjQ.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 83,
+    "title": "The Planet Can’t Afford AI",
+    "subtitle": "Time to put on the brakes",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1H9gYpGTZJ51Mq92cEL76Q.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 84,
+    "title": "Why I think a robot could take my white-collar job",
+    "subtitle": "Australian songwriter Tim Minchin recently gave an off-the-cuff critique of AI in the arts that left me wondering. He asked the audience to…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Spj9aj8PF53K_GUueoWIHg.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 85,
+    "title": "Google Hasn’t Figured This One Thing Out Yet.",
+    "subtitle": "And I’m not sure it even can.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lTH7V75_kuVmlsyYWjR63A.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 86,
+    "title": "On the Infinitude of Twin Primes: A Modular Proof",
+    "subtitle": "A Dynamical Approach to the Infinite Distribution of Twin Primes",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OTUhEyrz5f6g_5_Zli_CFA.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 87,
+    "title": "Which Countries Have the Most Unique Taste in Music? A Statistical Analysis",
+    "subtitle": "Which nations have the most distinct music tastes?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*aBdXPYSPlFYnJ-YB"
+  },
+  {
+    "category": "technology",
+    "article_number": 88,
+    "title": "LaMBDA and the Lobster",
+    "subtitle": "If we accept invertebrates as sentient, why not AI?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*8d2YQJ4DafNyFnTq"
+  },
+  {
+    "category": "technology",
+    "article_number": 89,
+    "title": "I Wish a Slow Death to the Studio Ghibli-AI Trend",
+    "subtitle": "It looks like a large group of netizens have once again been brainwashed into thinking that magic can be mass-produced.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9mRu_NasaxpPL1xLxWylbA.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 90,
+    "title": "Acids to Ashes: The crash of Pan Am flight 160",
+    "subtitle": "A major screw-up with toxic chemicals starts a fatal fire on board a Pan Am cargo plane in Boston, Massachusetts.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*ZJrkK_Nx1zzjKf9K.jpg"
+  },
+  {
+    "category": "technology",
+    "article_number": 91,
+    "title": "Is this the death or dawn of human creativity?",
+    "subtitle": "Should we fear AI as a creativity villain or celebrate it as a creativity companion?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*9GWrzj3-m2cur2BH"
+  },
+  {
+    "category": "technology",
+    "article_number": 92,
+    "title": "“Hello, I’m a Mac.” “And I’m an AI.”",
+    "subtitle": "Apple’s Siri problems present it with an incredible marketing opportunity.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*r7pqAAt5UDc_6GhwT12pgQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 93,
+    "title": "Organized for Antiquity — Software Engineering’s Fundamental Flaw",
+    "subtitle": "Why We’re Organized for a Distant Past and How to Organize for Modernity Instead",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vqGXPmh-wBgoFDU4xnBsow.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 94,
+    "title": "Modern computers are too powerful",
+    "subtitle": "World-leading chips for bang average workloads",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*EH5GfOaXYq_TQ6PF"
+  },
+  {
+    "category": "technology",
+    "article_number": 95,
+    "title": "Does This Android Phone Redefine Value?",
+    "subtitle": "Welcome to my Poco F7 Ultra review!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*aOhSbJuoDAIS5MolsdAKuw.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 96,
+    "title": "Signal is not the place for top secret communications, but it might be the right choice for you —…",
+    "subtitle": "Keeping your chats secure is a good idea, but end-to-end encryption is just the beginning of the list of options to consider when picking…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*aLWS_SKhbFHcxycF.jpg"
+  },
+  {
+    "category": "technology",
+    "article_number": 97,
+    "title": "Would an AI Emulation of Someone’s Brain Be Conscious? — Would it Be an Upload of Their Mind?",
+    "subtitle": "The study of whole brain emulation could help us get a better performing AGI, even if it is not the fastest route to a minimal …",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*CA_vVQYjlqT_a42T"
+  },
+  {
+    "category": "technology",
+    "article_number": 98,
+    "title": "The World’s Strongest Ocean Current Protecting Antarctica Is Failing",
+    "subtitle": "And the responsibility to protect a place where discovery still holds meaning",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SC5eT79MSC3zUxiwFjUTcA.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 99,
+    "title": "Deep-sea Mining Could Threaten Sea Life, Climate — and Us.",
+    "subtitle": "A planned mining method to gather critical minerals from the seafloor could create sediment plumes endangering the food web and climate.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*dkdZVeZhGcsxeKcT.jpg"
+  },
+  {
+    "category": "technology",
+    "article_number": 100,
+    "title": "Twitter Was a Mess. X Is a Disaster.",
+    "subtitle": "The dark side of Twitter (X)",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*aZI6QN1HXisEMWEYoQW2QQ.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 101,
+    "title": "The Future is More Stuff",
+    "subtitle": "Let me tell you about my smartphone…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*nqawuIsgLMg4j5jU"
+  },
+  {
+    "category": "technology",
+    "article_number": 102,
+    "title": "American Hubris",
+    "subtitle": "It won’t end well…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*hD5lQCTN1mfghRnWctKnug.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 103,
+    "title": "Books are the Last Resort for Human Insight",
+    "subtitle": "AI is clogging the internet and soon our bookshelves as well",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2O4j8FirRVPB0L53y9sDsg.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 104,
+    "title": "The Highest-Energy Particles in the Cosmos",
+    "subtitle": "The highest energy particles are so rare and special that they receive a name. In 1991, the most energetic particle ever detected, with an…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*iGOW4dXQD66TxA3-nnsARg.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 105,
+    "title": "We Ruined Our Minds",
+    "subtitle": "Apparently the planet is getting dumber. I know, I know, you don’t need a weatherman to know which way the wind blows and all that. But…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*h7Grzny6LetzxrW_nheL1Q.png"
+  },
+  {
+    "category": "technology",
+    "article_number": 106,
+    "title": "Google to the News Industry: You’re Worthless.",
+    "subtitle": "There’s an old maxim in the news business: Stories in which a dog bites a man are uninteresting. But a man biting a dog? Now that’s worth…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*UIu67c8__OOh1xShpXtmxQ.gif"
+  },
+  {
+    "category": "technology",
+    "article_number": 107,
+    "title": "When My Arctic Backyard (Finally) Gave Up",
+    "subtitle": "The Arctic — once our allie— is under a new, carbon-emitting regime",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*P3HK4b5ch2Oc7hOrbFxfJw.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 108,
+    "title": "Sal Khan and Bill Gates Are Wrong About AI",
+    "subtitle": "What can we learn from a century of failed ed-tech hype?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*ZUVYsC4cIZIMo9mI.jpg"
+  },
+  {
+    "category": "technology",
+    "article_number": 109,
+    "title": "NLP: The Secret Sauce in Irresistible Advertising",
+    "subtitle": "Ever wonder why some ads hook you in seconds while others fade into noise? Turns out, it’s not luck — it’s language. NLP is the secret…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*n8qIW-ob3nsuKviuWb-kWw.jpeg"
+  },
+  {
+    "category": "technology",
+    "article_number": 110,
+    "title": "The Incredible Predictive Power of OpenAI’s New “Deep Research”",
+    "subtitle": "The future, in a cup of coffee",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*A8mHDLGqdobJj9Ihw_LYQQ.jpeg"
+  }
+]

@@ -1,0 +1,709 @@
+[
+  {
+    "category": "cryptocurrency",
+    "article_number": 1,
+    "title": "Querying the Bitcoin Blockchain: A Practical Guide",
+    "subtitle": "Discover how to leverage public data to analyze Bitcoin transactions, UTXOs, and coin age",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*wtGnzlIKHtPrOZhi"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 2,
+    "title": "Knitting Through Space",
+    "subtitle": "The Multiway Hypergraph and Causal Invariance",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DfS8fLOoV_L9ZVL4U_ZzJg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 3,
+    "title": "The Three-Trillion Dollar Industry That No One Understands",
+    "subtitle": "As cryptocurrency continues to grow in popularity, the general ignorance around it has lingered",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*aYKG-FBJOJ-nRD7q.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 4,
+    "title": "Do You Remember When Bitcoin Bought Its First Pizza?",
+    "subtitle": "Today I see why blockchains and cryptocurrencies matter — though I can’t believe I slept through that fateful day.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lpScUniUJsCkT9DYcCISQQ.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 5,
+    "title": "Marc Andreessen and the CFPB: Debunking the Debanking Debunkers",
+    "subtitle": "Assessing Marc Andreessen’s claims regarding the debanking of tech founders and the role of the Consumer Financial Protection Bureau",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*hQ6iXOmG_XZvR_5tPHSv-A.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 6,
+    "title": "Why Your Friends and Family Won’t Talk About Bitcoin During the Holidays",
+    "subtitle": "Trump won the US election. Bitcoin’s the hot topic. Just don’t bring it up in public.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Tfc0dJqerzU1HfQMQjf7Qw.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 7,
+    "title": "Cakepie Response to PancakeSwap’s Tokenomics 3.0 Blog",
+    "subtitle": "Good Governance Matters",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*kpCuHpKB6cEMUKfK"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 8,
+    "title": "The BBC",
+    "subtitle": "Jerome Powell and Hiroki Kuroda became fast friends within the global central banking circuit. Kuroda’s term as governor of the Bank of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*uP-T2fMeubKcHksU.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 9,
+    "title": "#WeeklyRecap of Our Most ICONIC Week Yet",
+    "subtitle": "From 1M Miners to 600% Bonuses, This Isn’t Just an Update — It’s a Movement",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IkdnDla9AJ9GBXLLBnN06A.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 10,
+    "title": "Why the Stock Market Will Collapse in 2025: A Brutally Honest Prediction",
+    "subtitle": "The time has come everything has been set in motion and the rich are prepared.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Le6I7esJTr6BmPeI"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 11,
+    "title": "5 cryptos to buy during this crash",
+    "subtitle": "Don’t buy bitcoin!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0vO2sO29wasyH9an3ah9Hw.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 12,
+    "title": "What If the Market Crash Was Intentional?",
+    "subtitle": "$2.5 trillion vanished. Stocks plunged. Currencies shook.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AqN2pmieXzvm2hWSVVg41A.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 13,
+    "title": "Bitcoin vs. the Dollar: The Shift That No One’s Watching",
+    "subtitle": "What the actual hell is going on?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DPt5MRUcv8AAHw9PGS6twQ.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 14,
+    "title": "The Great Bitcoin Race: MicroStrategy, Governments, and the Shrinking Supply",
+    "subtitle": "The United States is reportedly eyeing an ambitious goal: to accumulate 1 million Bitcoin. Sounds bold? It is. But also, it’s not going to…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cTRpeD5kSiyISeu7TYL9Tg.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 15,
+    "title": "10 Reasons Why 2025 Could Be a Mega Bull Year for Crypto",
+    "subtitle": "If you think 2025 is going to be a bearish year for crypto, think again. The pieces are falling into place for what could be one of the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QqmWaies0urkEg_l1WErXg.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 16,
+    "title": "PAWS Airdrop: Price Predictions, How to Sell, Binance Listing",
+    "subtitle": "The cryptocurrency world is abuzz with excitement as the PAWS airdrop approaches its highly anticipated listing on April 16, 2025. Built on…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BoxjMknKKmkmpz_jsYdg4g.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 17,
+    "title": "Is the Bitcoin Bull Run Over? The Truth No One Wants to Hear",
+    "subtitle": "The Cold Hard Reality of Crypto Markets",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vME-8QNAnGJSRf9W9eppoA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 18,
+    "title": "Become a Liquidity Provider with zero capital and zero LVR risk",
+    "subtitle": "The Idea: Flash Loan + JIT Liquidity",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Jxd46jYEO5wMKLsJWsj1bw.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 19,
+    "title": "Trump’s Tariffs Just Shook Bitcoin — But What’s Next?",
+    "subtitle": "Bitcoin’s Rollercoaster: Fakeout to $88K, Then Crash to $84K",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ej1MYtoIIiavSEqc1_B8eQ.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 20,
+    "title": "Why Isn’t Crypto Skyrocketing Despite Institutional Adoption?",
+    "subtitle": "The cryptocurrency market is experiencing an unprecedented wave of institutional adoption. From major banks to entire U.S. states, the list…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lvHC2tFavIvsMUExFG6EbQ.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 21,
+    "title": "Get Your Crypto Project Featured in a High-Impact YouTube Podcast",
+    "subtitle": "Let’s turn your whitepaper into a video story people actually want to watch and listen to.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0TUiJIN8eI4tpV57icIb9g.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 22,
+    "title": "Drip, Drill, Thrive: The Sheikhs Have Arrived",
+    "subtitle": "🧞‍♂️ Sheikhs on Sonic An NFT collection built for yield, powered by Petroleum.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eoRuFRm0JcMjtKHIkwvy5w@2x.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 23,
+    "title": "Hashflow x KyberSwap: Unlocking Smarter Liquidity for All",
+    "subtitle": "Another week, another integration.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vt1JXLMfph944WbykAyE3A.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 24,
+    "title": "Ethena Season 3 airdrop event begins, details on how to play with the new sENA token",
+    "subtitle": "Ethena ($ENA) is a synthetic dollar protocol on Ethereum that offers a crypto-native solution for stable money, backed by crypto assets and…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*v7UrwnX9H-W60P8u.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 25,
+    "title": "Five Testnet Projects that will pay you $500 to $1000 before the end of Q3, 2025.",
+    "subtitle": "Image credit: created with ChatGPT",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rB71YDtaCDjTTzdF7Y-YZw.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 26,
+    "title": "Perplexity AI Predicted Bitcoin’s Price in 2125: The Answer Shocked Me",
+    "subtitle": "I posed a straightforward question to Perplexity: “What will be the price of Bitcoin in the year 2125?”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-auPdGnK5HLNkxN_Nx91ZA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 27,
+    "title": "Here’s how to use the best AI models to become a better trader and investor",
+    "subtitle": "If you ever wondered what the best, non-stealth AI model is for complex financial tasks, the answer is simple: Gemini 2.5 Pro.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YJm7RH5MA-NrimG_VL64bg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 28,
+    "title": "Astra Nova $RVV Portal: Everything You Need to Know",
+    "subtitle": "Welcome to the ultimate guide on the Astra Nova $RVV Portal!  This article answers your most important questions about viewing your $RVV…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*chejhQrlbgmNx0p9W1M-Uw.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 29,
+    "title": "confessions of a junior crypto vc",
+    "subtitle": "Recently, Dragonfly partner Haseeb Qureshi shared an old due diligence memo on Solana from his early days as a junior vc. It made me…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3uifcLS8-uEatRaa2UCXYQ.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 30,
+    "title": "I am a professional trader and I will teach you how to make money in one article (not clickbait)",
+    "subtitle": "I will tell you my secret on how I trade with the highest mathematical expectation",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*D1xP9wFSpFi1XuOXteO-4g.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 31,
+    "title": "Plasma: Scaling Crypto with Zero-Fee USDT Transfers and Bitcoin Security",
+    "subtitle": "How a next-gen Layer 2 is bridging Ethereum UX and Bitcoin reliability",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Ku7Mkq5eL38GQaF3"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 32,
+    "title": "🔥 Claim Airdrops + Last Chance for The Ethena Airdrop 📣 USDe will be Huge #ethena",
+    "subtitle": "Ethena ($ENA) is a synthetic dollar protocol on Ethereum that offers a crypto-native solution for stable money, backed by crypto assets and…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*v7UrwnX9H-W60P8u.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 33,
+    "title": "How I Earned $500 in Bitcoin with Zero Skills",
+    "subtitle": "Discover a simple way to earn daily Bitcoin.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ZKB2jRJ6jvHM6-_TvAIaUA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 34,
+    "title": "America Plans to Buy 1 Million Bitcoin",
+    "subtitle": "Here’s What You Need to Know",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*oFd77uwbanekZLdFAZZP3A.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 35,
+    "title": "Introducing Payment ID: A Frictionless Crypto Deposit Experience",
+    "subtitle": "Transactions Shouldn’t Feel Like a Minefield",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*D86yv5z43QOuyRFTaXvwDQ.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 36,
+    "title": "U2R Model for Bitcoin’s Price: the Only Model That’s Always Right",
+    "subtitle": "No math, data, or science involved!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*o2jP1TE9UuyS7wU7rYB4JQ.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 37,
+    "title": "Cielo Finance Wallet Tracker Bot Review + Best Free Alternatives",
+    "subtitle": "In the fast-evolving world of cryptocurrency, staying ahead requires real-time insights into blockchain activities. Enter Cielo Finance, a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QiN6eoosvPQgZSTGW8IPpg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 38,
+    "title": "Analysts Predict $200K Bitcoin and $15K Ethereum — Here’s Why",
+    "subtitle": "We’re officially in Q2, and if you’ve been even remotely tuned into the crypto space lately, you’ve probably felt the buzz. Analysts…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*M04vQMBxzYKPzNwNFPXPQA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 39,
+    "title": "Crypto’s Weird Glow-Up: How Today’s Crash Turned Coins Into Cool",
+    "subtitle": "Photo by Jievani Weerasinghe on Unsplash",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*F9BLorwF9pMLWiBw"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 40,
+    "title": "Where are we in the bitcoin cycle?",
+    "subtitle": "$250,000 BTC remains in play.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SmmoDwV6Wh3QA9wfpd8Hgg.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 41,
+    "title": "Announcing The VeChain x Stella Pay Visa Card: Spend $B3TR, $VET and $VTHO Anywhere",
+    "subtitle": "The rumours were true — we’re bringing a game-changing development to the VeBetter ecosystem and accelerating our journey toward…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*INoNtsB_oSR5cVixJLHZDQ.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 42,
+    "title": "Bitcoin Is About To Explode (Here’s Why)",
+    "subtitle": "GameStop’s Bitcoin Bet Changes Everything",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-R1OP1zKHEpBtoFb3fQ_iw.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 43,
+    "title": "CryptoPunk #3100 Just Sold at a Loss — and That’s the Signal",
+    "subtitle": "4,000 ETH.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*GvsIKqrVxy0exIS6"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 44,
+    "title": "Will Tariffs Tank the Economy or Trigger a Bitcoin Boom?",
+    "subtitle": "The macroeconomic game is changing fast.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9EEmfTR9da1RADA-hkdiJQ.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 45,
+    "title": "Nillion Coin: Unlocking Personalized AI And Privacy Ownership",
+    "subtitle": "Nillion is your personalized AI tool. Your data and trust is decentralized in a blind computer with you being the true owner!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*fcs9ZbBlriBaW8aI.jpg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 46,
+    "title": "Here’s a trading strategy that you NEED to implement RIGHT NOW to survive the Trump Tariffs",
+    "subtitle": "Deploying a strategy is so simple that your grandma could do it",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5dwqtmUkqYuSfuSgoNrScg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 47,
+    "title": "What is FartCoin: How to Buy, Price Prediction and Chart",
+    "subtitle": "In the whirlwind of cryptocurrency trends, one name is making a loud splash — or perhaps a cheeky toot: FartCoin. This Solana-based meme…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kr_i3PeKAGIE33TvkVMTgw.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 48,
+    "title": "Top 10 Upcoming Coinbase Listings in 2025",
+    "subtitle": "Top 10 Upcoming Coinbase Listings in 2025",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*mwRZmufAACYRVkvM6uXoYA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 49,
+    "title": "Smart Money Habits Everyone Should Know Early",
+    "subtitle": "Why Money Management Matters",
+    "image_url": []
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 50,
+    "title": "Why Aren’t We Paying Attention? The Crypto Opportunity of a Lifetime",
+    "subtitle": "Let’s get real for a second. The crypto market is giving us every single sign that something massive is happening. Governments, banks, and…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*d4rcDGfPa2snGSa9LtH5Fw.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 51,
+    "title": "ENA (Ethereum Nextgen Asset): A Trader’s Guide to Cross-Chain Innovation & Options Trading on…",
+    "subtitle": "What if a single ERC-20 token could tap into multiple chains from day one — seamlessly bridging assets, updating on-chain governance, and…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ljm62w7DRGd5Yt26yUZhXA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 52,
+    "title": "More proof crypto is bottoming.",
+    "subtitle": "Ever heard of the post-election pump & dump?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6TSJOY6NHZDz5ulEs5sPqA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 53,
+    "title": "Blockchain Circular Economy: Sustainable Jobs & Fair Impact Credits",
+    "subtitle": "Imagine a world where tossing a plastic bottle into the recycling bin doesn’t just save the planet — it also earns you “points” to grab…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EvzET4-dxP5LlcSWxwrg3w.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 54,
+    "title": "Investing in robotics.",
+    "subtitle": "The robotics revolution starts in 2025",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*h1WVdCDmAZItnYNY80NEFA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 55,
+    "title": "Fringe Finance Monthly Update: V3 Alpha Test & V1 Sunset",
+    "subtitle": "As we move into April, the Fringe Finance team continues progressing steadily toward the V3 launch. In this update, we share two major…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*kikeyUcRe4Mmj0fd.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 56,
+    "title": "The Road to $BDXN Token Launch",
+    "subtitle": "Key developments on timing, strategy, and forward plans for the token launch of $BDXN",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AMMWltvKf9V3UA1WevwYog.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 57,
+    "title": "Crypto in Crisis: How Trump’s Tariff Escalation Hit the Digital Asset Market",
+    "subtitle": "Crisis or Transformation?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vHXxCtdhcWVhR4QPvqUivw.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 58,
+    "title": "The Art of Tokenomics: Building a Sustainable Crypto Economy",
+    "subtitle": "The crypto industry has gone through several boom-and-bust cycles. The market is overflowing with stories of tokens whose prices…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fjTYSCOF4iAWOfLq0gpZWQ.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 59,
+    "title": "Crypto’s Make-or-Break Moment: 3 Scenarios for 2025",
+    "subtitle": "The Crossroads of Crypto’s Future",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*i-rM6lVFxyzxMKeHXHy15A.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 60,
+    "title": "If you understand volume, you understand everything",
+    "subtitle": "The crystal ball for Bitcoin and crypto trading",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ZOYhnCpvPDNmE1FgqUEDpg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 61,
+    "title": "Factor Feedback Campaign: Share and Win FCTR Rewards",
+    "subtitle": "Factor Pro is a platform made for builders, strategists, and everyday users alike. But to take it to the next level, we want to hear…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CJiU9zRS4kqs80IEIPkYOA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 62,
+    "title": "A Simple Long Momentum Portfolio Strategy: 15% to 2400% Annual Returns!",
+    "subtitle": "Momentum strategies have garnered much attention in the cryptocurrency space, where strong trends can produce significant gains. However…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bIEEHIjlqy2zbSF9iRTUzg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 63,
+    "title": "Crypto’s Last Laugh: How Today’s Crash Made Digital Money the Hero",
+    "subtitle": "Man, what a week. April 11, 2025, and the stock market’s still a trainwreck Dow’s down another 1,500 points, the S&P’s bleeding 4%, and…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*ZuTdBWDJJWCO7H7F"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 64,
+    "title": "Has Satoshi’s Plan for Bitcoin Been Ruined?",
+    "subtitle": "It’s possible, but it’s still too early to tell.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*S_liemeU5PrHdT-XR7yabA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 65,
+    "title": "How Trump’s Tariffs Cast a Shadow Over Africa’s Crypto and Blockchain Aspirations",
+    "subtitle": "We live in an increasingly globalized digital economy where no continent is truly isolated from geopolitical shifts. This reality became…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Shcd8Cl1hUjPfpODTUmYLA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 66,
+    "title": "Crypto’s Black Market Boom: How Today’s Crash Unleashed the Underworld",
+    "subtitle": "Photo by Anne Nygård on Unsplash",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*tAP8qY7AUy9nnPOz"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 67,
+    "title": "Solsaki Presale Live: Smart, Fast, Funny — What Makes Solsaki the Ultimate Meme Coin?",
+    "subtitle": "Welcome to the future of meme coins. 🚀",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MaagGlzeG-I2K1rt8sHtjA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 68,
+    "title": "People Think Ethereum Is Dead But Here’s Why I’m Buying More",
+    "subtitle": "Ethereum will rise like a phoenix from the ashes",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DFLVhbK6yC6kltsc8GpLMw.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 69,
+    "title": "CYBRO Q1 Results & Q2 Plans",
+    "subtitle": "In Q1, CYBRO stayed on track with its roadmap.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*1ysvzW9yOEE6U4A_"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 70,
+    "title": "PLANCK CHAIN: AN L1 AI CHAIN",
+    "subtitle": "In the context of cryptocurrency, \"LA A1 CHAIN\" likely refers to a Layer-1 blockchain, which is the fundamental base network of a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yPhpfm4-1AYcMhBfjb-OeA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 71,
+    "title": "Interview with FINEXITY: Tokenized Private Market Investments",
+    "subtitle": "With the help of a trading venue, FINEXITY brings issuers and trading partners together, giving investors access to high-yield and tradable…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*tmUoJl08JenNnvNgram6vQ.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 72,
+    "title": "I made an open-source trading bot that trades New Coin Listings within seconds",
+    "subtitle": "Is it possible to capitalize on coin listing pumps? Short answer: Yes.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rB-YEGFXM_rHAMZi1LP9bQ.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 73,
+    "title": "Crypto’s in Freefall — but These Overlooked Signals Could Trigger the Biggest Reversal Yet.",
+    "subtitle": "For many, our hopes and dreams feel a little further away (but not as far as you might think).",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1rK3bDXgOVuYY5mQL6Kycg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 74,
+    "title": "My Bitcoin Price Prediction 2025–2026: Why I Adjusted My $200K+ Target and What I’m Watching Now 📈",
+    "subtitle": "As far as I am concerned, I wanted to talk to you about Bitcoin today. In particular, I wish to talk about what I said before. When I…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AXF-7BZl-lQUKykUJ6hIVg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 75,
+    "title": "Tachyon Protocol Weekly Report #285",
+    "subtitle": "7th — 11th April, 2025",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5eTPZVGitkVToVaQ9FItaw.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 76,
+    "title": "Omniston by STON.fi",
+    "subtitle": "The Future of Cross-Chain DeFi on TON",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fZGFcDATfvZKzzDcJwumMA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 77,
+    "title": "Joe Rogan Reveals Donald Trump’s Weakness",
+    "subtitle": "Three days before his inauguration, the president-elect launched $TRUMP, a cryptocurrency the volatility of which has already caused…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*4Nc74Tu9MxDj0KY-"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 78,
+    "title": "Trade Wars and Crypto.",
+    "subtitle": "In recent months, U.S. tariffs have had the global markets on its toes, creating doubt that extends far beyond traditional industries like…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*d9RVER0BbxPip1Id4JwEkA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 79,
+    "title": "Are We Watching the Next 2008 Unfold in Real Time?",
+    "subtitle": "If you feel like every week brings another “world-changing” headline… you’re not alone.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6SYgNfUMzprWTKLOQH8qQw.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 80,
+    "title": "Climate vs. Code: How Our Smartest Machines Could Wreck the Planet — or Save It",
+    "subtitle": "The Energy We Feed the Digital Revolution Will Shape the Climate We Inherit",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*oY90953_eWodQYCUrSjFkQ.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 81,
+    "title": "You Will Still Make Ridiculous Gains in Crypto",
+    "subtitle": "So don’t mess this up.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QeBgsS8yuAltK3PYR4L3wg.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 82,
+    "title": "$124M Stolen — The March 2025 Crypto Crime Report",
+    "subtitle": "In March 2025, $124 million was lost to crypto crimes across 25 separate incidents. Of that amount, approximately $4.5 million was…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3rEZN7dhfo1tk2EutseDEA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 83,
+    "title": "Trading PROOF Launches: How Much You Could Be Making (With Real Numbers)",
+    "subtitle": "In this article, we’re breaking down the actual trading data from recent PROOF token launches (2024–2025) to show just how profitable it…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ceI4iDdzOLAZERhjx9F6xA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 84,
+    "title": "Flash Generator Software That Creates Untraceable Flash USDT/BTC Transactions For Hoax Purposes",
+    "subtitle": "Flash USDT Generator Software A flash Usdt sender is a rare software that is popularly known as a flash usdt generator. The software is an…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*u24ocl6XAsS-HGuS.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 85,
+    "title": "Why the 2025 Bull Run Could Be Your Last Chance to Get Crypto Rich",
+    "subtitle": "If you miss the 2025 bull run, you may never see an opportunity like this again. Here’s why this could be the final shot at life-changing…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-bnR-QDGhf1lMYABGa5WeA.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 86,
+    "title": "Flash Generator Software That Creates Untraceable Flash USDT/BTC Transactions For Hoax Purposes",
+    "subtitle": "Flash USDT Generator Software A flash Usdt sender is a rare software that is popularly known as a flash usdt generator. The software is an…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*FYhrMPxVKDtpFQ7G.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 87,
+    "title": "The 3 Signs It’s Time to Exit the 2025 Bull Market",
+    "subtitle": "The 2025 bull market will make millionaires — but only if they know when to cash out. Here are the 3 biggest signals that tell you it’s…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EdoYRYEZnngN-xPIDrUtzQ.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 88,
+    "title": "The Day the Market Froze: Why April 7, 2025, Crashed Into Chaos",
+    "subtitle": "April 7, 2025, could be the day the stock market did more than stumble it froze in mid-step, then plunged. Imagine this: the Dow Jones…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*oKYfTYvqOutFcoNM"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 89,
+    "title": "Get Started: Lino Network Airdrop Claim Guide Inside",
+    "subtitle": "Lino Network Crypto Airdrop: How To Claim Free Lino Network?   The Lino Network Airdrop was a free distribution of Lino Network tokens to…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Am2y4FpyCc8gOxu5qVQhNQ.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 90,
+    "title": "What Is Metaplex? A Complete Guide to Solana’s NFT Infrastructure",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AOAAgpVYVSJBNo0gJb-4cg.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 91,
+    "title": "Crypto’s Wild Ride: How Today’s Market Crash Lit a Fuse Under Digital Coins",
+    "subtitle": "April 9, 2025, hit like a sledgehammer stocks plummeted, with the Dow shedding over 2,500 points and the S&P 500 losing 8% in a single…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*3MveV0YSOgs0VPWX"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 92,
+    "title": "Own, Trade And Build AI Agents With Tars.",
+    "subtitle": "Tars, Solana's Ultimate AI Hub.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*tA4a-w5vjUsR9f4OOzzXJw.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 93,
+    "title": "ColdStack and Btok Partner to Supercharge the Web3 Social Ecosystem",
+    "subtitle": "ColdStack and Btok unite to empower Web3 social networks with decentralized storage, boosting privacy, control, and scalability",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bgk0_-gTerlMwfpXMGyqJA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 94,
+    "title": "Life2App: Where Your Daily Habits Become Digital Assets",
+    "subtitle": "Earn XP Just for Being You Welcome to the Life2App Revolution",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YJc1pWWr14wJQ2CBPXHPPg@2x.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 95,
+    "title": "Telegram NFT Gifts: How They Work and how to make money on them",
+    "subtitle": "What is it?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6iCpDhTYySzKQca52JooVA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 96,
+    "title": "How Bitcoin Could Soar to $250k in 2025",
+    "subtitle": "Companies Like Airbnb, Uber, Upwork To Pay Hosts with Stablecoins",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QwP6E5ymxzmaFHZQhehlvg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 97,
+    "title": "What Is Pump Swap? Exploring Pump.fun’s DEX",
+    "subtitle": "In the fast-evolving world of decentralized finance (DeFi), Pump Swap has emerged as a game-changer, particularly for memecoin enthusiasts…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*L4nv5poXfF-__gw0A6TSUA.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 98,
+    "title": "CoinShares",
+    "subtitle": "I still own about 15% of CoinShares and I’m going to use these essays as a way to highlight why I think that CoinShares still represents…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*T8J3sbDSI3f9PTFggBmHHg.png"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 99,
+    "title": "XRP investor interest drops amid stagnant bull market — Can the $2 support hold?",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*QZD1A8t3Vp4Nqdcs"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 100,
+    "title": "CBEX Trading Platform — A Potential Scam to Avoid",
+    "subtitle": "Read this before investing in CBEX cryptocurrency trading.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GtLhpj5QDi71U0XpfUMoYg@2x.jpeg"
+  },
+  {
+    "category": "cryptocurrency",
+    "article_number": 101,
+    "title": "Musk Go Away, the terribly nonsensical uncle America 🇺🇸 doesn’t have..",
+    "subtitle": "Introduction: Why muskgoaway.com?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nJevqlVretMJkI9oVI0N_Q@2x.jpeg"
+  }
+]

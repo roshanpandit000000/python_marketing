@@ -1,0 +1,772 @@
+[
+  {
+    "category": "machine-Learning",
+    "article_number": 1,
+    "title": "Is AI Coding Cheating? A Tale of Slowpoke and Speedy",
+    "subtitle": "A difference of perspective",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QDastKDPXEQYHJpXJeQMOQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 2,
+    "title": "Latent Spaces: The Bridge Between Minds and Machines",
+    "subtitle": "The mathematics behind embeddings and the metaphors of our thoughts",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 3,
+    "title": "In-Depth Comparison Between KAN and MLPs",
+    "subtitle": "What is the difference between Kolmogorov-Arnold Networks (KAN) and MultiLayer Perceptrons (MLPs), as well as the advantages of using each…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*KV_wctUdqEJoVV_mA04CKw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 4,
+    "title": "A Practical Guide To Fast Fine-Tuning Your LLMs With Unsloth",
+    "subtitle": "Learn to Fine-tune Llama 3 in minutes for medical question-answering with Unsloth using QLoRA",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IjWPczr9orxfeX4TSloJmQ.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 5,
+    "title": "Which Movies Have “Aged Poorly”? A Statistical Analysis",
+    "subtitle": "Which films have not stood the test of time?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*p2htpYUEqySPz1SR.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 6,
+    "title": "Are you really getting the LLM you paid for?",
+    "subtitle": "Auditing model substitution in LLM APIs",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fLsXhWXSfCKc5PtVOeW6FQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 7,
+    "title": "Only the Beginning Matters: How the LLM Decides Where to Focus Attention",
+    "subtitle": "Understanding How the First Token Shapes LLM’s Focus and Responses",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*U6uDd1XfGfHWgwMbYe2gzQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 8,
+    "title": "Introduction to U-Net for Image Segmentation",
+    "subtitle": "Computer vision has many sub fields and image segmentation is an important one of them. By classifying each individual pixel of an image or…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BjcHT3-ZJDfz3exToghzTQ.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 9,
+    "title": "Attention-based Neural Network Distillation: Enhancing Performance through Learned Weighted…",
+    "subtitle": "A Novel Framework Demonstrating Empirical Benefits and Probabilistic Interpretations via Neural Attention in Teacher-Student Distillation",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*DPRPFNmFPz-yOASa"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 10,
+    "title": "Understanding LangGraph: Creating Agentic AI Systems for Enterprise Applications",
+    "subtitle": "As enterprises move toward autonomous operations, they require systems that do more than just answer questions",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Dp9IO1L3RAQf8fPI"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 11,
+    "title": "Is Your LLM Application Safe?",
+    "subtitle": "10 Must know Techniques to Safeguard LLM Models in Pre-training, Post Training, and Inference Phase from Attackers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GBik0pFuXFhQSfjUmvOtEA.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 12,
+    "title": "Finding Bias in Data and ML models",
+    "subtitle": "Everyone wants to understand what is happening under the hood in an ML model. Governance in AI/ML systems is top of mind for companies…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HqaIqTM_0fxsW5t3Eec6eQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 13,
+    "title": "From Biased to Balanced: Visualizing and Fixing Bias in Transformer Models",
+    "subtitle": "In this article, we’ll explore how internal activations in transformer models reveal hidden biases, and how these insights can be used to…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1ib-17aXW1vSA2cmUyFMjA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 14,
+    "title": "Beyond Simple Inversion: Building and Applying Inverse Neural Networks",
+    "subtitle": "Theory, training tricks, and real‑world case studies — solving multi‑root equations and beyond",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*oeAprJD7lKIyotYw"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 15,
+    "title": "Testing Document Contextualized AI — Intuitively and Exhaustively Explained",
+    "subtitle": "How to Know If RAG and Agentic Systems Actually Work",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8ZT14LOTNwVME7xoaYH6hQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 16,
+    "title": "Mapping the hidden concepts in language models",
+    "subtitle": "We introduce early experimental results of a novel methodology that ties dimensions in a language model to human understandable concepts",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3oYrNn8FIKx0zn3wxA6M7g.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 17,
+    "title": "(Not) Fooled by Randomness",
+    "subtitle": "A Journey from Software Development to the Heart of Data Science",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-5ZBWnwQjzJVsL7vz1ZUaA.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 18,
+    "title": "DeepSeek-R1: A Deep Dive into Reinforcement Learning’s Impact on LLMsDeepSeek-R1 blasted on the…",
+    "subtitle": "This raises the question, how did a largely unknown Chinese lab go toe-to-toe with a giant worth $157 billion ?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*akiz5nEaXQIR32mtEOOQIg.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 19,
+    "title": "Finally! A Clear Derivation of the VAE KL Loss",
+    "subtitle": "While analyzing the loss function of the variational autoencoder (VAE) model, I noticed that the Kullback-Leibler (KL) loss term has a nice…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RbZ5rzMxAKnSHqAMu6mCIA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 20,
+    "title": "When Do Viewers Get Hooked on a TV Show? A Statistical Analysis",
+    "subtitle": "When do TV viewers become committed fans?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Y16dMf209FuNk5lr.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 21,
+    "title": "Discover the Anatomy of the AI Mind.",
+    "subtitle": "Anthropic has published one of the most fascinating research papers I’ve read in months (or probably ever), one that dissects the anatomy…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*-u7jDlq7ehO-Sh6l"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 22,
+    "title": "Improving Pinterest Search Relevance Using Large Language Models",
+    "subtitle": "Han Wang | Machine Learning Engineer, Relevance & Query Understanding; Mukuntha Narayanan | Machine Learning Engineer, Relevance & Query…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*B0rNJCYXSFt6FMxU"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 23,
+    "title": "Croissants and Code: French Pastries vs. the AI Apocalypse",
+    "subtitle": "Growing up in France, I learned two fundamental truths: properly pronouncing “croissant” doesn’t involve anything that sounds like…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LJytlIR0oWgRghs6UnEZJg.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 24,
+    "title": "LLMs Do Not Predict the Next Word",
+    "subtitle": "RLHF forces us to view LLMs as agents in an environment, not just statistical models.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*o7zKohunJmIOMycqXs4V8w.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 25,
+    "title": "Learning to act, not to repeat",
+    "subtitle": "Can we build self-actualizing AI?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bbUhWwxrjSRUY8guGEdQmA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 26,
+    "title": "Is Graph Machine Learning the New Cryptocurrency Police?",
+    "subtitle": "Testing the limits of recognizing illicit cryptocurrency transactions with machine learning on graphs. Could it be useful in real life?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ax88gBk7ofe2GA-7Mwcfxw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 27,
+    "title": "Loading Unquantized 70B LLM Across Friends Laptops",
+    "subtitle": "Distributional Loading on multiple laptops",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*iOfqPaA5sM4jbzYiQuhAeg.gif"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 28,
+    "title": "Reinforcement Learning-Enhanced Gradient Boosting Machines",
+    "subtitle": "A Novel Approach to Integrating Reinforcement Learning within Gradient Boosting Internal Optimization for Superior Predictive Performance",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*TaGoCl11hviKxAfc"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 29,
+    "title": "TimeXer for Time Series Forecasting with Exogenous Features",
+    "subtitle": "Discover the architecture of TimeXer and implement it in a small experiment using Python.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*V1vX_ageTvt1hpdz"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 30,
+    "title": "MLOps setup on AWS with SageMaker",
+    "subtitle": "Step-by-step guide for production ready MLOps setup with SageMaker",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*jiQBZ0vTVs2cME9K9M1-DA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 31,
+    "title": "How to use Hinge Loss and Squared Hinge Loss with Keras",
+    "subtitle": "In order to discover the ins and outs of the Keras deep learning framework, I’m writing blog posts about commonly used loss functions, then…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*G8RlIBlqzAV4aMVE"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 32,
+    "title": "Delete Your Privilege: The Hidden Economy of Digital Ghosts",
+    "subtitle": "Ever Googled yourself? Of course you have. We all do it. The digital equivalent of staring at your reflection, except instead of just…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*kFfP2Uh2DbAxUEVX.gif"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 33,
+    "title": "Which Countries Have the Most Unique Taste in Music? A Statistical Analysis",
+    "subtitle": "Which nations have the most distinct music tastes?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*aBdXPYSPlFYnJ-YB"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 34,
+    "title": "Understanding the Bivariate Normal Distribution",
+    "subtitle": "A Mathematical Derivation of its Probability Density Function",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*jjG1-4J6qFznrrYGV0Ov-g.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 35,
+    "title": "The challenge of reinforcement learning in subjective domains",
+    "subtitle": "1. Introduction",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*UZS2a3KpyQLdY-5Al4V0MA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 36,
+    "title": "Everything You Need To Know on LLMs : Brick by Brick",
+    "subtitle": "A comprehensive study on LLMs , explored layer-by-layer",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Cg27e-QXRd-MR3Ai1PKIxw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 37,
+    "title": "Boosting Data Pipeline Reliability with AI and Minimal Costs",
+    "subtitle": "A practical guide on how to leverage AI (Ollama) in data pipelines",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*lWPw9FwW8-qh4Jxb"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 38,
+    "title": "LLM Marks the Dawn of the Ultra-Tailored Ad Era.",
+    "subtitle": "How Meta’s Data Empire + AI’s Hallucinations Could Rewrite Advertising Economics at less than $0.00002 Per Ad?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*T7t7ILrn40f5ldWAKcN-3w.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 39,
+    "title": "Would an AI Emulation of Someone’s Brain Be Conscious? — Would it Be an Upload of Their Mind?",
+    "subtitle": "The study of whole brain emulation could help us get a better performing AGI, even if it is not the fastest route to a minimal …",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*CA_vVQYjlqT_a42T"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 40,
+    "title": "Making an LLM that “sees” AND “reasons” is the next big thing. Why is no one talking about it?",
+    "subtitle": "DeepSeek-R1 reasons. GPT-4o sees. Can you make an LLM do both?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eZmPHFNjGsd0WW-q1Aw41w.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 41,
+    "title": "The Inevitability of AI Hybrids",
+    "subtitle": "A No-Look-Back Event",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*1xzQzmTsgANZjZkM"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 42,
+    "title": "Trainium and Inferentia: Amazon Takes On NVIDIA",
+    "subtitle": "Amazon’s AI chips are significantly cheaper than NVIDIA’s GPUs. And these are the chips Anthropic uses to train (and maybe run) Claude.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*gfzRffZ6NqkHwGSL"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 43,
+    "title": "Science, Chaos, and the Limits of AGI",
+    "subtitle": "Scientific progress has always been shaped by the interplay of experiment and theory: it required both Tycho Brahe, the eccentric Danish…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.52:0.31/1*MZKWHk0fdMcejjZX-JMdzQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 44,
+    "title": "Adaptive Multi-Teacher Distillation for Enhanced Supervised Learning",
+    "subtitle": "A Novel Approach for Dynamically Combining Multiple Predictive Models into a Lightweight High-Performance Student Model",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*PyBP_yOejQdh1-vN"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 45,
+    "title": "Model Context Protocol — Intuitively and Exhaustively Explained",
+    "subtitle": "Plug AI Into Everything",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zX56K-QFu-QlOL8pUNzLag.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 46,
+    "title": "Structural Distillation for Cross-Dataset Uplift Modeling with Reinforcement Learning",
+    "subtitle": "A Novel Approach to Transfer Partial Teacher Model Knowledge from Control to Treatment Data for Rapid AB Testing and Campaign Optimization",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*lDpYFAIu8gHQJfu_"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 47,
+    "title": "How DeepSeek-R1 Pushes the Limits of Language Models — A Mathematical Dive into Group Relative…",
+    "subtitle": "Introduction",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*w5jn7N44IpzLExaT.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 48,
+    "title": "What’s the Perfect Song Length? A Statistical Analysis",
+    "subtitle": "Investigating the “ideal” song length, and whether such a thing exists",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*dj9bHmS3Zxsz2Gzq.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 49,
+    "title": "Integrating LlamaIndex and DeepSeek-R1 for reasoning_content and Function Call Features",
+    "subtitle": "Empowering AgentWorkflow with the strong boost from DeepSeek-R1",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*VpLdbQmm5C8J1EA_muQFWQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 50,
+    "title": "Building an LLM Agent with N8N and Open-WebUI",
+    "subtitle": "A Hands-On Perspective from a Machine Learning Developer",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*qWM7rBnO1PoOzTnz"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 51,
+    "title": "AI is more likely to give a correct response when given the opportunity to give a wrong one first",
+    "subtitle": "My one-shot prompt improves accuracy and reduces hallucinations",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AyqkoNLuuf8CoAk3Jy3v4g.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 52,
+    "title": "Foundation Model for Personalized Recommendation",
+    "subtitle": "By Ko-Jen Hsiao, Yesu Feng and Sudarshan Lamkhede",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*1dhdoLxKnf_fcZOq"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 53,
+    "title": "The Moore’s Law for Agent Autonomy: AI’s Exponential Revolution",
+    "subtitle": "AI Is Learning to Work Like You And It’s Happening Faster Than You Think",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bUV6iBdagQ525MyhAxVztA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 54,
+    "title": "A Simple Look at Simple Random Walks",
+    "subtitle": "A drunken man always returns home, but a drunken bird will eventually be lost.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YNpVVwb_DwK1f6gyTx3biA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 55,
+    "title": "Deploying Real-time Vision Applications on Edge",
+    "subtitle": "OTA deployments with AWS Greengrass and Triton Inference Server",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*NHFeCqGoJGemayIY0sL3ag.gif"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 56,
+    "title": "Maximizing Simple RAG Performance Using RL in Python",
+    "subtitle": "Greedy algorithm approach",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_NSsZD3OZecxnxfP3kRJQg.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 57,
+    "title": "How to skip the AI buzzwords and Find Reliable Expert Information",
+    "subtitle": "A structured approach to filter high-quality content, avoid information overload and build practical skills that matter.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5_XGj41IFEtCKGZ1Zm6-Og.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 58,
+    "title": "Demystifying the Transformer Model",
+    "subtitle": "Note: this blog post is a final paper for my UCSB WRIT105SW course. As such, it is a slight deviation from my standard writing and may…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*b1z5D8Xg-eZHYVmkr3ORwQ.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 59,
+    "title": "Fine-tuning ModernBERT as an Efficient Guardrail for LLMs",
+    "subtitle": "SpeedBot’s customer support chatbot was designed to handle shipping queries and delivery updates. The team expected simple questions about…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9w027aoqFa1c05GuAeFxRA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 60,
+    "title": "Reinforcement Learning for Business Optimization: A Genetic Algorithm-Powered Pricing Strategy",
+    "subtitle": "Applying PPO and Genetic Algorithms to Dynamic Pricing in Competitive Markets",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*pN1SNlVtBk-mtBDG"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 61,
+    "title": "Graphs — Intuitively and Exhaustively Explained",
+    "subtitle": "Finding complex meaning in simple relationships",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ZrFHvXaNj1Ir2r6qnNZaAA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 62,
+    "title": "DBSCAN clustering with Python and Scikit-learn",
+    "subtitle": "There are many algorithms for clustering available today. DBSCAN, or density-based spatial clustering of applications with noise, is one of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yK40vBL7oGI-DkH4f8GxHA.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 63,
+    "title": "Building Your First AI Agent (That Will Actually Improve You As An AI Engineer)",
+    "subtitle": "A guide to building a helpful Multi-agent AI system that helps you find the top 10 AI research papers published in ArXiv every day",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*hZ6a8lWeyufdPAZ9"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 64,
+    "title": "This Is the End of Normalization, and the Transformer Feels Fine",
+    "subtitle": "Exploring the Power of Dynamic Tanh in Transformer Models Without Normalization Layers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Gx-MulGzfL3nZCFQKpO2Mw.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 65,
+    "title": "3 Advanced Approaches to Tackle Domain-specific Text Classification",
+    "subtitle": "A deep dive of 3 customization-based methods to improve performances in an Engineering-domain text classification task.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*hz3rPIMkYQZQ0LBsrNSKaQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 66,
+    "title": "Who should be using AI and for what?",
+    "subtitle": "AI is a little bit like teenage sex. Everyone is talking about it, but not that many people are actually doing it. Those who are doing it…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*wggb0PJ-q5Qwcfi0_kzGBA.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 67,
+    "title": "Which Movies Do People Love to Hate? A Statistical Analysis",
+    "subtitle": "Which films and actors are famous for being bad?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*U5j1ASzkmckdoMqv.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 68,
+    "title": "Revisiting The Basics: Rotary Position Embeddings (RoPE)",
+    "subtitle": "A lesson on Positional Embeddings all the way up to Rotary Position Embeddings (RoPE) from the ground up.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fz0s0sMU7zDgguqbkiUMDw.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 69,
+    "title": "From Costly Attention to FlashAttention: A Deep Dive into Transformer Efficiency",
+    "subtitle": "Transformers have revolutionized deep learning by using attention mechanisms to capture long-range dependencies in data. However, the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RiBXuLHOEYpKf0s7U8HeYQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 70,
+    "title": "A Close Look at Image Generation Using p-PCA and Variational Autoencoders",
+    "subtitle": "Agenda",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zPD8beQlDaXFpuqOx1N6kg.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 71,
+    "title": "After DeepSeek-R1, a goldmine of research is waiting to be discovered.",
+    "subtitle": "DeepSeek’s RL ideas are more game-changing than you think.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_KOmzurBHiwQa6PVw3yslg.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 72,
+    "title": "Missing Data? Use Explainable AI to Fill the Gaps (Correctly)",
+    "subtitle": "Random Forests, XGBoost, and Neural Networks for interpolation without the black box problem",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*R2aJtuHTDqKVgaHefahfog.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 73,
+    "title": "AI Won’t Kill Us All",
+    "subtitle": "But fear might hold us back",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ogr_0neHrRl6eTZk0mMCvQ.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 74,
+    "title": "Linear Regression in Time Series: Sources of Spurious Regression",
+    "subtitle": "Why does the autocorrelation of the errors term matter?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fGdZN05NvlLiSQ1OD0y5uw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 75,
+    "title": "Why We Need More Than Correlation: A Tutorial on Causal Inference in Decision-Making",
+    "subtitle": "Measuring the causal effect — why is it so important?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3avyQgpXmt_0mvpc_e_Tlw.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 76,
+    "title": "Measuring the frequency distortion of my sound card with Fourier",
+    "subtitle": "I was hoping to use my sound card to simulate a software-defined radio by making use of sound instead of radiofrequency signals. Is my…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*VLHGfeoJq9kMGwi0zMPDLQ.gif"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 77,
+    "title": "Convolutional Neural Networks: A Simple Guide to Their Architecture",
+    "subtitle": "Mastering the Basics of Convolutional Neural Networks(CNNs).",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3N_uY0tckRjmwVxcv_b17w.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 78,
+    "title": "Testing 18 RAG Techniques to Find the Best",
+    "subtitle": "crag, HyDE, fusion and more!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*JcAGUtpUWawjgitM0t1X2Q.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 79,
+    "title": "How to Lose Money With “Statistically Significant” Decisions",
+    "subtitle": "Many decision-makers rely on statistical significance — but this doesn’t always translate to value. Here’s a more effective framework for…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uM7vWjfHQDpzeaH2rpn9ow.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 80,
+    "title": "Is Phi-4 Mini in GraphRAG the Out Right King for Resource-Starved Setups?",
+    "subtitle": "Pitting it against no other than quantized Phi-4, DeepSeek-R1 and QwQ-32B to stake its claim.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*1lMQSL-z43tb_0wb"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 81,
+    "title": "15 Buttons to AI Chaos: Build a Connect 3 Stream Deck Game",
+    "subtitle": "Level Up Your Stream Deck: How I Added AI Smart to a Classic Game",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ClY-yBpDrdq_nZ80tmTqwg.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 82,
+    "title": "Classics Never Fade Away: Decipher Gaussian Mixture Model and Its Variants!",
+    "subtitle": "This blog dives deep into the Gaussian Mixture Model (GMM) and demonstrates why it’s more superior than K-means for clustering tasks.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HyH8AnIwmskUKcFwxZeCKg.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 83,
+    "title": "Can Data Science Predict UFC Fights? Building a Leak-Free Model with Random Forest",
+    "subtitle": "Avoiding a common pitfall in prediction models & creating a leak-free model.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*9fMsgjir5MITgIx2"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 84,
+    "title": "Dropout — Intuitively and Exhaustively Explained",
+    "subtitle": "Encouraging robust learning in AI",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YFKujdV8aeK100Uk9baAGg.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 85,
+    "title": "‘FANformer’ Is The New Game-Changing Architecture For LLMs",
+    "subtitle": "A deep dive into how FANFormer architecture works and what makes it so powerful compared to Transformers",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*NqM0B0OuSZ1MMOqy"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 86,
+    "title": "Robotic Behavior Cloning I: Auto-regressive Transformers",
+    "subtitle": "Training an auto-regressive transformer for the Push-T experiment from scratch",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-KYHt-6Qs4LKx2urX16UJw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 87,
+    "title": "Diving into LlamaIndex AgentWorkflow: A Nearly Perfect Multi-Agent Orchestration Solution",
+    "subtitle": "And fix the issue where the agent can’t continue with past requests.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*qXE1EG4-Q5T1b1GSfawSxw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 88,
+    "title": "A Unified Machine Learning Framework for Time Series Forecasting",
+    "subtitle": "Harness Diverse Algorithms to Improve Predictive Accuracy from Transactional Data",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*aq0GCt2-_uRq_yIc"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 89,
+    "title": "Building a TikTok-like recommender",
+    "subtitle": "Scaling a personalized recommender to millions of items in real-time",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*4GdmHgtbvEeN-6-k.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 90,
+    "title": "How to Set Up and Use a Vector DB In Less Than 10 Minutes",
+    "subtitle": "Speed up your vector searches when high latency isn’t an option",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QjE9Mu0oZRMsVMMwwrUltg.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 91,
+    "title": "Did we skip Machine Learning?",
+    "subtitle": "When you go directly from BI to Generative AI",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*iTy3Wbx4mYOkklqp"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 92,
+    "title": "🚅 Information Theory for People in a Hurry",
+    "subtitle": "A quick guide to Entropy, Cross-Entropy and KL Divergence. Python code provided. 🐍",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*WphOrReZiIXYnoYNkQmHcA.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 93,
+    "title": "How to Create Agentic RAG with Self Evaluation Mechanism",
+    "subtitle": "An end-to-end tutorial for developing Agentic RAG",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*po7Y6vjQpTg-tNZu"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 94,
+    "title": "When Optimal is the Enemy of Good: High-Budget Differential Privacy for Medical AI",
+    "subtitle": "Can we guarantee patient privacy without sacrificing model accuracy?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HMh2TbcpT12laUs5xbiKRw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 95,
+    "title": "Surrogate Modeling: The Secret to Faster, Smarter Engineering",
+    "subtitle": "Its fundamentals, capabilities, and engineering applications",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HfjfRWqD6KxGftceKbMlJw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 96,
+    "title": "Creating a Semantic Image Search with Vector Embeddings",
+    "subtitle": "How to improve traditional image search methods",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*NpcsqWO0F6-WpaZXvrfc-Q.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 97,
+    "title": "Which Songs Are Frequently Featured in Film and Television? A Statistical Analysis",
+    "subtitle": "Which songs have become staples of film and television?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*XhYeIVL-fxU1WAmDFwH2qQ.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 98,
+    "title": "Is your LLM “playing along” with your guardrails?",
+    "subtitle": "Understanding Alignment Faking in Large Language Models and Ways to Avoid It",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*J0n4JY9U6XFJnfYp9o4_Qg.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 99,
+    "title": "A Malicious Seed: Fine-Tuning LLMs to Grow Bad Behaviors",
+    "subtitle": "How Narrow Training on Insecure Code Leads to Broad AI Misalignment and Deception",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_JngGY4DRpRcQLXuwiNBbg.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 100,
+    "title": "Mastering the Basics: How Decision Trees Simplify Complex Choices",
+    "subtitle": "Full explanation of Decision Trees — Concepts, Maths and Code",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*h9GJzx6NOUv0EVksRVMGYw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 101,
+    "title": "AI has a fatal flaw, and we need to fix it",
+    "subtitle": "The stronger it gets, the more foolish it becomes",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*muoje2PQUeRX9two9z41pw.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 102,
+    "title": "Solving Github Issues with AI Agents",
+    "subtitle": "Can AI Agents fix bugs in production-scale codebases?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*lOy3dpCSWszuVcPj"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 103,
+    "title": "The power of 1 feature: how Airbnb’s 2013 location model transformed search rankings",
+    "subtitle": "Why high-quality feature engineering beats the kitchen-sink approach every time.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*i6vvUe-Z-LzvPgJ5fb5iiA.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 104,
+    "title": "The Robotics Breakthrough That Obsoleted OpenAI",
+    "subtitle": "Recently, Figure AI, a billion-dollar AI robotics company, announced the cancellation of its partnership with OpenAI, a move that appears…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*ZuZZY6TRea4BwYMM"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 105,
+    "title": "Mountains, Cliffs and Caves: A Comprehensive Guide to Procedural Generation",
+    "subtitle": "With Perlin Noise and Fractal Brownian Motion",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*ChfgOu5FFYxJqw-h"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 106,
+    "title": "Artificial Intelligence Is Not What You Think It Is",
+    "subtitle": "How machine learning does the work while AI takes the credit",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*U9qhTesxc6BLXDO4aS6JIg.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 107,
+    "title": "How to Create a Bivariate Normal Random Vector from Two Independent Normals?",
+    "subtitle": "Learning How to Quickly Approximate a Bivariate Normal Distribution Without Libraries Like SciPy",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Sfd7GJxtILeGkoHvNFKN8A.png"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 108,
+    "title": "Extreme Value Theory: The Science of Outliers?",
+    "subtitle": "Extreme events often appear to be outliers and are subsequently overlooked, despite their significance in understanding a given phenomenon…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*X38EeVMFaMEXF6w_"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 109,
+    "title": "What Kingdom Hearts II Can Teach Us About AI Sentience and Moral Patienthood",
+    "subtitle": "I have spent the past few weeks replaying the classic PlayStation 2 game Kingdom Hearts II. The last time that I played through the game…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*-GClEocO7A2Rvebl"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 110,
+    "title": "Is Apple Plotting a Master stroke? Unveiling the Plan Behind Apple Intelligence.",
+    "subtitle": "Understanding the Strategy Behind Apple’s Latest AI Innovations and Analyzing the Machiavellian Tactics Behind Apple Intelligence.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*i6T4JotTI-U-MuD0BatuZg.jpeg"
+  }
+]

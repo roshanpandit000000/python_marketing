@@ -1,0 +1,730 @@
+[
+  {
+    "category": "blockchain",
+    "article_number": 1,
+    "title": "Querying the Bitcoin Blockchain: A Practical Guide",
+    "subtitle": "Discover how to leverage public data to analyze Bitcoin transactions, UTXOs, and coin age",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*wtGnzlIKHtPrOZhi"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 2,
+    "title": "Is Graph Machine Learning the New Cryptocurrency Police?",
+    "subtitle": "Testing the limits of recognizing illicit cryptocurrency transactions with machine learning on graphs. Could it be useful in real life?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ax88gBk7ofe2GA-7Mwcfxw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 3,
+    "title": "AI Needs Decentralized Governance",
+    "subtitle": "Not e/acc techno-optimists, not EU bureaucrats, but a new paradigm",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*quNTHBxU-KAFtH_2pegFSg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 4,
+    "title": "Knitting Through Space",
+    "subtitle": "The Multiway Hypergraph and Causal Invariance",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DfS8fLOoV_L9ZVL4U_ZzJg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 5,
+    "title": "Davos Unfiltered: The Good, The Chaotic, and How to Thrive in the Madness",
+    "subtitle": "In January 2025, I finally checked “attend Davos” off my bucket list and made my way to the Alpine hub of global changemakers to experience…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*sxLt0hw0-Tcfk3OsfgEHRg.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 6,
+    "title": "Do You Remember When Bitcoin Bought Its First Pizza?",
+    "subtitle": "Today I see why blockchains and cryptocurrencies matter — though I can’t believe I slept through that fateful day.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lpScUniUJsCkT9DYcCISQQ.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 7,
+    "title": "Marc Andreessen and the CFPB: Debunking the Debanking Debunkers",
+    "subtitle": "Assessing Marc Andreessen’s claims regarding the debanking of tech founders and the role of the Consumer Financial Protection Bureau",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*hQ6iXOmG_XZvR_5tPHSv-A.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 8,
+    "title": "Do Smart Sprinklers Really Conserve Water?",
+    "subtitle": "After buying yet another smart devise, I‘m showing my receipts. Did I help save my corner of the planet or fall for another green scam?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*KRystwlU0UFRr4GX"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 9,
+    "title": "A Gentle Introduction to the DCIN for Decentralized Inference",
+    "subtitle": "How a Decentralized Collaborative Intelligence Network works",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*HTkMHyst9RR6foyU"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 10,
+    "title": "What Are Expansion Rewards?",
+    "subtitle": "Use Hyperlane, Own Hyperlane. Learn how Expansion Rewards will distribute HYPER ownership to Hyperlane users and developers.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*enNYky7EZjZIbavU-__Eiw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 11,
+    "title": "The BBC",
+    "subtitle": "Jerome Powell and Hiroki Kuroda became fast friends within the global central banking circuit. Kuroda’s term as governor of the Bank of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*uP-T2fMeubKcHksU.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 12,
+    "title": "VeChain Financial Report — Q4 2024",
+    "subtitle": "Dear Community,",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-fGHfWNJ3tfRurVv3IRAZw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 13,
+    "title": "Introducing HYPER",
+    "subtitle": "The next phase of Expansion is upon us. HYPER will be the native token powering the Hyperlane network.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*SR8HBaIbPm6fSHBQ"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 14,
+    "title": "The Future Internet: The New Web3",
+    "subtitle": "THE VISION Part 2. The New Web3 is a web3 beyond the flywheel — where human interaction, discoverability, and creativity are at the core.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EvASe6BFfhXvlAbIITahEw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 15,
+    "title": "Wunder Ambassador Program: Lead, Make Your Mark, and Earn $WUNDER",
+    "subtitle": "🔥Wunder Ambassadors Program — Season 1",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5y4LDHSwuwzWWDzHrFQ8tw.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 16,
+    "title": "#WeeklyRecap of Our Most ICONIC Week Yet",
+    "subtitle": "From 1M Miners to 600% Bonuses, This Isn’t Just an Update — It’s a Movement",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IkdnDla9AJ9GBXLLBnN06A.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 17,
+    "title": "Astra Nova $RVV Portal: Everything You Need to Know",
+    "subtitle": "Welcome to the ultimate guide on the Astra Nova $RVV Portal!  This article answers your most important questions about viewing your $RVV…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*chejhQrlbgmNx0p9W1M-Uw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 18,
+    "title": "5 cryptos to buy during this crash",
+    "subtitle": "Don’t buy bitcoin!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0vO2sO29wasyH9an3ah9Hw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 19,
+    "title": "Introducing Kinza Airdrop Points Season 2",
+    "subtitle": "Kinza TGE is Near!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8JD98u8xawXRxOu0oUeQbg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 20,
+    "title": "Crosschain Pioneers: Announcing Winners of the Build & Brew Hackathon",
+    "subtitle": "After three-plus weeks of Espresso-fueled development, innovation, and collaboration, our inaugural Build & Brew Hackathon has officially…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SVXIR1h3X1_lIUy0_JkenQ.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 21,
+    "title": "Where are we in the bitcoin cycle?",
+    "subtitle": "$250,000 BTC remains in play.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SmmoDwV6Wh3QA9wfpd8Hgg.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 22,
+    "title": "The Golden Ticket Is Back: 600% Bonus, Early Access, and the First-Ever BlockDAG Global Convention",
+    "subtitle": "A Defining Moment, Not Just an Update! The Most Powerful Offer in BlockDAG History is Back — 600% Bonus, Early Coin Airdrop, and Exclusive…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0NtUFqGxbD1hpJxp-y_CmA.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 23,
+    "title": "GoodDollar V4 Is Live: The Core Protocol Now Lives on Celo",
+    "subtitle": "G$ minting is back. The GoodDollar Reserve is live again. And GoodDollar now operates natively on Celo.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EL-S61sohnW4CshvPtq8Aw.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 24,
+    "title": "PAWS Airdrop: Price Predictions, How to Sell, Binance Listing",
+    "subtitle": "The cryptocurrency world is abuzz with excitement as the PAWS airdrop approaches its highly anticipated listing on April 16, 2025. Built on…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BoxjMknKKmkmpz_jsYdg4g.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 25,
+    "title": "KISS of Death",
+    "subtitle": "Many readers forget the principle of KISS when reacting to the policy firehose of US President Donald Trump’s administration. Trump’s…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Bkb4sy7nzXjfKUIZ.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 26,
+    "title": "A Costly Lesson in DigiAsset Management: Protecting Your Assets on the DigiByte Blockchain",
+    "subtitle": "How Wallet Compatibility Can Make or Break Your DigiAssets",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*crul2NffOLyfuG3sQJLfUw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 27,
+    "title": "More proof crypto is bottoming.",
+    "subtitle": "Ever heard of the post-election pump & dump?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6TSJOY6NHZDz5ulEs5sPqA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 28,
+    "title": "The Dawn of the Internet of Blockchains",
+    "subtitle": "Introducing IBC Eureka, from ICL Co-CEOs Mag and Barry.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Rn_jjY-uazB6gzxLHsO9Lg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 29,
+    "title": "#MondayUpdate: We Just Hit 1 Million Users, Retired Tap Miner, and Brought Back the Chest Boost —…",
+    "subtitle": "Welcome to Your BlockDAG Network #MondayUpdate!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_PunPcTb65p98dbWM0XX6A.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 30,
+    "title": "Become a Liquidity Provider with zero capital and zero LVR risk",
+    "subtitle": "The Idea: Flash Loan + JIT Liquidity",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Jxd46jYEO5wMKLsJWsj1bw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 31,
+    "title": "Get Your Crypto Project Featured in a High-Impact YouTube Podcast",
+    "subtitle": "Let’s turn your whitepaper into a video story people actually want to watch and listen to.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0TUiJIN8eI4tpV57icIb9g.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 32,
+    "title": "Has Satoshi’s Plan for Bitcoin Been Ruined?",
+    "subtitle": "It’s possible, but it’s still too early to tell.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*S_liemeU5PrHdT-XR7yabA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 33,
+    "title": "People Think Ethereum Is Dead But Here’s Why I’m Buying More",
+    "subtitle": "Ethereum will rise like a phoenix from the ashes",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DFLVhbK6yC6kltsc8GpLMw.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 34,
+    "title": "Five Testnet Projects that will pay you $500 to $1000 before the end of Q3, 2025.",
+    "subtitle": "Image credit: created with ChatGPT",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rB71YDtaCDjTTzdF7Y-YZw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 35,
+    "title": "The Internet Computer’s Storage Model and the Roadmap Towards More Storage",
+    "subtitle": "In this blog post we shed some light on the storage model of the Internet Computer (IC) and provide some insight related to the roadmap…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*FdFwD5edwii6cfiq-jUPgg.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 36,
+    "title": "confessions of a junior crypto vc",
+    "subtitle": "Recently, Dragonfly partner Haseeb Qureshi shared an old due diligence memo on Solana from his early days as a junior vc. It made me…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3uifcLS8-uEatRaa2UCXYQ.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 37,
+    "title": "Best Binance Alternatives: No KYC, More Coins, Zero Hassles",
+    "subtitle": "Binance, once the king of crypto exchanges, has lost some of its shine. Users are frustrated with its complexities, legal headaches…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Kzz2uIAUNF6Xi1xwWPoOrQ.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 38,
+    "title": "IBC Eureka is Live: One Network, Infinite Chains",
+    "subtitle": "IBC Eureka brings one-click transfers for hundreds of billions in assets across Ethereum, Bitcoin, and Cosmos.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*iIvDePfOqLN2e4DYeiZysQ.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 39,
+    "title": "Omniston by STON.fi",
+    "subtitle": "The Future of Cross-Chain DeFi on TON",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fZGFcDATfvZKzzDcJwumMA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 40,
+    "title": "Choose Your Fighter (and Your Bag)",
+    "subtitle": "emojicoin arena is live and it’s not for the weak. Incentives, rival chats, and just enough chaos.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eJ3wmrFDRMY9TYdkWMA2jQ.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 41,
+    "title": "Sealionsui Airdrop Guide: A Golden Chance to Win $100,000 Worth of $SEAL Tokens",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*06gZsxEmMyjvDt54SX78Eg.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 42,
+    "title": "Eternl Wallet V2 Launches on Cardano",
+    "subtitle": "4/10/2025",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Hh5dmHb5_ZI9RXQnIeyaow.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 43,
+    "title": "Building the Foundations of the New Web3",
+    "subtitle": "THE VISION Part One. Blockchain has promised a revolution in how we own, interact, and build in the digital world.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*w0COI_yJOEe59psBItXEeg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 44,
+    "title": "Political Power",
+    "subtitle": "Rethinking Nations and Governance",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*33d2Z5aRQklaZD687tcfEg@2x.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 45,
+    "title": "You Will Still Make Ridiculous Gains in Crypto",
+    "subtitle": "So don’t mess this up.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QeBgsS8yuAltK3PYR4L3wg.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 46,
+    "title": "dRep Spotlight: Big Pey",
+    "subtitle": "4/11/2025",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zupItwdWRNiCuu5T0OHhRg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 47,
+    "title": "Performance Optimization: How will Firedancer Client Benefit SOON?",
+    "subtitle": "Through pioneering integration of Firedancer, SOON has achieved a remarkable 80K TPS performance milestone with signature verification…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CNWnBNQGzWBx7X7_zd4KSA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 48,
+    "title": "Cielo Finance Wallet Tracker Bot Review + Best Free Alternatives",
+    "subtitle": "In the fast-evolving world of cryptocurrency, staying ahead requires real-time insights into blockchain activities. Enter Cielo Finance, a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QiN6eoosvPQgZSTGW8IPpg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 49,
+    "title": "How a Split-Second Revolutionized On-Chain Analysis for TON Blockchain Users",
+    "subtitle": "In a world where data is the new gold, understanding what happens on the blockchain is not just a luxury but a necessity. Just as a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nEN6VEG1Dkfp2APicy8pSw.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 50,
+    "title": "Announcing The VeChain x Stella Pay Visa Card: Spend $B3TR, $VET and $VTHO Anywhere",
+    "subtitle": "The rumours were true — we’re bringing a game-changing development to the VeBetter ecosystem and accelerating our journey toward…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*INoNtsB_oSR5cVixJLHZDQ.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 51,
+    "title": "Life2App: Where Your Daily Habits Become Digital Assets",
+    "subtitle": "Earn XP Just for Being You Welcome to the Life2App Revolution",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YJc1pWWr14wJQ2CBPXHPPg@2x.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 52,
+    "title": "What Is Bitcoin? A Simple Guide for Normal People",
+    "subtitle": "Bitcoin gets talked about like it’s some secret club",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AeJ9nBh_gYqH5M6PZHhHiQ.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 53,
+    "title": "O.ORBIT: The Dawn of Decentralized AI Infrastructure in Space",
+    "subtitle": "Introduction: When Earth Is Not Enough",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*OEt2TY1O_xUvelSS.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 54,
+    "title": "Blockchain Circular Economy: Sustainable Jobs & Fair Impact Credits",
+    "subtitle": "Imagine a world where tossing a plastic bottle into the recycling bin doesn’t just save the planet — it also earns you “points” to grab…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EvzET4-dxP5LlcSWxwrg3w.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 55,
+    "title": "Telegram NFT Gifts: How They Work and how to make money on them",
+    "subtitle": "What is it?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6iCpDhTYySzKQca52JooVA.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 56,
+    "title": "What is FartCoin: How to Buy, Price Prediction and Chart",
+    "subtitle": "In the whirlwind of cryptocurrency trends, one name is making a loud splash — or perhaps a cheeky toot: FartCoin. This Solana-based meme…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kr_i3PeKAGIE33TvkVMTgw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 57,
+    "title": "What Is Pump Swap? Exploring Pump.fun’s DEX",
+    "subtitle": "In the fast-evolving world of decentralized finance (DeFi), Pump Swap has emerged as a game-changer, particularly for memecoin enthusiasts…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*L4nv5poXfF-__gw0A6TSUA.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 58,
+    "title": "Implementing the Saga Pattern for Distributed Transactions with Solace.",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3SfeM2uYUZYFS5QglPeOAA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 59,
+    "title": "SCF #34 Round Recap",
+    "subtitle": "The Stellar Community Fund (SCF) is an open-application awards program that draws on community input to support developers and startups…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cMp9ktLq7kKz8k8UFG4zgw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 60,
+    "title": "Revolutionizing Crypto Earnings with Solana (Universal)",
+    "subtitle": "Maximize your earnings in the decentralized world",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*6Ew7hUrOrOJ9D5aF.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 61,
+    "title": "CBEX Trading Platform — A Potential Scam to Avoid",
+    "subtitle": "Read this before investing in CBEX cryptocurrency trading.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GtLhpj5QDi71U0XpfUMoYg@2x.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 62,
+    "title": "These Crypto Scams are Becoming More Sophisticated",
+    "subtitle": "A brief lapse in concentration, and you’re in trouble.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*i4pNpqKBxxkY1CL4mxjRBQ.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 63,
+    "title": "FREE THE GREEN: Gaming Tournament Part Too!",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0z_5kR2fatl5Js2F41lLoA@2x.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 64,
+    "title": "Introducing Omniston: The Future of TON DeFi Is Here",
+    "subtitle": "STONfiers, a new era has dawned on the TON. After months of tireless development and rigorous testing, Omniston, the groundbreaking…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nF8GoW25iqJznSak-xz8SA.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 65,
+    "title": "My 2nd best crypto trading under $1",
+    "subtitle": "Plus two more early-stage cryptos on my radar",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1J0DhaH8O0MZTSw5H64yNw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 66,
+    "title": "An optimal crypto portfolio should look like this…",
+    "subtitle": "Don’t waste your time and money on garbage cryptos.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*J4Gh9tJ0L2H0g9KAq7-jSA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 67,
+    "title": "How RentFi Builds a Secure and Transparent Ecosystem for Real Estate Investors",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*q38V3V2fNaw6EH0oYTpJ3w.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 68,
+    "title": "How Peaq Blockchain is Laying the Foundation of DePINs",
+    "subtitle": "See how Peaq is setting the stage for DePIN solutions in IoT.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*tDXflYt-nkNKe-65NIrCjQ.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 69,
+    "title": "Seamless TON Trading: STON.fi Liquidity Now at Your Fingertips in OKX Wallet!",
+    "subtitle": "Greetings STONfiers!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GywPXhJSFlSXIel2wrkPsA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 70,
+    "title": "Why Making Your Money Work Starts with a Move Most People Won’t Make: #InspiringInvestment Story",
+    "subtitle": "From Vision to Value: Why BlockDAG Is Where the Future of Money Begins, This is Our #InspiringInvestment Story #34",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*HMwdMbcS-JQMxzZ2"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 71,
+    "title": "“Bitcoin is Going to Zero Within a Decade.”",
+    "subtitle": "Breaking down the arguments made by an economics expert.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CblrYTeERV5wSbWrKeUwdw.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 72,
+    "title": "What is Zero-knowledge proof?",
+    "subtitle": "A Zero-Knowledge Proof (ZKP) is a cryptographic protocol that allows one party (the prover) to demonstrate the truth of a statement to…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*K-2t87ubxwx4eHj-LGRfMw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 73,
+    "title": "BlockDAG Is Real. The Future Is Now. And You’re Right On Time",
+    "subtitle": "Community is Everything — and Ours is Building the Future, Together.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*4ULyTdZArtJSNeMw"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 74,
+    "title": "Crypto’s in Freefall — but These Overlooked Signals Could Trigger the Biggest Reversal Yet.",
+    "subtitle": "For many, our hopes and dreams feel a little further away (but not as far as you might think).",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1rK3bDXgOVuYY5mQL6Kycg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 75,
+    "title": "Parisian Spark Ignited: STON.fi Illuminates Blockchain Week",
+    "subtitle": "The air in Paris is about to crackle with crypto energy, and STON.fi is adding its own electrifying current! As the global blockchain…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GaABBG6LNxU0WNghXmGnHA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 76,
+    "title": "Big News: Zeus DEX is Now on Base — Faster, Cheaper, Stronger!",
+    "subtitle": "The crypto market moves fast, and so does Zeus Exchange. To stay ahead of the curve, a decentralized perpetual trading platform needs a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*f8USqHG9PK9PD2SFabOPdA.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 77,
+    "title": "TRAC upgrade",
+    "subtitle": "This article will serve as the reference for upgrade how to and issues. We will update the final section if any questions are raised by the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*8lPBg_YN4V8JNvce.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 78,
+    "title": "Trade Wars and Crypto.",
+    "subtitle": "In recent months, U.S. tariffs have had the global markets on its toes, creating doubt that extends far beyond traditional industries like…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*d9RVER0BbxPip1Id4JwEkA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 79,
+    "title": "svmBNB Mainnet Launch: Bringing Solana to the BNB Ecosystem",
+    "subtitle": "We are excited to announce the launch of the svmBNB Mainnet. The svmBNB Mainnet uses SVM as its execution layer and BNB Chain as its…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Ea2f7W1iFhHG5bXBazACCw.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 80,
+    "title": "Blazing Trading Bot: The Ultimate Tool for Crypto Success",
+    "subtitle": "In the ever-evolving world of cryptocurrency trading, speed, security, and smart tools can make or break a trader’s success. Enter Blazing…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*L9FOAo4RJhiauaCqCrwTzA.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 81,
+    "title": "When the DAO Turns on You How Failure in Web3 Isn’t Always the End—It’s Sometimes the Plan",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zSvux77SrxT1LjOuOs19gg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 82,
+    "title": "We’re the Biggest Presale in Crypto History — And This Is Just the Beginning",
+    "subtitle": "From Vision to Velocity, BlockDAG has Defied Every Expectation. $210M raised, 800K+ users, Testnet live — and Now a 24-Hour-Only 7X Boost…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*jJhq7NFCET0aurcb"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 83,
+    "title": "Don’t Miss the Boat: Tectum Airdrop Guide Unveiled",
+    "subtitle": "Interested in grabbing some Tectum airdrops? You’re in the right place. Tectum is a buzzword in the crypto space right now, and for good…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*x6BhcVvMBqN3n1jkJDiqlw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 84,
+    "title": "XRPL EVM Testnet is now live!",
+    "subtitle": "For the first time, developers can deploy Ethereum-compatible smart contracts using XRP as the native token on an interoperable sidechain.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GJhlaGF8nPWwuq6yAhlyqA@2x.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 85,
+    "title": "Unlock DeFi Potential with bul",
+    "subtitle": "Leverage bul for better staking rewards",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*6Ew7hUrOrOJ9D5aF.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 86,
+    "title": "Environmental impact of blockchain technologies.",
+    "subtitle": "Central to this issue exists the enormous energy needs that decentralized properties such as Bitcoin and previous Ethereum versions need to…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*NAZX7lUn5kc26y5A"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 87,
+    "title": "Solsaki Presale Live: Smart, Fast, Funny — What Makes Solsaki the Ultimate Meme Coin?",
+    "subtitle": "Welcome to the future of meme coins. 🚀",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MaagGlzeG-I2K1rt8sHtjA.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 88,
+    "title": "#WeeklyRecap: Building What Comes Next One Step At The Time",
+    "subtitle": "Another Week, Another Great BlockDAG Network Recap!",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*0d6Te5ae__GIdiXc"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 89,
+    "title": "The Future of Crypto: How Lair KAIA is Changing the Game",
+    "subtitle": "Innovative staking solutions that boost your crypto earnings",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*6Ew7hUrOrOJ9D5aF.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 90,
+    "title": "Let’s Learn About Omniston Protocol : The Future of TON DeFi",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Yny-xx5hZN2mj8EVeJWtfw@2x.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 91,
+    "title": "Decentralized Finance (DeFi): Revolutionizing the Future of Financial Systems",
+    "subtitle": "Decentralized Finance (DeFi) is rapidly reshaping the global financial landscape. With traditional financial systems facing criticism for…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*gagZ3kvUIWn_mVf4"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 92,
+    "title": "How $572,000 Was Drained on the Other End of the Collateral Accounting Loophole in the Filament Pro…",
+    "subtitle": "Filament Pro lost $572K due to an exploit that disclosed holes in collateral accounting and orderbook architecture. This analysis…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rc66IeYBmyD99NkGSpeQXA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 93,
+    "title": "“The Road to Web3 Cloud” Hong Kong Recap | Polkadot’s Web3 Cloud Vision",
+    "subtitle": "In the development wave of blockchain infrastructure, Polkadot is taking a decisive step: building a “cloud service platform” for Web3. If…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*wGkeD3JMTjHTsXRs"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 94,
+    "title": "Redbelly Network — Month In Review March 2025",
+    "subtitle": "March was big… so big it spilled into April! (There has been a lot to put together)!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SZ9EWwbPM6pntuPeQhyxRA.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 95,
+    "title": "Bitcoin reaching new Heights: A Great 2025 Up Ahead?",
+    "subtitle": "The Journey of Bitcoin has seen some remarkable roller — coaster ride from its inception in 2008 and the story continues to soar in 2025…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*k2qx7hKPWN7sbYYe"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 96,
+    "title": "Introducing Omniston: TON DeFi’s Unified Future Starts Now",
+    "subtitle": "Omniston Is Live. DeFi Just Leveled Up.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*B6LlmpPW__wZc311qOM6iA.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 97,
+    "title": "Clarifying the Role and Future of YEM Your Everyday Money: A Comprehensive Guide",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*n0IWXVxGiOWt8MacECBOPw.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 98,
+    "title": "VeChain Partners with 4ocean to Boost Blockchain-Enabled Sustainability Impact on Land and Sea",
+    "subtitle": "The oceans face a plastic crisis of staggering scale — 440 million pounds of plastics entering our waterways every year. This deluge of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_wsLNfN5mql-5mdH_ahZVg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 99,
+    "title": "The Growing Switchboard Ecosystem: Securing the Future of DeFi and Beyond",
+    "subtitle": "Switchboard’s Permissionless Oracles are Fueling Innovation Across an Expanding Network of Protocols and Blockchains",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AdZaOfUGxLHUKlbSfyR9bg.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 100,
+    "title": "Blockchain Technology Fundamentals",
+    "subtitle": "The Architecture Behind Trustless Systems",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zXFYlfrHTCFSlxzteAnnRw.jpeg"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 101,
+    "title": "Interview with FINEXITY: Tokenized Private Market Investments",
+    "subtitle": "With the help of a trading venue, FINEXITY brings issuers and trading partners together, giving investors access to high-yield and tradable…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*tmUoJl08JenNnvNgram6vQ.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 102,
+    "title": "Haedal Q1 2025 Recap: Breaking Boundaries and Shaping the Future of Liquid Staking on Sui",
+    "subtitle": "As we close an exhilarating Q1 of 2025, Haedal Protocol continues to redefine the liquid staking and on-chain earning landscape on Sui…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*D3YP4FHvcZlaOox0ZafkHA.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 103,
+    "title": "What to Look for in a Safe Crypto Exchange — and How Toobit Measures Up",
+    "subtitle": "As the cryptocurrency space continues to grow, so too does the importance of choosing the right exchange. With billions of dollars in…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SzFqpvXErz9LV4SKoYSwpw.png"
+  },
+  {
+    "category": "blockchain",
+    "article_number": 104,
+    "title": "Monthly Update: March 2025",
+    "subtitle": "March and February have been two exceptionally productive months for the Titan Network. From global testnet deployments and strategic…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Db4HUxeFebfzw722PPg9DQ.png"
+  }
+]

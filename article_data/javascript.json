@@ -1,0 +1,772 @@
+[
+  {
+    "category": "javaScript",
+    "article_number": 1,
+    "title": "Smart Monorepos: Determining Impact from Deep Dependency Changes in Typescript",
+    "subtitle": "How we built a code analysis script that lets us automatically deploy each app based on the code that was modified in the dependencies",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*qZAZmura6mxKIMDbsxdH4A.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 2,
+    "title": "SSR Deep Dive for React Developers",
+    "subtitle": "Explore step-by-step how Server-Side Rendering (SSR), pre-rendering, hydration, and Static Site Generation (SSG) work in React, their costs,",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lqc7I9bI_dJ4xltWQLGv5g.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 3,
+    "title": "The problem with indirections",
+    "subtitle": "Almost any program we write makes heavy use of different kind of indirections, at least if it should be remotely useful. Even though they…",
+    "image_url": []
+  },
+  {
+    "category": "javaScript",
+    "article_number": 4,
+    "title": "Leverage On Redux To Execute Your Tests 100x Times Faster",
+    "subtitle": "How separating the logic from the view can accelerate your test speed, test quality, and productivity.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rrGO0dBol0MsoDpwtWWoZw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 5,
+    "title": "Java Meets JavaScript: A Modern Approach to Dynamic Page Rendering",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IHGKoTA38tqF1wwuzqVJTg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 6,
+    "title": "Rethinking the frontend with HTMX",
+    "subtitle": "I’ve done a lot of work with FastAPI, and that led me to FastHTML. Now this library is far from ready to real use, but one of its…",
+    "image_url": []
+  },
+  {
+    "category": "javaScript",
+    "article_number": 7,
+    "title": "The Nullish Coalescing Operators",
+    "subtitle": "Behind this funny name lies a powerful operator that can simplify our code considerably.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*pOPunolnH0hddJz7"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 8,
+    "title": "React is Just document.createElement() With Good Marketing, and I Can Prove It",
+    "subtitle": "After 15 years of web development, I’ve come to a shocking realization: React, the darling of modern web development, is nothing more than…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*XWmGhN94T-UiLEslg_Tetw.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 9,
+    "title": "Angular Styling Secrets: How to Use :host and :host-context Like a Pro",
+    "subtitle": "Style smarter, adapt dynamically, and ditch the CSS headaches!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*E7ck6Srw2r2iQtD4k3BSBw.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 10,
+    "title": "How To Build A Base Web Dev Template Repo",
+    "subtitle": "Building a base template repo is probably the best thing you could do to push your career and projects forward.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1TtDnOeeezNArhkZxCJBnA.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 11,
+    "title": "GitHub Copilot is a Game-Changer",
+    "subtitle": "It’s time to jump on the bandwagon!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MkTATpXA24eEQAQVcPYvQQ.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 12,
+    "title": "Your JavaScript Bundle Is Too Fat",
+    "subtitle": "It’s not just about speed; it’s about user experience, SEO, bounce rates, and whether your visitors stick around long enough to actually…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*CFme2DlyNR9KuE4F"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 13,
+    "title": "A Year with Next.js Server Actions: Lessons Learned",
+    "subtitle": "A Deep Dive into the Practicalities, Pitfalls, and Potential of Next.js’s Server-Side Feature",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Y7o4zpjd6sDTTfnD"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 14,
+    "title": "Building Projects With Chrome’s On-device AI",
+    "subtitle": "Using the experimental prompt API on Chrome to build prototypes with AI features",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BB-r5FbszcK8J7Ht2lKmGA.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 15,
+    "title": "5 Unforgiving Mistakes Beginner Programmers Make",
+    "subtitle": "They make me go up the wall",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*0m374bUVjjip2Cly"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 16,
+    "title": "How a Programmer Looks for a Job",
+    "subtitle": "I want to share my observations on how to find a new job faster.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*MpJdsTsJkS5WAOme"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 17,
+    "title": "WebComponents Are (a Part of) the Future",
+    "subtitle": "There’s been a big brouhaha about whether Web Components have lived up to their promise. Can they replace React? Definitely not. But they…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*2DE4zDKnhXZG63gk0KQoyQ.gif"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 18,
+    "title": "TypeScript: Zero To Hero Plus Cheat Sheet",
+    "subtitle": "To be competitive you have to know TypeScript. Let’s get you from zero to hero!",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*marJSwss22IjQ6bw"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 19,
+    "title": "Things You Should Know to Become a Fast Programmer",
+    "subtitle": "Being “fast” doesn’t make you a fast programmer, but knowing these will",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*aFu7hC6dOkQPR5n6jjRnTA.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 20,
+    "title": "How to Generate Insights from PDF Files with Apryse and GPT",
+    "subtitle": "Raw Text Extraction alone isn’t enough For automating financial insights. You need to preserve tabular data.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SjNhbEV5KyrgFfQF7lcwSQ.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 21,
+    "title": "LEGO Lessons in React: When My 5-Year-Old Made Me Rethink Component Design",
+    "subtitle": "Remember that feeling of opening a new LEGO set as a kid? The excitement, the clear instructions, the satisfaction of pieces clicking…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*pHvGP8L0cjCytVIN"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 22,
+    "title": "Meet Angular v19",
+    "subtitle": "In the past two years we doubled down on our investment in developer experience and performance — in every single release we’ve been…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IKZuN_kzUYPl37lBXQkymQ.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 23,
+    "title": "Why Bombing a Live-Coding Interview Made Me a Better Programmer",
+    "subtitle": "Sometimes you have to experience the thing you are terrified of to realise it isn’t that bad?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ttGx3jZmROMQOG8DzAUYPw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 24,
+    "title": "React Native’s New Architecture: The Tricky Parts (1/2)",
+    "subtitle": "It’s been a long time coming — with the release of React Native 0.76, the New Architecture will be the default way of creating…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*mTK0LNk3j2SZ1ufK1jAxdg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 25,
+    "title": "How Mathematics Was Useful for Me in Programming",
+    "subtitle": "I’ll explain.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*gSuR5yJljD9aFUNy"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 26,
+    "title": "Announcing Deno 2",
+    "subtitle": "(Originally published on deno.com/blog.)",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*EfuA6f0JM5bNBW0y.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 27,
+    "title": "🚀 How We Reduced Shopify Order Creation Time from 3 Days to 6 Hours — A Deep Dive into…",
+    "subtitle": "Creating over 2 million Shopify orders, one-by-one, sounds like a nightmare. And it was — until we re-engineered our approach using smart…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*wAMfu7pEZhLiadPgiYnxEw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 28,
+    "title": "Stop Using useEffect Like This — Here’s What React Architects Do Instead",
+    "subtitle": "Why Top Developers Are Moving Beyond useEffect (And You Should Too)",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QisgQNb1GYtqet_rg5XbSw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 29,
+    "title": "Type Safety in WebGPU Applications: The TypeGPU Approach",
+    "subtitle": "Type-safe WebGPU shaders are now possible, and we’re excited to share our insights & patterns on how you can utilize them in your projects!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*4Ora6QBxIHjwn85Hy-DbSA.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 30,
+    "title": "RIP Styled-Components. Now What?",
+    "subtitle": "Styled-components are officially in maintenance mode. No new features or major updates should be expected. Only critical bug fixes and…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.43:0.49/1*BssOkI5X8n_uBhGcbHDhdA.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 31,
+    "title": "TypeScript Tip: Use Enum Mapping",
+    "subtitle": "Keep your constants in one place and leverage TypeScripts Enum Type system",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IlDbJQl62l5NtOXr1Nlnog.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 32,
+    "title": "Your .map() is Slower Than You Think — Here’s How to Speed It Up",
+    "subtitle": "Boost your JavaScript performance by ditching common .map() mistakes and learning faster alternatives",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*XvPh_12m2uUzVsxrqGLpVQ.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 33,
+    "title": "Under the Hood of React Query: A Deep Dive into Its Internal Mechanics",
+    "subtitle": "Introduction",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*A3ZmkCXzQ62jGY9wcNWUMQ.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 34,
+    "title": "The Hidden Cost of NPM Dependencies — How We Cut Bundle Size by 70% Overnight",
+    "subtitle": "How we made our app faster by cutting unused NPM packages and reducing bundle size step by step.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7vnXdqgRq-BRe517mYPFEg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 35,
+    "title": "Dealing with Asynchronous Behavior in Angular Tests — async/await whenStable() vs fakeAsync +…",
+    "subtitle": "Best practices to deal with asynchronous behavior while writing Angular Tests.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*hgh3J-TA36lm8bHHy7D3cw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 36,
+    "title": "Java 24 is Here, But Does Anyone Care?",
+    "subtitle": "The Never-Ending Java Updates",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*XNs58B8bRNedOg_pofHy1Q.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 37,
+    "title": "So You Think You Know String",
+    "subtitle": "Like compound interest in investing, understanding memory gives you programming power.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*itwGR6V0WZUEStA8SZWVyw.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 38,
+    "title": "Why Is JavaScript’s Map Better Than Object?",
+    "subtitle": "JavaScript provides both Map and Object for storing key-value pairs, but Map offers significant advantages in many scenarios.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*xYscqStHCc4T77gxAakliQ.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 39,
+    "title": "Optimize React Context with use-context-selector",
+    "subtitle": "Cut down on unnecessary re-renders and boost app performance.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7_jexXjOHD2hF9Tfgtvp8A.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 40,
+    "title": "I Quit Nest.js in 2025: Here’s What I Chose Instead",
+    "subtitle": "When I first discovered Nest.js, it felt like a promising way to bring order and enterprise-level patterns into the Node.js world. Its use…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ojXE7_N63DX3V7zC9Haj_g.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 41,
+    "title": "Builder Pattern in JavaScript",
+    "subtitle": "What is the Builder Pattern?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*jcrVGGzWZ1LR0Zc1ufblag.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 42,
+    "title": "7 Golang Security Practices Every Developer Should Know",
+    "subtitle": "I’ve been working with Go for about 2 years now, and if there’s one thing I’ve learned the hard way, it’s that security can’t be an…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HCCz56rel3ZITpKFu1q1Lg.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 43,
+    "title": "Running AI Models in the Browser with JavaScript and React: A Fun Guide",
+    "subtitle": "This isn’t just a shiny toy — it’s a paradigm shift. Running AI in the browser slashes costs, boosts privacy , and unlocks offline…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ixsP9IxzWi20pN1BK6MoDg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 44,
+    "title": "Don’t use TypeScript types like this. Use Map Pattern instead",
+    "subtitle": "I’ll walk you through the problem I encountered, and how I improved the design by making a more dynamic approach using the Map pattern.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*dLiPy0pJrbsowuuH.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 45,
+    "title": "Quantum Computing Breakthroughs: Unlocking the Future, One Qubit at a Time 🚀",
+    "subtitle": "A Dev’s No-BS Guide to Mastering the Quantum Game 💪✨",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*PYo_reKleeNy7QY84R3N5w.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 46,
+    "title": "React 19 Memoization: No More useMemo & useCallback?",
+    "subtitle": "As React developers, we have used useMemo and useCallback for years to keep our applications efficient and avoid uncalled re-renders. It is…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ZhWrjP9q3KnSXe1eT2I2Zw.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 47,
+    "title": "What’s new in Next.js 15.3",
+    "subtitle": "Next.js 15.3 introduces powerful improvements in build performance, observability, and developer control. With the alpha release of next…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BH_RV7MFIAYfgyu6Q-f65w.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 48,
+    "title": "🌟 Vue 3 UI Libraries: 6 Most Popular Picks for 2025 🚀",
+    "subtitle": "Edit: Back in 2024, I shared a list of the “⚡️Top 6 Vue.js UI Libraries (Vue 3) Trending in 2024 🔥”. Now in 2025 I couldn’t resist…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OkATW3oQpaSCWsbr6tqrJw.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 49,
+    "title": "Why JavaScript Has a Temporal Dead Zone, What It Teaches Us About Scope — and Why It Matters",
+    "subtitle": "Have you ever encountered a strange error in JavaScript that says something like “Cannot access variable before initialization”? That’s…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*-3hJAWrFaRu4q0iJ.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 50,
+    "title": "The JavaScript Trick That Made My Code 5x Faster (And How You Can Use It)",
+    "subtitle": "I thought my JavaScript code was fast — until this changed everything.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*r1jXkPZ-jpGDOxpR"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 51,
+    "title": "7 React Patterns That Made Me a Better Front-End Developer",
+    "subtitle": "And Probably Saved Me From Smashing My Laptop Into a Wall",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2VLGEoVEo9HkvqzCLoTkEg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 52,
+    "title": "The Most Difficult JavaScript Interview Question",
+    "subtitle": "Can You Answer It ?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*IdUGk-yQK5JQ1i8g.jpg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 53,
+    "title": "🚀 From Beginner to Production: Optimizing Shopify Order Deletion in Express.js",
+    "subtitle": "Full Code : Github Repo",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*PVeCW0P5sWKpIjjb6b4tJw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 54,
+    "title": "How I Optimized My React Application to Handle 3M Traffic",
+    "subtitle": "10 Must Know Tips for Every React Develope (So You Don’t Have to Suffer Like I Did!) 😅",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HyubQ580IznxRYOEIRKhlA.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 55,
+    "title": "🧠 Understanding async and await in JavaScript",
+    "subtitle": "Have you ever tried to log the result of an API call in JavaScript — only to see something like Promise { <pending> } in the console?",
+    "image_url": []
+  },
+  {
+    "category": "javaScript",
+    "article_number": 56,
+    "title": "Becoming a Top 1% Node.js Engineer: Hidden Class Optimization Example",
+    "subtitle": "The series of Becoming a Top 1% Node.Js Engineer already has more than 10 articles, and one of the regular comments is to see more…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7eP_rWIXQdycu5o0Vwp77w.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 57,
+    "title": "A Frontend Dev’s Guide to Building an LLM Agent (That Actually Works)",
+    "subtitle": "You’ve probably played with ChatGPT by now. Maybe even hooked it up to your app via API. But what happens when you want your AI to do…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nsZTqEhG1kdSlQ6wNdqoGw.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 58,
+    "title": "JS Perf #1: The Hidden Cost of Arrays",
+    "subtitle": "Have you ever dreamed of improving your code’s performance in just one click?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lyR_4DSfW_C7rDAVqwTmMw.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 59,
+    "title": "Applying Security Best Practices in Serverless JavaScript Architectures",
+    "subtitle": "Coffee’s hot. Code’s shipping. Everything’s serverless. Sounds like a developer’s dream, right? Until it isn’t. Until that “tiny…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*1NHNOGMR9m8LLl4d.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 60,
+    "title": "I Will Reject Your Pull Request If You Violate These Design Principles",
+    "subtitle": "4 Principles for Clean Code That Won’t Get Your PR Rejected",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*iqwLiKUv94djaiUFF_nehA.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 61,
+    "title": "Understanding the Evolution of HTTP: From 1.1 to HTTP/3",
+    "subtitle": "The jump from HTTP/1.1 to HTTP/2 brought some major improvements in how data is transferred between the client (browser) and server.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lYwwabpZNprhbnQHNkL4cw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 62,
+    "title": "Why Every Other Backend Framework is Trash (Except Spring Boot)",
+    "subtitle": "I know, I know. You just sat down, and I come in swinging. But let’s be honest — if you’re not using Spring Boot for your backend, what…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*wLKtjMTfGOtBA_5A6RmEvA.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 63,
+    "title": "A Complete Guide to React Testing Library",
+    "subtitle": "In the modern JavaScript ecosystem, writing tests is a critical part of ensuring reliable and maintainable code. Among the many tools…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kaD23bKEVTPUBWFUYLJmYA.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 64,
+    "title": "Advanced RxJS Patterns in Angular: Mastering Observables for Performance",
+    "subtitle": "Unlock the full potential of RxJS in Angular by mastering advanced patterns for improved performance, scalability, and maintainability.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uiiHA-olOZu-aHVQ6z-Piw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 65,
+    "title": "John",
+    "subtitle": "The following is a list of the most popular and well-known names in English. The first name was used by John Lennon, who had been known for…",
+    "image_url": []
+  },
+  {
+    "category": "javaScript",
+    "article_number": 66,
+    "title": "Mastering JavaScript Promises: 5 Advanced Interview Questions with Code Examples",
+    "subtitle": "Note: Non-Medium members click here to read the full article free",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*fzE1WDD2OfJHean2.jpg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 67,
+    "title": "The Future of Angular: Moving Away from Zone.js",
+    "subtitle": "How zoneless change detection and signals are shaping the next era of Angular",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9TwIxElUrxnQp2UQ43tQ_A.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 68,
+    "title": "Top JS Libraries That Play Nice with C#",
+    "subtitle": "Ever tried building a fully interactive UI with just Blazor components… and slowly realized you’re reinventing a wheel that’s already…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_BtZmhuTlOfAqlyls4HV9A.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 69,
+    "title": "OOP The Wrong Road Taken",
+    "subtitle": "Java, C++ and the influence of a poor inheritance model for Object Oriented Programming",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*lfIOlBz_s_Q-wrdg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 70,
+    "title": "What even is Mongoose? Why don’t we just use MongoDB directly?”",
+    "subtitle": "A beginner’s journey to understanding why Mongoose handles what MongoDB stores.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2RkRbwNCkggMXkA5_pD7wA.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 71,
+    "title": "Top 30 Mistakes TypeScript Developers Make and How to Avoid Them",
+    "subtitle": "TypeScript has become one of the most popular languages for building scalable and maintainable applications. Its static typing system…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*w9TOyCA-5xtA1L8m.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 72,
+    "title": "15 Useful JavaScript Shorthands",
+    "subtitle": "15 Useful JavaScript Shorthands to Supercharge Your Coding",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*hfhVXdh2wvLRWEeCs2Yrxg.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 73,
+    "title": "NodeJS 23 is HERE! Features that will blow your mind 🤯",
+    "subtitle": "Released on October 16, 2024, introduces a suite of features and improvements enhancing developer experience, performance, and security.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*i68SrHQgpvJlpH3k.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 74,
+    "title": "JavaScript: Arrays, Objects & Functions",
+    "subtitle": "Let me share my understanding of the basic concepts of Arrays, Objects, and Functions in JavaScript.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*77VP5LLBxnjSpOWdPdfTOg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 75,
+    "title": "7 Game-Changing Tools Every Front-End Developer Must Know in 2025",
+    "subtitle": "Introduction:",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*PerrDJvUsZN6RR1x0YgFbQ.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 76,
+    "title": "Error importing lodash in components when using Histoire",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "javaScript",
+    "article_number": 77,
+    "title": "Senior Fullstack Interview Prep: A deep dive into CORS",
+    "subtitle": "Master CORS for senior full-stack interviews — learn its impact and Express.js setup with practical examples.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*40SJzb4hqDsqdAKoOLtprw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 78,
+    "title": "🧠 Static vs Dynamic, Strong vs Weak Typing: Demystified with Examples",
+    "subtitle": "Whether you’re choosing a new language or just trying to understand what someone means when they say “Java is statically typed” or…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ATUj2JuwT8Tyen2_8twMxQ.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 79,
+    "title": "Vue3 Really Doesn’t Need Pinia!!!",
+    "subtitle": "My article is open to everyone; non-member readers can click this link to read the full text.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*42cWmnENBOitG0CB"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 80,
+    "title": "ReactXRecipes. Preload web fonts for enhancing perceived performance",
+    "subtitle": "Preload web fonts for enhancing perceived performance",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*6lbZtTY1Qiwxd6C3.jpg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 81,
+    "title": "4 Practical Ways Mastering React Re-renders : Unlock Peak Performance🎢",
+    "subtitle": "Imagine your React app as a live theater production, where every component is an actor. When the script (state or props) changes, actors…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*6_BA6lG_tysWHFQh"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 82,
+    "title": "Mastering Stacks in JavaScript",
+    "subtitle": "When working with data structures in JavaScript, one of the most fundamental and useful ones is the Stack. Whether you’re prepping for a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*diooUCTbRqxfWg8i2MvnUQ.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 83,
+    "title": "Why Everyone Is Talking About Vite in 2025",
+    "subtitle": "In the fast-paced world of JavaScript development, tools come and go with alarming frequency. But occasionally, something comes along that…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kUp-JV82Ot8TDmG1Gpoppw.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 84,
+    "title": "Exploring Art with TypeScript, Jupyter, Polars, and Observable Plot",
+    "subtitle": "(Originally published on deno.com/blog.)",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SvSDwY7FOKLLvCjk-A6Gsg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 85,
+    "title": "The JavaScript Event Loop Explained with Examples",
+    "subtitle": "The event loop is a core concept in JavaScript that enables non-blocking, asynchronous behavior. Understanding how the event loop works is…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*vVsia7i4DvG_uGik.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 86,
+    "title": "Worst Node.js Practices to Use If You Want to Destroy Your App",
+    "subtitle": "A guide to build a Node.js app engineered to destroy performance, security, and maintainability.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*VLDyGu-G3UlFnhoAWzehCg.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 87,
+    "title": "The Hidden Dangers of JavaScript Frameworks No One Is Talking About",
+    "subtitle": "JavaScript frameworks have revolutionized web development. React, Vue, Angular, Svelte, and others have made it possible to build complex…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*ehsd4su-88vAGSxu.jpg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 88,
+    "title": "React vs Next.js vs Java: Which Stack Should You Choose for Your Next Project?",
+    "subtitle": "As a frontend developer, one of the most common decisions you’ll face is whether to build your app using React.js or Next.js. While both…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HtfkPLfvd5VpUBsF7jwY6w.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 89,
+    "title": "New CSS Features You Should Know",
+    "subtitle": "As web development continues to evolve, CSS has grown from a simple styling language to a powerful tool capable of creating complex…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HhyhWjsY3sv2n0ImzF6s2Q.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 90,
+    "title": "How to Convert Entire Websites into One File for LLMs Using AI Tools",
+    "subtitle": "If you’ve ever wanted to feed a website’s content to a large language model (LLM) for better understanding or documentation, you’re not…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*b8-guhDiGzMsWY_T"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 91,
+    "title": "Angular 19: Transforming HTTP API Calls with Signals and Resources",
+    "subtitle": "Modern Angular development continues to evolve with each version, bringing new features and paradigms that enhance developer experience and…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-L7sG4qn1m2RarKejI3pBg.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 92,
+    "title": "JavaScript webapp Game Series 0",
+    "subtitle": "Finding a path from a start point to an end point using a CSS grid.",
+    "image_url": []
+  },
+  {
+    "category": "javaScript",
+    "article_number": 93,
+    "title": "Directives: a core feature of the Angular toolkit",
+    "subtitle": "Let’s explore why directives in Angular are a key tool for system-level code, enabling us to write reusable and extensible logic.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*WNTdlreVpafaECy2WVr_kA.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 94,
+    "title": "Day1: Can You Find the First Unique Character in This JavaScript String?",
+    "subtitle": "Master this popular interview question using core JavaScript logic — no libraries, just your brain.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Jngsx8Vgu-UMnR63RuyTFw.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 95,
+    "title": "What is @Modifying in Spring Boot?",
+    "subtitle": "🎉 Article Published: 128",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*8qeKoJuiTMyTtlw8"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 96,
+    "title": "How to Efficiently Work with the DOM Tree",
+    "subtitle": "When you’re building websites using JavaScript, working with the DOM (Document Object Model) is super important. The DOM is like a map of…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*aC2tYpbN6EtB6YJX"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 97,
+    "title": "Vue is Too Easy",
+    "subtitle": "Front end development is a very polarized industry. We argue about programming languages, frameworks, and even the best indentation style…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.51:0.41/1*WyfClgTpak4LghSqSLMaXg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 98,
+    "title": "DIY Role-based Access Control in Next.js: No Third-party Services Required",
+    "subtitle": "Your app’s security shouldn’t depend on someone else’s code. Learn how to build your own RBAC system in Next.js from scratch.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*wQfxNMTfCrmCDckJ"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 99,
+    "title": "Becoming a Top 1% Node.js Engineer: Understanding CPU Cache for Performance Optimization",
+    "subtitle": "In our previous posts, we’ve explored the garbage collector in V8, diving into how different object sizes and their allocation places…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9ftyMTPbDyW-ZIfFpP2pXA.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 100,
+    "title": "9 Reasons Why Svelte Is the Framework of the Future",
+    "subtitle": "The JavaScript ecosystem has been evolving rapidly over the past decade, with frameworks coming and going as developers search for the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0pisqj54ymkdF-1tPM_HAg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 101,
+    "title": "JavaScript Functions: Advanced Interview Questions with Examples",
+    "subtitle": "1. What is a Closure and How Does It Work?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*IGPEJHsFHXG2D5cT.jpg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 102,
+    "title": "Bulletproofing Node.js: Mastering Error Handling Like a Pro",
+    "subtitle": "“It’s not about avoiding errors, it’s about handling them with confidence.”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1UBNwRFaslvqt_G3Njw3pg.jpeg"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 103,
+    "title": "Understanding multipart/form-data: The Ultimate Guide for Beginners",
+    "subtitle": "When building web applications, you’ll often need to handle form submissions, especially when dealing with file uploads or mixed data…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*L39HVY0685qYCenY"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 104,
+    "title": "How to store sensitive data on the client side?",
+    "subtitle": "In this article, we will discuss the right way and best practices of storing sensitive data on the client side.",
+    "image_url": []
+  },
+  {
+    "category": "javaScript",
+    "article_number": 105,
+    "title": "Say Goodbye to 5 JavaScript Libraries in 2025 👋",
+    "subtitle": "As JavaScript evolves, some libraries inevitably fall behind, unable to keep up with the developer community’s expectations for the latest…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*iMunZSY3WvzgOq5DXZspuw.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 106,
+    "title": "Master Asynchronous JavaScript: 10 Real-World AJAX Projects to Build",
+    "subtitle": "Master the power of asynchronous JavaScript with these 10 hands-on AJAX projects. Learn by building real-world applications, deepen your…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ikl_E4ps6vhL6fj6hrswPg.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 107,
+    "title": "How to install NVM (Node Version Manager) on macOS",
+    "subtitle": "Hi, I’m Suki, front-end developer. Meanwhile working on my personal project, I encountered a situation where the project required Node…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dsjcbFv1s3k4RiAtcBasjQ.png"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 108,
+    "title": "setTimeout vs setInterval in JavaScript",
+    "subtitle": "In JavaScript, both setTimeout and setInterval are applied to call functions asynchronously, yet they are called for distinct functions…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*v636IiUpAZtNESke"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 109,
+    "title": "From Console.log() to Console Pro: My Debugging Glow-Up",
+    "subtitle": "console methods every JavaScript developer should master",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*ZotGnhhJ00ddxM56ZSwtVA.gif"
+  },
+  {
+    "category": "javaScript",
+    "article_number": 110,
+    "title": "Understanding Promises and Async/Await — With Practical Examples",
+    "subtitle": "Asynchronous programming is one of the most crucial parts of JavaScript — whether you’re fetching data, handling timers, or dealing with…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*qsqIFyf0j9tBV_KjMyAnCw.png"
+  }
+]

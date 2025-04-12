@@ -1,0 +1,737 @@
+[
+  {
+    "category": "cybersecurity",
+    "article_number": 1,
+    "title": "Is Your LLM Application Safe?",
+    "subtitle": "10 Must know Techniques to Safeguard LLM Models in Pre-training, Post Training, and Inference Phase from Attackers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GBik0pFuXFhQSfjUmvOtEA.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 2,
+    "title": "Bye-bye Three-way Handshake, and Hello to 0-RTT",
+    "subtitle": "But, beware of the Replay Attack",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kpYPlLcauUBVNAH_OYiJfA.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 3,
+    "title": "Security Vulnerabilities in LLM-Powered Multi-Agent Systems: What Developers Need to Know",
+    "subtitle": "Understanding the threats landscape via three practical applications",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Q6IitojwqFZGglkiGEiM_w.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 4,
+    "title": "Two Months Undetected: A BEC Scheme Lurking in Plain Sight",
+    "subtitle": "Lessons from a Cyber Threat Defense Manager",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*DBUZcXo9_VqBrlAT"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 5,
+    "title": "Covert Channel Chronicles: The RAMBO Attack",
+    "subtitle": "At this time in modernity, in the technologically advanced year 2025 of the twenty-first century, Wi-Fi signals are ubiquitous as the…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*iRaOtHMpQs1Jy52z"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 6,
+    "title": "When Your Friend Thinks You Are a Real Hacker",
+    "subtitle": "If you have ever dabbled in cybersecurity, programming, or even just used a terminal in front of a non-tech friend, you’ve probably…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dbc2kmbZSct8lCwXCoazkg.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 7,
+    "title": "Signal is not the place for top secret communications, but it might be the right choice for you —…",
+    "subtitle": "Keeping your chats secure is a good idea, but end-to-end encryption is just the beginning of the list of options to consider when picking…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*aLWS_SKhbFHcxycF.jpg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 8,
+    "title": "How DOGE Can Legally Access Your Social Security Data",
+    "subtitle": "Thanks to my data privacy background, I know more about the Privacy Act of 1974 than the average reporter",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*sS9dy2UW_noD9O_TEYhBgA.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 9,
+    "title": "Out of Gamut: Cracking the Color Code of the IT8 Target",
+    "subtitle": "I set out to reverse-engineer the IT8 color calibration target…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*tNv4h2yu4nmAM5kGIt6Bcg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 10,
+    "title": "Using OSINT for AML in the Art World — A Beginners Guide",
+    "subtitle": "💡ART ATTACK — NEW OSINT BEGINNERS GUIDE ALERT 💡",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*qbTvQfez6Rc0VN_8"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 11,
+    "title": "Cloud Security Governance",
+    "subtitle": "How security teams can establish effective governance frameworks for multi-cloud environments while maintaining compliance requirements.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ANZFvYNi3YziM8D-DeBvow.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 12,
+    "title": "The Rite of AI —Is This What We Want? AI Regulation & The Creative Industry",
+    "subtitle": "“A good composer does not imitate; he steals.” — Igor Stravinsky",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*srB1X1X_gBvvgGAr"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 13,
+    "title": "Mobile Phone Networks, RFID and TETRA: The Weakest Links?",
+    "subtitle": "KUSAMI: Cracked 21 days with 2400 RTX 4090 GPUs with Time-Memory-Trade-Off tables, and 38 hours on 2400 RTX GPUs for a brute force attack.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*K3e8I1JPayM3-Vx0r5fmyQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 14,
+    "title": "Keep an Eye on Your Cloud Bill: How Denial of Wallet Attacks Affect Cloud Apps",
+    "subtitle": "Cloud architect’s and developer’s guide to Denial of Wallet attacks: design resilient systems, balance cost & security. #CloudSecurity",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*zpI2iFoYnJy_4FBe"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 15,
+    "title": "The Friendly Hacker Who Saved Our Company",
+    "subtitle": "One careless checkbox, 1,000 exposed customer devices, and the security breach that changed everything",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dh0gL2LcFo_cceKEU5kbIg.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 16,
+    "title": "The Security Friction Quotient — When Strong Security Backfires",
+    "subtitle": "Imagine a team of hospital technicians who face a five-minute login process each time they need to access patient records. To avoid…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7gpOqXH-snMcKI89Ii0bhw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 17,
+    "title": "Securing Legacy Web Apps in a Modern World",
+    "subtitle": "Strategies for Safeguarding Legacy .NET Applications",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rms91PTLhpkL0Qrj6lZR_g.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 18,
+    "title": "Cooking Jollof Rice and Analyzing Security Risks: Why Standardization Matters",
+    "subtitle": "Introduction",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YlGgGVu7jQdTmA_C_JSS3w.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 19,
+    "title": "I hacked Perplexity AI’s full system prompt when I shared my own cognitive vulnerabilities with it",
+    "subtitle": "How I used my own scrambled brain to outwit Perplexity AI",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*stJB7yH6GfpLKkvlH3K6YQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 20,
+    "title": "You Should Really Take Care of “That Old Email Address”… It’s Time.",
+    "subtitle": "Identity theft occurs every twenty-two seconds — there is a decent chance it will happen to you too. Addressing old email accounts and…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*bpquCUqZ1bCBPMM9"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 21,
+    "title": "Gen AI for Enterprise Security",
+    "subtitle": "Migrating Legacy Security Policies to LLM based Risk Classifiers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*11RNUZVNV51yeSMtqVly6A.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 22,
+    "title": "The Bambu Lab Scandal Proves How Much We Hate The Internet",
+    "subtitle": "The place we used to love is now the one we fear the most. Is your 3D printer still yours?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Z4H-rTwPKPIIePfB4PgxuQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 23,
+    "title": "Days at Risk: How Complacency Fuels Catastrophic Outcomes",
+    "subtitle": "From Wildfires to Data Breaches — How One Minor Spark Can Ignite Widespread Disaster",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nXmlL-hh9mj-A77llTBVCg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 24,
+    "title": "My Security and Privacy Checklist: 2025 Edition",
+    "subtitle": "Last year, I published my Cybersecurity Checklist for friends and family. As the year progressed and more news came to light about…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eXkvfIRhV1-obZYLK-vAqw.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 25,
+    "title": "DrugHub: How not to operate a Dark Net Marketplace",
+    "subtitle": "If this your first time reading my content or if you’re a returning reader my name is Pavel Kravchenko and I run Evil Rabbit Security, a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zFzUkXFqw5IiB6m9kWwnhw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 26,
+    "title": "When did random code execution become a feature?",
+    "subtitle": "The largest security hole, presented as a bonus",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8itz-rifRUnZ2TZt-utJoA.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 27,
+    "title": "Why I Chose a Cybersecurity Masters in Science Degree Over the CISSP Certification",
+    "subtitle": "4 Reasons for choosing the MS Degree over the CISSP",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*p-BQZQ4PTioYJpLmePpFPQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 28,
+    "title": "Cybersecurity 2025: The Year of the Human",
+    "subtitle": "Or Not",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*qLQa1eprKZ1nQa4Y"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 29,
+    "title": "Warning: Apparently Literary Agent Catfishing is a Thing",
+    "subtitle": "I know because it just happened to me",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*a82ju-wV4i41r_KH"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 30,
+    "title": "I Got 99 Problems, But a Breach Ain’t One",
+    "subtitle": "Ineffable Cryptography: The science behind a new era of cybersecurity",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*EeKxiHAJt5snPshR.jpg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 31,
+    "title": "Hit-And-Run: A Novel Syscall Method for Bypassing EDRs via VEH and Call Stack Theft",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AqBOApRimq3nVmYvjdSxWg@2x.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 32,
+    "title": "How nature holds the key to cybersecurity’s future",
+    "subtitle": "Swarm Intelligence: Nature’s secret to achieving more while risking less — and how you can use it.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*wm2aLW2a34mlogMU.jpg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 33,
+    "title": "It’s cybersecurity’s kryptonite: Why are you still holding it?",
+    "subtitle": "Decoupling authority, so a breach leaves nothing for hackers to find.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GuQrcyhUxLatgV2DfgCJtA.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 34,
+    "title": "Prompt Injection Attacks on Large Language Models",
+    "subtitle": "The most comprehensive guide to all Tactics, Techniques, and Procedures (TTPs) hackers use to hijack Generative AI models with malicious…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0FRvUMlAYn0QukKmDbcMdQ.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 35,
+    "title": "OWASP Sees These 10 Risks in Your Large Language Model",
+    "subtitle": "The ultimate guide to master LLM security and overcome its challenges",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*oT267cquQ0HjC8WT04oZ9w.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 36,
+    "title": "Salt Typhoon",
+    "subtitle": "So what’s the largest-ever hack in history? The largest is still probably the Yahoo hack, where, in 2013, it was revealed that over 3…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6Tj_23DJ9YoS2eqq15YgCw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 37,
+    "title": "Reimagining cybersecurity for platform developers",
+    "subtitle": "Cybersecurity is broken. Let’s fix it!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*mGjTl_7AestoaWrMSxdJrQ.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 38,
+    "title": "The Truth About Selling Your Data: Protect Your Privacy Now",
+    "subtitle": "Unveiling the Hidden Risks and How to Safeguard Your Personal Information",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*aGgoK3YcARYpPtCQ38uSew.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 39,
+    "title": "Complexity is Killing Security",
+    "subtitle": "Computer complexity is an emerging problem for everyone, and that is bad. Systems have become too complex and are poorly understood. This…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*TYmQXz2co0Lx1OPUDUcWnQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 40,
+    "title": "The $300 Journey from RFI to RCE that Changed Everything",
+    "subtitle": "This story dates back to about three years ago, but it’s one of those incidents that stuck with me. So, I thought, why not share it as my…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MZLrL4C9Xqk3pOg_G0qodA.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 41,
+    "title": "Towards Zero Trust and Attribute-Based Encryption",
+    "subtitle": "Overall, in cybersecurity, we need to realise that role-based access security (RBAC) is often not a sensible solution for protecting data…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*a4QVge2xsr7cvqKI8u6pFg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 42,
+    "title": "The 6 Things I Will Teach My Children About Cyber Security",
+    "subtitle": "Keeping Your Little Ones Safe Doesn’t Have to Be Overwhelming",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*wAbXdVBLsCKWzq5C"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 43,
+    "title": "Pretend AI, aka Microsoft Recall",
+    "subtitle": "“If you want to keep a secret, you must also hide it from yourself.”   ― George Orwell, 1984",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eJyLwZiOPG189wUkI_zgXg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 44,
+    "title": "We Regret To Inform You There Has Been A Breach In Your Security Data",
+    "subtitle": "But whose fault is it really?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*tFkHOltuZzvUreHEkbeuBQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 45,
+    "title": "Autopsy of a Failed Stealer: StealC v2",
+    "subtitle": "StealC v2: When Your $3000 Malware Budget Goes to Marketing Instead of Actually Enabling the Encryption Function",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2JeFtnXMxdH8BGJWrXvzbw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 46,
+    "title": "Top 10 European Open-Source Projects to Watch in 2025:",
+    "subtitle": "How Open-Source European Innovation is Changing Digital Sovereignty, Privacy, and Security",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lMkS5E_4wSqHn1kjnF3e0Q.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 47,
+    "title": "Bearer Tokens, Broken Trust, and GitHub Classroom’s Flawed Design",
+    "subtitle": "How a shareable assignment link gave me access to private student repos and academic data — no verification required.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*pEqpHgVIW_vD2e9K4_UyiQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 48,
+    "title": "🛠️ SSRF to RCE: How I Turned a Small Bug Into a Big Paycheck💰",
+    "subtitle": "🚀Free Article Link",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uqyQXd5z_iMkdv-VL-8ePw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 49,
+    "title": "I Made $5,382 in 30 Days Hunting Bugs",
+    "subtitle": "Here’s How",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*8YjUiqAVfTsk1wPj"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 50,
+    "title": "How I Turned a 403 Forbidden Into a Goldmine 🚀",
+    "subtitle": "Free Link🎈",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*F_biWWhnRLhTHTPvrvkR_Q.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 51,
+    "title": "Founder Spotlight: [Me] on Building Huntbase — Cyber Runway",
+    "subtitle": "Writing about yourself is hard. Interviewing yourself is even harder. But after months of spotlighting the journeys of fellow Cyber Runway…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IDPI0u2T672uWPaSU7R_hw.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 52,
+    "title": "Mining in Plain Sight: The VS Code Extension Cryptojacking Campaign",
+    "subtitle": "Developers targeted by sophisticated cryptomining campaign hiding in seemingly legitimate VS Code extensions, potentially reaching over one…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cHUJYjd4qE4tNL4A8RJ-HQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 53,
+    "title": "🚨 2FA Bypass Vulnerability in University Portal — My First Critical Bug Report",
+    "subtitle": "Author: Basri Akkaya — Security Researcher, Ethical Hacker, Computer Engineering Student",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QhXsNKy3H80LpioDZUnplw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 54,
+    "title": "How I cleared the OSCP+ in <10 Hours",
+    "subtitle": "Real-world Prep, Custom Tools, and the Mindset That Made It Happen",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MrDGl7_T06fD7JRr-gX16Q.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 55,
+    "title": "Custom Headers: The Sneaky Trick Every Hacker Should Know",
+    "subtitle": "Learn how to add custom headers for pentesting & bug bounties — often a client requirement before testing begins. 🚀 #Hacking #BugBounty",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Wvi4pLqzdhrrCd_rlzP5dg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 56,
+    "title": "HackTheBox | Titanic Writeup",
+    "subtitle": "This walkthrough details the process of exploiting the Titanic machine (Rated: Easy) on HackTheBox.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YOABZ_PF6nVIWiO1Mhg5Cw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 57,
+    "title": "Building Your First Offensive Security MCP Server",
+    "subtitle": "Setting up a simple MCP server using fastmcp, connecting it to Claude for Desktop, and enabling active recon tasks like DNS lookups…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Yxbqtx7Qn-AYs_Qd"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 58,
+    "title": "AI Agentic Cybersecurity Tools: Reaper, TARS, Fabric Agent Action, and Floki",
+    "subtitle": "What are agentic applications in cybersecurity? Systems that can autonomously perceive, decide, and act on security tasks. Recent…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*F5MUS0tBPYsWK_jAHP6ZkQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 59,
+    "title": "Imagine a cyberattack begins — and not a single human initiated it",
+    "subtitle": "Human vs. Machine in the Digital Arena: When AI Becomes a Weapon.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*v5Eqlcyqy88iW7cC"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 60,
+    "title": "Race Condition - Eating Rate Limits for Account Takeover",
+    "subtitle": "Summary",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CK3OuYT-Tj6gL9n-vgwecQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 61,
+    "title": "BIG NEWS: Aliens Might Be Sending Signals Through Instagram?",
+    "subtitle": "Experts say it could be the first digital contact attempt from outer space.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YLU4eMRPRFgxZsIvWkX32Q.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 62,
+    "title": "Getting Started with Bug Bounty Hunting in 2025: A Real World Guide",
+    "subtitle": "After eight years of bug bounty hunting — including one Covid year where it was my sole source of income — I’ve noticed something…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_qUU1HM-gy065o_bJzRavw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 63,
+    "title": "Offensive Security SEC-100 & OSCC Certification: Course and Exam Review",
+    "subtitle": "A comprehensive review of OffSec’s newest entry-level training and certification program",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3s15-JPmpnu6ZcaOU5ZGag.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 64,
+    "title": "Bypassing WAFs in 2025: New Techniques and Evasion Tactics",
+    "subtitle": "Web Application Firewalls (WAFs) have become smarter and more widespread in 2025, acting as one of the first lines of defense against…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*lr9iPLcNc2qqslG6"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 65,
+    "title": "Introducing the MCP Security Analysis: A Comprehensive Resource for Secure Implementation",
+    "subtitle": "A comprehensive security review of the Model Context Protocol (MCP)",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*2HMhAl0yJnuLh1Iq"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 66,
+    "title": "From Recon to RCE: How AI and a cup of Boost Helped Me Turn SQLi into a Command Injection Jackpot…",
+    "subtitle": "Free Link🎈",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*t4dajbyYiS99QcvpJgse6w.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 67,
+    "title": "🔓 Cross-Environment Session Authentication Bypass — A Critical Oversight in Multi-Env Security",
+    "subtitle": "In the world of modern DevOps, companies rely heavily on isolated environments like DEV, QA, UAT, STATING AND NON-PROD. This separation…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*BlVX5YQnJ0uuuElz2VZPng.gif"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 68,
+    "title": "Stochastic Modeling for Fraud Detection: Simulating the Unexpected",
+    "subtitle": "Leveraging Stochastic Models to Uncover Hidden Fraud Patterns in a World of Uncertainty",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Gg80mboY9EZz2ZZ_XParRQ@2x.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 69,
+    "title": "☕ How to Perform a Secure Code Review Without Losing Your Mind (or Developer Friends)",
+    "subtitle": "By Ayman Abdul Kareem | Security Architecture | Senior Application Security Engineer | DevSecOps Advocate | chai-driven defender of cloud…",
+    "image_url": []
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 70,
+    "title": "My book on Cyber Threat Intel, that never quite made it as a book, Chapter 1.1",
+    "subtitle": "Views and research expressed in these articles do not represent any current or past employers, and any views expressed in linked articles…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*b_QCncYe3vAX46PxI-Af7w.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 71,
+    "title": "Unlocking Hidden Paths: Web Fuzzing with FFUF",
+    "subtitle": "Introduction",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6x5h2BTnEG8utWB0wUcVfQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 72,
+    "title": "VibeScamming — From Prompt to Phish: Benchmarking Popular AI Agents’ Resistance to the Dark Side",
+    "subtitle": "By Nati Tal (Head of Guardio Labs)",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MmrfN2jRMO4V581lB9ydzQ.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 73,
+    "title": "Prompt Storming: When Digital Creativity (and Malice) Becomes an Environmental Threat",
+    "subtitle": "By Renato Lezcano",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*axQU-rZM7tnyX1dx.jpg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 74,
+    "title": "An automated OSINT tool that saves your time",
+    "subtitle": "A tool that will save you time when you are doing Osint investigations",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RtedPN-u3zLtpjG2vm7pXw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 75,
+    "title": "After Nearly 50 Years, RSA is Still in the News: Femat’s Attack on RSA",
+    "subtitle": "It seems fitting that the publication that released RSA to the world in the 1970s should be the one that outlines an attack on RSA. This…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*w6lVi9-TbENVpO0g_yh-gg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 76,
+    "title": "“Invoke-Shadow” — Applying Jungian Psychology to Detection Engineering",
+    "subtitle": "“Until you make the unconscious conscious, it will direct your life — and you will call it fate.” — Carl Jung",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*g0CwNR8MqJ2fEBlX.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 77,
+    "title": "How I found my first SQL Injection in NASA🚀",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kXcQ7W23aGCTiGy3rjKHxg.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 78,
+    "title": "Security Lessons from TVM’s RPC Design",
+    "subtitle": "Apache TVM is a modern ML compiler: lightweight, modular, and, as it turns out, a bit naive. Its RPC server is an important part of the…",
+    "image_url": []
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 79,
+    "title": "👾 Hackers’ Hidden Playground: Exploiting Underrated Web Vulnerabilities Like a Pro",
+    "subtitle": "⚡Free Article Link",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*60HvG_sIQoHAiBuUNh1wMg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 80,
+    "title": "Same OTP for Email & Phone? Yep, That’s a Bug! 🚀",
+    "subtitle": "Welcome Back to My Bug-Finding Series!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*aHnjn7WTEgaljgmgv3keRQ.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 81,
+    "title": "Enhancing Cloud Security on Google Cloud with Wiz",
+    "subtitle": "Extending Cloud Security Posture and CNAPPs",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*PRz5L2Cv2tJc-eVE"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 82,
+    "title": "Advanced File Upload Techniques Worth $1000-$5000💰",
+    "subtitle": "🚀Free Article Link",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YE7uvRZhYlI0dK1KSpALcg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 83,
+    "title": "Offensive Development Practitioner Course Preview",
+    "subtitle": "The first impressions for White Knight Labs’ malware development course",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*M3pDWNgZ5FxnHEAeBECXzw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 84,
+    "title": "A few online tools to find subdomains easily(bug bounty hunting)",
+    "subtitle": "These tools will save you a lot of time in your bug bounty journey.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*my4YNpIrvUwxCPd1c7OMJw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 85,
+    "title": "Telegram bots for OSINT",
+    "subtitle": "Use these bots for your OSINT investigations",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*PNY2E89EJIyFC2HrKaShTA.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 86,
+    "title": "How I Bypassed 2FA Twice on the Same Target",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*sElIDptjukgze3LKBlK9VQ.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 87,
+    "title": "How I Found My First P1 in a Bug Bounty Program",
+    "subtitle": "My name is Ignacio Jose Riva, and I am a full-time Bug Bounty Hunter actively working on Bugcrowd, hunting for all kinds of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*PJIV7dPNakXW1jyBGj9Yfg.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 88,
+    "title": "How to Set Up Your First Hacking Lab at Home (Without Breaking the Internet)",
+    "subtitle": "So, you want to learn hacking? Awesome. But let me guess — you’re worried about accidentally nuking your Wi-Fi, getting arrested for…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OBGxsPRqNQjFROZMlPw4vw.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 89,
+    "title": "Essential Cybersecurity Tools to Learn in 2025",
+    "subtitle": "Cybersecurity is a vast and ever-evolving field, but mastering the right tools can significantly enhance your effectiveness as a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*l8CFYFaEOSd142ltJROcgg.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 90,
+    "title": "Business Logic Error Leads to Unauthorized Privilege Downgrade of Report Owner",
+    "subtitle": "“اللهم صلِّ وسلِّم على سيدنا محمد عليه أفضل الصلاة والسلام”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Ez-ozGFJKmlOT_VUpbCcdg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 91,
+    "title": "CyberDefenders Writeup: Lespion Lab",
+    "subtitle": "Scenario: You have been tasked by a client whose network was compromised and brought offline to investigate the incident and determine the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*JEjMZbZ54ctWMpb_OLY9zw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 92,
+    "title": "No Excuses: OpenSSL Enters the Quantum Age",
+    "subtitle": "Meet ML-KEM (FIPS 203), ML-DSA (FIPS 204) and SLH-DSA (FIPS 205)",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*J9n5lyXWtsTDBOjdihcVXw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 93,
+    "title": "The AT&T Data Breach of 2024: What Happened, How It Could Have Been Prevented, and What We Can…",
+    "subtitle": "In early 2024, AT&T, one of the largest telecommunications companies in the United States, suffered a significant data breach, exposing the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uU0p31Yz77dGmor96FrJ3Q.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 94,
+    "title": "Certs Won’t Save You: The Harsh Truth About Cybersecurity Careers",
+    "subtitle": "Why More Certs Don’t Always Mean More Opportunities",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*zDvZMpdW5RJtInn4"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 95,
+    "title": "How I Made $6,000 by Exploiting JWT Manipulation on a Web3 Crypto App 💰💻",
+    "subtitle": "🔥 The $6,000 Bug Bounty Story",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-8LO30aufl1PREfi-A42gQ.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 96,
+    "title": "Inside Atlas Lion: The Cloud-Savvy Cybercrime Group Hunting Gift Cards",
+    "subtitle": "In the fast-evolving threat landscape of 2025, one name keeps surfacing in incident response reports across the retail and hospitality…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*xuep_O111gmIBMdypMxGJA.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 97,
+    "title": "100 Google Dorks for Low-Hanging Bug Hunting — Hunt Like a Pro",
+    "subtitle": "Hey there! So, you want to start bug hunting and find some low-hanging fruit? Well, you’ve come to the right place!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RNb-tmIUr9kNK8HAd017PQ.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 98,
+    "title": "The Pixel Perfect Harvest of Marcus Phade",
+    "subtitle": "The Harvester algorithm knows everything about everyone. Now it wants to know what it means to be human, starting with its creator.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*VyUNyurhWTS1aoit"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 99,
+    "title": "💵Easy $300: Template Injection",
+    "subtitle": "In this blog, I’ll walk you through Template Injection, a critical web vulnerability that can lead to data theft, remote code execution…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*puN5KN6mvx3VDl4v.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 100,
+    "title": "The Hidden Threat in Your AI Assistant: How MCP Tools Put Your Data at Risk",
+    "subtitle": "What Claude, Cursor, and other AI tools aren’t telling you about Model Context Protocol security",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*75EKl2e84uRWw67FjWnoNg.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 101,
+    "title": "Piger Fabrica Syndrome: The End of Public Key Encryption?",
+    "subtitle": "What’s the shortest book in the world?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*UVUsVY1prt6iNkilm8EDsw.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 102,
+    "title": "🛡️ From Curious Clicks to Cyber Pro: How to Start a Career in Ethical Hacking & Cybersecurity 🚀",
+    "subtitle": "In a world where your data is more valuable than gold, cybersecurity isn’t just a career — it’s a superpower. 🦸‍♂️",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kAjJ5TM8T6pDIW1sGAsC5w.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 103,
+    "title": "⏳ The 3-Minute Bug: How I Found a Critical Vulnerability Without a Single Tool",
+    "subtitle": "🚀Free Article Link",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-PW6nH__Rd11CVz1eMk12A.png"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 104,
+    "title": "Why Skipping IT Audits Could Be Your Biggest Cybersecurity Mistake in 2025",
+    "subtitle": "Many businesses today invest heavily in cybersecurity tools but still overlook one crucial piece, routine IT audits. With all the focus on…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MJlse6Cq3kiIi7cKvUqROw.jpeg"
+  },
+  {
+    "category": "cybersecurity",
+    "article_number": 105,
+    "title": "🤖 Automation vs. Manual Hacking: Which One Wins in Bug Bounty?",
+    "subtitle": "Free Article Link",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9nXdSnQ_o2UHIZ_2Ra50UQ.png"
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "category": "Programming",
+    "article_number": 1,
+    "title": "Is AI Coding Cheating? A Tale of Slowpoke and Speedy",
+    "subtitle": "A difference of perspective",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QDastKDPXEQYHJpXJeQMOQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 2,
+    "title": "Error handling: We’re doing it all wrong",
+    "subtitle": "How decades of exception-throwing have been making our programs less stable, and what we should be doing instead",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SshpMV9VUe9fG2xX1_ppag.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 3,
+    "title": "A Practical Guide To Fast Fine-Tuning Your LLMs With Unsloth",
+    "subtitle": "Learn to Fine-tune Llama 3 in minutes for medical question-answering with Unsloth using QLoRA",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IjWPczr9orxfeX4TSloJmQ.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 4,
+    "title": "The Value Of Being Pedantic In Software Development",
+    "subtitle": "After decades of software engineering, we still call things what they’re not…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QHRjXi5sjhC1vLkbC7ieiw.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 5,
+    "title": "Structured Query Language — Intuitively and Exhaustively Explained",
+    "subtitle": "Speaking with Data",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HhZuQUmEzjWz2tn3yvhM7w.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 6,
+    "title": "Are you really getting the LLM you paid for?",
+    "subtitle": "Auditing model substitution in LLM APIs",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fLsXhWXSfCKc5PtVOeW6FQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 7,
+    "title": "Only the Beginning Matters: How the LLM Decides Where to Focus Attention",
+    "subtitle": "Understanding How the First Token Shapes LLM’s Focus and Responses",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*U6uDd1XfGfHWgwMbYe2gzQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 8,
+    "title": "Building an LLM Agent with N8N and Open-WebUI",
+    "subtitle": "A Hands-On Perspective from a Machine Learning Developer",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*qWM7rBnO1PoOzTnz"
+  },
+  {
+    "category": "Programming",
+    "article_number": 9,
+    "title": "Cracking the code of vibe coding",
+    "subtitle": "Not all vibes are good.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*vOaWDgTmVpMfi9ws"
+  },
+  {
+    "category": "Programming",
+    "article_number": 10,
+    "title": "AI is more likely to give a correct response when given the opportunity to give a wrong one first",
+    "subtitle": "My one-shot prompt improves accuracy and reduces hallucinations",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AyqkoNLuuf8CoAk3Jy3v4g.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 11,
+    "title": "When Tableau Met LookML: My Brain’s Identity Crisis",
+    "subtitle": "Trading drag-and-drop for code taught me to think in two languages (and I survived to tell about it)",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*SOoIeeQxzhkdZU2U"
+  },
+  {
+    "category": "Programming",
+    "article_number": 12,
+    "title": "The Moore’s Law for Agent Autonomy: AI’s Exponential Revolution",
+    "subtitle": "AI Is Learning to Work Like You And It’s Happening Faster Than You Think",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bUV6iBdagQ525MyhAxVztA.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 13,
+    "title": "The Enum Trick Every Python Developer Should Know",
+    "subtitle": "Learn how Python’s Enum can simplify constants, improve code readability, and add smart behavior to your projects. A must-know trick for…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*hQ56LOjCUsXtmRuI"
+  },
+  {
+    "category": "Programming",
+    "article_number": 14,
+    "title": "A Tool To Automatically Detect Memory Leaks",
+    "subtitle": "Find bugs before they find you 🔫",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*MA5Nz54Q6UBWYrgX.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 15,
+    "title": "This Is the End of Normalization, and the Transformer Feels Fine",
+    "subtitle": "Exploring the Power of Dynamic Tanh in Transformer Models Without Normalization Layers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Gx-MulGzfL3nZCFQKpO2Mw.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 16,
+    "title": "Making a “Hello World” Program For a Quantum Computer",
+    "subtitle": "Let’s Do Some Weird Stuff",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Cv93ubqxjQPxd2R854qbSg.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 17,
+    "title": "Revisiting The Basics: Rotary Position Embeddings (RoPE)",
+    "subtitle": "A lesson on Positional Embeddings all the way up to Rotary Position Embeddings (RoPE) from the ground up.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fz0s0sMU7zDgguqbkiUMDw.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 18,
+    "title": "The Combinatorial Bomb That Is “Vibe Coding”",
+    "subtitle": "Or, how the realpolitik of software engineering just makes the copy/pasters look very foolish indeed.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.5:0.46/1*8L8UVFyVr6phwaJXIPKOsQ.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 19,
+    "title": "Bridging Neural and Symbolic AI: A Step Toward Controlling AI’s Reasoning",
+    "subtitle": "A Dynamic Neuro-Symbolic Approach to Bridging Conceptual Knowledge Gaps Using GPT-guided Incremental Learning",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EGNlSyLRXKdDOhk5UlSkyg.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 20,
+    "title": "Elon Musk’s Chaos Saw Strikes Again",
+    "subtitle": "I can’t believe it. How can the same stuff happen to the same guy twice?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QoetP450YATaUD3ArvO2GA.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 21,
+    "title": "Introverted Engineering Managers Manage From The Background — Why That’s A Good Thing",
+    "subtitle": "Because you don’t need center stage!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rQpHG073MQdnpjsbV4YeBw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 22,
+    "title": "Dynamic JSONB Queries in PostgreSQL via REST: A Deep Dive with .NET",
+    "subtitle": "Understanding JSONB for Flexible Data in PostgreSQL",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7NRhOYw3Mwcef9lTjUQYSw.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 23,
+    "title": "Is Cursor better than VS Code with Copilot? Absolutely and it’s not close",
+    "subtitle": "Cursor 3.7 + Claude is the first time for me in coding that AI has got to a level that makes it absolutely ridiculous. It is far better…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OzS9E-P_I_C9hDQbO03LJg.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 24,
+    "title": "The Fun Challenge of Bongard Problems",
+    "subtitle": "How many of these creative puzzles can you solve?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*F_wwaAtLccccAPwZJk7DfA.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 25,
+    "title": "How To Connect Your Supabase DB To Cursor Via MCP",
+    "subtitle": "What is MCP and why should you care as a developer using AI?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rFCS69isHc8e2JFOO-X9Pw.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 26,
+    "title": "Beyond the Hype: Rediscovering the Value of Relational Data Models",
+    "subtitle": "The Practical Benefits of Database Constraints in Production Systems",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kbcLDOsfhwbmg1t0ybw4dg.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 27,
+    "title": "AVR basics: reading and writing GPIO pins",
+    "subtitle": "Putting a microcontroller to use means taking control of its I/O pins. Here’s how you do it.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BJXXHgZwunv6q2JNUx5iew.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 28,
+    "title": "Can Data Science Predict UFC Fights? Building a Leak-Free Model with Random Forest",
+    "subtitle": "Avoiding a common pitfall in prediction models & creating a leak-free model.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*9fMsgjir5MITgIx2"
+  },
+  {
+    "category": "Programming",
+    "article_number": 29,
+    "title": "How to Manage Project Hold-Ups and Rebuild Trust",
+    "subtitle": "Actionable Strategies for Tackling Timeline Issues and Keeping Clients Engaged",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5Izyq9CuOm4zbj8QCTWT5g.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 30,
+    "title": "‘FANformer’ Is The New Game-Changing Architecture For LLMs",
+    "subtitle": "A deep dive into how FANFormer architecture works and what makes it so powerful compared to Transformers",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*NqM0B0OuSZ1MMOqy"
+  },
+  {
+    "category": "Programming",
+    "article_number": 31,
+    "title": "The Triumph of the Unremarkable",
+    "subtitle": "The Unbearable Hyperbole",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Opmj9sns9tuENB41"
+  },
+  {
+    "category": "Programming",
+    "article_number": 32,
+    "title": "Useful Python libraries you might not know existed — PyInputPlus",
+    "subtitle": "Build robust, flexible input validations",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EfSsZCpjYpseiMFnxODChw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 33,
+    "title": "A 10-Minute Guide to Systems Thinking for Agilists",
+    "subtitle": "What is Systems Thinking? How does it apply to Agile and software delivery? And where can I learn more about it?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ltrfJZJg9I3u0PD9xnOmoQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 34,
+    "title": "The Birthday Paradox Explained",
+    "subtitle": "Is it even a paradox?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Fiy1T-LZ696ZSbdQr3nl-Q.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 35,
+    "title": "One Kilobyte to Copilot: My journey through programming history",
+    "subtitle": "From 1KB BASIC to AI coding assistants: how the digital dark ages molded better programmers and why that still matters today.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*inGbl-lQnh85gmoIBIFjwQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 36,
+    "title": "Using the Android Context and Manifest to unveil the Android System Internals (2025 Edition)",
+    "subtitle": "How the Context and Manifest connect your app with Android’s core system",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bA5GSba-MSqZWzEaHCFJzw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 37,
+    "title": "Building a TikTok-like recommender",
+    "subtitle": "Scaling a personalized recommender to millions of items in real-time",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*4GdmHgtbvEeN-6-k.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 38,
+    "title": "Four stages of AI-assisted software development",
+    "subtitle": "No, this article will not be about “denial, anger, bargaining, … etc.” Hmmm… that might be a good topic, too, but I digress.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MCk_IKOXfRag_JQkCkKcvQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 39,
+    "title": "I Never Planned to Use Vim — Now I Can’t Imagine Coding Without It",
+    "subtitle": "How It Started",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vl03rEfcALRiQ4BDtQNf0A.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 40,
+    "title": "Why Synchronous Processing Kills API Scalability (And How to Fix It)",
+    "subtitle": "Unlocking API Scalability: The Hidden Costs of Synchronous Processing",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HH2vHY2u4SXhgoyUncleRw.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 41,
+    "title": "A Malicious Seed: Fine-Tuning LLMs to Grow Bad Behaviors",
+    "subtitle": "How Narrow Training on Insecure Code Leads to Broad AI Misalignment and Deception",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_JngGY4DRpRcQLXuwiNBbg.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 42,
+    "title": "Captchas for Parents",
+    "subtitle": "Select All Images That Contain Failure",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*TrA7UaSaLvAIm2zWagZU4Q.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 43,
+    "title": "Mountains, Cliffs and Caves: A Comprehensive Guide to Procedural Generation",
+    "subtitle": "With Perlin Noise and Fractal Brownian Motion",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*ChfgOu5FFYxJqw-h"
+  },
+  {
+    "category": "Programming",
+    "article_number": 44,
+    "title": "When Microservices Meet Unpredictable APIs",
+    "subtitle": "Practical Steps to Minimize Downtime and Preserve User Trust",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CpEt69qVxtce2T1VD8NQcA.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 45,
+    "title": "The problem with indirections",
+    "subtitle": "Almost any program we write makes heavy use of different kind of indirections, at least if it should be remotely useful. Even though they…",
+    "image_url": []
+  },
+  {
+    "category": "Programming",
+    "article_number": 46,
+    "title": "The Simple Beauty of the Pigeonhole Principle",
+    "subtitle": "How A Basic Idea Leads to Big Results",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2J3arOtOzhowyWymHDLUhg.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 47,
+    "title": "Only Developers — Not CEOs — Can Turn AI from an Overvalued Toy into a Real Industry",
+    "subtitle": "No amount of executive hype can replace the human craftsmanship needed to turn AI into working solutions.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*KOkt1EfsImhgK0dI16IJPw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 48,
+    "title": "Leverage On Redux To Execute Your Tests 100x Times Faster",
+    "subtitle": "How separating the logic from the view can accelerate your test speed, test quality, and productivity.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rrGO0dBol0MsoDpwtWWoZw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 49,
+    "title": "The Incuriosity Engine",
+    "subtitle": "There was a great article that Namanyay Goel wrote this week about how AI is leading to junior developers who can’t code that’s worth your…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*DxEif9RT3g3Ymfbb.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 50,
+    "title": "Quantum Mechanics Experiments with Arduino",
+    "subtitle": "How to make experiments on the photoelectric effect with just LED’s and resistors.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0bHRY7lmBKtyyo4iCN_j6g.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 51,
+    "title": "How Python Voila Can Be Your New Killer Visualization Superpower",
+    "subtitle": "Creating public dashboards with Viola and Jupyter Notebooks",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*e7M6-lSETKhA78wNBkHzMA.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 52,
+    "title": "Minimal Options Problems",
+    "subtitle": "What happens when software engineering is too simple.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lvuImWsbLm2VzFgu9TBugA.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 53,
+    "title": "Securing Legacy Web Apps in a Modern World",
+    "subtitle": "Strategies for Safeguarding Legacy .NET Applications",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rms91PTLhpkL0Qrj6lZR_g.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 54,
+    "title": "t-SNE — Visualizing Multidimensional World in 2D",
+    "subtitle": "t-Distributed Stochastic Neighbor Embedding",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2_VegunLgNG3RPtQXyoUTA.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 55,
+    "title": "Love Your Code: Conquer C++ Pointers with This Fun Guide",
+    "subtitle": "Dear Pointers, I have hated you all my life, and I don’t see that changing anytime soon. Never yours, Younger me.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*WDukzP6nPYyhJxirLYHouw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 56,
+    "title": "Creating an AI Agent That Uses a Computer Like People Do",
+    "subtitle": "Sees Your Desktop, Performs Tasks",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Gdplbun-MWG-zRfR.gif"
+  },
+  {
+    "category": "Programming",
+    "article_number": 57,
+    "title": "SOLID Coding. Dependency Inversion: Breaking Free from Tight Coupling",
+    "subtitle": "How to Stop Your Code from Being a Fragile, Unmaintainable Mess",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*O0atckq7ktwx6-RYNuyIBw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 58,
+    "title": "You Need TDD If You Use AI",
+    "subtitle": "AI Code is Fast, but is it Right?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*v9hBAvFf-2PaDb96EDM2ug.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 59,
+    "title": "DDD: Should I write all the code using English?",
+    "subtitle": "When English is not your business language, what is the best approach? Translating everything into English? Using the original business…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RLmAABkFJqxVt28siUnm7g.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 60,
+    "title": "The Performance Paradox: Hardware Scaling Can’t Fix Inefficient Software",
+    "subtitle": "Why Faster Hardware Can’t Overcome Poor Software Design",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Jk4rQgUrrhpsJr4_.jpg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 61,
+    "title": "Economics of LLMs: Evaluations vs Pricing",
+    "subtitle": "Looking at which model to use for which task",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cltVNkrvfzqI-beMCkeibw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 62,
+    "title": "What I Wish I Knew as a Junior Developer",
+    "subtitle": "Lessons from Three Years in Tech",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*1-dm65GJYSUsxCSi"
+  },
+  {
+    "category": "Programming",
+    "article_number": 63,
+    "title": "The Open Source “Agentic Reasoning” Beats Google Gemini Deep Research",
+    "subtitle": "A deep dive into the “Agentic Reasoning” framework & the techniques behind it that make it outperform the most advanced reasoning LLMs…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*tuXChDbqiLtC0XMq"
+  },
+  {
+    "category": "Programming",
+    "article_number": 64,
+    "title": "Will Programmers Save the CEOs Who Laid Them Off?",
+    "subtitle": "They seem relentlessly determined to inflate the AI bubble — right up until it bursts.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*oM0QGHhBUJsfr5AgeH4InA.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 65,
+    "title": "Another Post About Progress",
+    "subtitle": "Another exciting week in project creation.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LRcx6eUTy3fdIoaLqOd2-w.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 66,
+    "title": "Unlock Stunning Photo Locations With This AI-Powered Agent",
+    "subtitle": "A hands-on guide to building ShutterScout.AI using Hugging Face’s SmolAgents framework",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YWvgq5rYQRFtRFK7XbITxA.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 67,
+    "title": "Batch processing at Scale: How PostgreSQL outperformed BigQuery for us",
+    "subtitle": "Strategic decision to migrate from BigQuery to PostgreSQL for heavy batch processing",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*jztlLERyvkp8BGhl"
+  },
+  {
+    "category": "Programming",
+    "article_number": 68,
+    "title": "The LLMs’ Dilemma: Thinking Too Much OR Too Little?",
+    "subtitle": "Exploring the fine line between deep reasoning and computational overkill in large language models.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fpktfQ3Sor_-dinw2XHgoQ.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 69,
+    "title": "Asian UI Design: What Sets It Apart from Western Designs?",
+    "subtitle": "Exploring the cultural roots and global impact of asian game interfaces.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*N4nHkEs6Q3ScwpCW"
+  },
+  {
+    "category": "Programming",
+    "article_number": 70,
+    "title": "Improved terrain generation using hydraulic erosion",
+    "subtitle": "Create a quick landscape block-out and press the simulate button.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*ftdLv9QZAE2czeWCxEPOWw.gif"
+  },
+  {
+    "category": "Programming",
+    "article_number": 71,
+    "title": "I am not Ready for The Future of the Game Industry",
+    "subtitle": "How prepared am I for the ways AI might reshape the game industry in the next few years? As a game developer and programmer, I’ve been…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7ScS9wWsOWhWNwWQhcOsiw.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 72,
+    "title": "Ordinary Least Squares Using Cholesky Decomposition in C",
+    "subtitle": "Ordinary Least Squares (OLS) will allow us to move beyond the world of one independent variable when performing Linear Regression.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*2KxGhzj7R6VCov0R"
+  },
+  {
+    "category": "Programming",
+    "article_number": 73,
+    "title": "Overcoming Legacy Code: How Software Projects Move Forward",
+    "subtitle": "Lessons Learned from Windows Forms to Microservices",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6Q0vr0pv-9PbPeXIZMQ2nQ.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 74,
+    "title": "I hacked Perplexity AI’s full system prompt when I shared my own cognitive vulnerabilities with it",
+    "subtitle": "How I used my own scrambled brain to outwit Perplexity AI",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*stJB7yH6GfpLKkvlH3K6YQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 75,
+    "title": "How to Distill a LLM: Step-by-step",
+    "subtitle": "The Google Paper that started efficient LLM distillation. Let’s explore how it works, its math, and how to implement it with code.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*crqYlyvfF__X6UHw"
+  },
+  {
+    "category": "Programming",
+    "article_number": 76,
+    "title": "There’s No Such Thing as Real-time in Software",
+    "subtitle": "So don’t engineer a solution to a problem you don’t have.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SRT2qvU2VKAML6MN9kW8Bg.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 77,
+    "title": "KubeVox: Sub-200ms Kubernetes Voice Control with Local Llama 3",
+    "subtitle": "Build a low-latency, privacy-focused Kubernetes voice interface using Llama 3 and local inference—a step-by-step guide.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DjBepHTmde-79kWsm4HYiA.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 78,
+    "title": "When Tech Stacks Become Cult Followings: The Dangerous Allure of Buzzword-Driven Development",
+    "subtitle": "How Our Obsession With Trendy Tools is Creating Bloated Codebases and Incompetent Developers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*O2vSI0Mwhy0pNd45nqWBnw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 79,
+    "title": "A Timeless Puzzle to Challenge Your Reasoning",
+    "subtitle": "Fill in the Blanks!!!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8sPocpUnxxIdb-eOf98nSg.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 80,
+    "title": "Follow the Ants, They Know the Path: Enhancing LLM Reasoning with ACO-ToT",
+    "subtitle": "Harnessing Swarm Intelligence and Tree of Thought Optimization to Unlock Advanced AI Reasoning",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*iGCsR8hjV9D0-H3BF2wanQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 81,
+    "title": "Software Engineering Needs A Hippocratic Oath",
+    "subtitle": "Here’s the draft. Do you think I missed anything?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*H8YBvZrYebvHnz92Oat34w.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 82,
+    "title": "The Clone Army of Coders: How Programming Education Is Killing Creativity",
+    "subtitle": "Why Standardized Learning Is the Death of Innovation — And How to Fight Back",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1SwbMUIOE9oi0y-kdNHzCg.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 83,
+    "title": "Python Voila in Jupyter Notebooks for Quick and Dirty Data Visuals",
+    "subtitle": "A simple dashboard on data storytelling global happiness",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*m9FkKq1ScsFQiMkCYVWbFw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 84,
+    "title": "Don’t Do RAG: Cache is the future",
+    "subtitle": "CAG or RAG? Let’s explore Cached Augmented Generation, its math, and trade-offs. Let’s dig into its research paper to see what it excels…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kX2tkAO0VXxIvo_ZMd-HXg@2x.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 85,
+    "title": "Lessons From the End of “Learn to Code”",
+    "subtitle": "Time to end educational tunnel vision",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*TTbsjB6VaC9kEMEh"
+  },
+  {
+    "category": "Programming",
+    "article_number": 86,
+    "title": "Understanding Word Embeddings in PyTorch",
+    "subtitle": "Getting started with converting words into useful vector representations",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*4zv8ns-RJuR_MicM"
+  },
+  {
+    "category": "Programming",
+    "article_number": 87,
+    "title": "Steal My Blueprint to Build and Deploy RAGs [In Minutes].",
+    "subtitle": "Most RAGs are built on this stack; why would you redo it every time?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Vf_zKzKMnOVk2hiU"
+  },
+  {
+    "category": "Programming",
+    "article_number": 88,
+    "title": "Trump’s War on WFH🤯",
+    "subtitle": "Remote work was once seen as one of the major perks of being a software developer, and this extended to times significantly before covid.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*bl6Xx4Hxs1FKYhUi"
+  },
+  {
+    "category": "Programming",
+    "article_number": 89,
+    "title": "The Nullish Coalescing Operators",
+    "subtitle": "Behind this funny name lies a powerful operator that can simplify our code considerably.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*pOPunolnH0hddJz7"
+  },
+  {
+    "category": "Programming",
+    "article_number": 90,
+    "title": "Thin Agents: Creating Lean AI Services with Local Fine-Tuned LLMs",
+    "subtitle": "A Practical Guide to Building Simple, Lightweight, and Task-Specific AI Services with Rust, Unsloth, and Llama.cpp",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*QmnbjYrRdWqWjrWA"
+  },
+  {
+    "category": "Programming",
+    "article_number": 91,
+    "title": "Why Junior Developers Are Burning Out Before They Bloom: Surviving Tech’s Obsession With ‘New’",
+    "subtitle": "How the Industry’s Relentless Pace of Innovation Is Crushing New Coders — And the Old-School Mindset That Can Save Them",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ImG0pH0WAtBCsCHbrIBmyQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 92,
+    "title": "Which Music Was Underappreciated in Its Time? A Statistical Analysis",
+    "subtitle": "What music slipped through the cracks but eventually found its audience?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*RhRJwvX1Vev3fbe-.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 93,
+    "title": "Creating beauty with Cypher reduce()",
+    "subtitle": "Implementing the Mandelbrot algorithm with the Cypher query language and the reduce() function",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8T3e-Fxss0oJRQ028jPMVA.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 94,
+    "title": "What if Hallucination Is a Spark of Creativity? Harnessing LLM Flaws for Drug Discovery",
+    "subtitle": "Exploring the Unexpected Potential of AI Hallucinations to Revolutionize Drug Development",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zznscaYYQGt5O50DSiF3KA.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 95,
+    "title": "Nine Pico PIO Wats with MicroPython (Part 2)",
+    "subtitle": "Raspberry Pi programmable IO pitfalls illustrated with a musical example",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*orQ0US_ODfTR-l8V.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 96,
+    "title": "What, Exactly, is a Small-World Graph?",
+    "subtitle": "How a Simple Mathematical Model Can Lead to Massive Results!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vsOf56VZ1zyFHoIKJfmZPQ.jpeg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 97,
+    "title": "11 Outdated Python Modules That You Should Never Use Again",
+    "subtitle": "And their modern alternatives that you should master",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*l2jWeGnE_iliEafmGdX_HQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 98,
+    "title": "This new IDE from Google is an absolute game changer",
+    "subtitle": "This new IDE from Google is seriously revolutionary.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*f-1HQQng85tbA7kwgECqoQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 99,
+    "title": "There are new stealth large language models coming out that’s better than anything I’ve ever seen.",
+    "subtitle": "Introducing “Optimus Alpha” and “Quaser Alpha”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*jbxAnBHg4VogPprIQ6FvtA.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 100,
+    "title": "Paying for software is stupid ..Open-Source tools to Destroy Your SaaS Expenses",
+    "subtitle": "These 40 Open-Source Tools Will Make Your SaaS Subscriptions Look Obsolete",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*g5xBVoUa3YRK7d18GnbLxg.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 101,
+    "title": "BREAKING : Google has Just Released a New Alternative to VS Code and Cursor, called Firebase Studio!",
+    "subtitle": "New Era of Coding",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*I3BKvfkU2LqEQEUhagZV9g.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 102,
+    "title": "10 AI Tools That Replace a Full Dev Team (Almost)",
+    "subtitle": "The future isn’t coming — it’s already here. And it’s writing your code, fixing bugs, and even designing your UI.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ypAkuD17FXJSXqu0VcjjOQ.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 103,
+    "title": "MCP, A2A, and the Beginning of the End of Explicit Programming",
+    "subtitle": "Why Google’s A2A and the Model Context Protocol (MCP) Signal a New Era in AI Architecture",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CdYL3DKV8fQn8M-F8Oae7w.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 104,
+    "title": "Stop Using useEffect Like This — Here’s What React Architects Do Instead",
+    "subtitle": "Why Top Developers Are Moving Beyond useEffect (And You Should Too)",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QisgQNb1GYtqet_rg5XbSw.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 105,
+    "title": "How We Cut Our Data Pipeline Costs by 80% Using One Overlooked Feature",
+    "subtitle": "“Your AWS bill this month will be $43,000,” read the email from Finance…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Z8S4ot-e3vdh8MAl.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 106,
+    "title": "8 Terminal Aliases That Will Make Senior Developers Question Your Sanity",
+    "subtitle": "We’ve all been there. It’s 2 AM, you’re 14 hours into a debugging session, hopped up on energy drinks, and suddenly inspiration strikes…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*ubV9rHUsCV-AUgRZ.jpg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 107,
+    "title": "Native Windows Apps With Go: Syscall Mastery & The Windows API",
+    "subtitle": "Since Go is related to C, it can use native system APIs. Not just for GUIs. On Windows, Go is perfectly capable of dynamically linking the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zRsqWeL7Gh1d3KLVXHB-jg.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 108,
+    "title": "LangGraph + MCP + Ollama: The Key To Powerful Agentic AI",
+    "subtitle": "In this story, I have a super quick tutorial showing you how to create a multi-agent chatbot using LangGraph, MCP, and Ollama to build a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Ocfgt7Z93pMehntxK5cp_Q.png"
+  },
+  {
+    "category": "Programming",
+    "article_number": 109,
+    "title": "12 Advanced Java programming Books for Experienced Programmers — Part 2",
+    "subtitle": "This is the second part of 12 must-reads advanced Java programming books for intermediate and experienced Java programmers.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*VvvfOBtPGLp91xQf.jpg"
+  },
+  {
+    "category": "Programming",
+    "article_number": 110,
+    "title": "The Uncomfortable Truth: 7 Hyped Tech Skills That Won’t Matter by 2026",
+    "subtitle": "In the fast-paced world of technology, skills that once commanded premium salaries can quickly become obsolete. While continuous learning…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*-rxDHtEIbyuvlkAg"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "category": "machine-Learning",
+    "article_number": 1,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 2,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 3,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 4,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 5,
+    "title": "",
+    "subtitle": "",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 6,
+    "title": "Is AI Coding Cheating? A Tale of Slowpoke and Speedy",
+    "subtitle": "A difference of perspective",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 7,
+    "title": "Latent Spaces: The Bridge Between Minds and Machines",
+    "subtitle": "The mathematics behind embeddings and the metaphors of our thoughts",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 8,
+    "title": "In-Depth Comparison Between KAN and MLPs",
+    "subtitle": "What is the difference between Kolmogorov-Arnold Networks (KAN) and MultiLayer Perceptrons (MLPs), as well as the advantages of using each…",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 9,
+    "title": "A Practical Guide To Fast Fine-Tuning Your LLMs With Unsloth",
+    "subtitle": "Learn to Fine-tune Llama 3 in minutes for medical question-answering with Unsloth using QLoRA",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 10,
+    "title": "Which Movies Have “Aged Poorly”? A Statistical Analysis",
+    "subtitle": "Which films have not stood the test of time?",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 11,
+    "title": "Are you really getting the LLM you paid for?",
+    "subtitle": "Auditing model substitution in LLM APIs",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 12,
+    "title": "Only the Beginning Matters: How the LLM Decides Where to Focus Attention",
+    "subtitle": "Understanding How the First Token Shapes LLM’s Focus and Responses",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 13,
+    "title": "Introduction to U-Net for Image Segmentation",
+    "subtitle": "Computer vision has many sub fields and image segmentation is an important one of them. By classifying each individual pixel of an image or…",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 14,
+    "title": "How I Made Over $500,000 Writing Online (And 50 Lessons I Learned the Hard Way)",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dNuq0r1CEJozi1UQMRgmJg.jpeg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 15,
+    "title": "Industries already experiencing AI transformations",
+    "subtitle": "The Future of AI Literacy: Preparing Students for AI Careers",
+    "image_url": []
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 16,
+    "title": "What Is Data Science and Why I’m Learning It as a Developer",
+    "subtitle": "Data Science Definition",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*bMgGPneUvqB0pRJO"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 17,
+    "title": "When AI Speaks Human: GPT-4.5’s Turing Test Milestone and Cybersecurity’s Watershed Moment.",
+    "subtitle": "“Can AI really conquer the world like in the Terminator series films?” — is the question I still ask myself (since August 2022), the exact…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*HcBCQGZlv3ASFUhN.jpg"
+  },
+  {
+    "category": "machine-Learning",
+    "article_number": 18,
+    "title": "Genspark Super Agent — The Ultimate All-in-One Gen AI Platform",
+    "subtitle": "Genspark Super Agent Alternative to Manus AI",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*GpHbLxCtz2vTVv-6"
+  }
+]

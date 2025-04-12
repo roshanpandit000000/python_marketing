@@ -1,0 +1,632 @@
+[
+  {
+    "category": "Data-Science",
+    "article_number": 1,
+    "title": "A Practical Guide To Fast Fine-Tuning Your LLMs With Unsloth",
+    "subtitle": "Learn to Fine-tune Llama 3 in minutes for medical question-answering with Unsloth using QLoRA",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IjWPczr9orxfeX4TSloJmQ.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 2,
+    "title": "Structured Query Language — Intuitively and Exhaustively Explained",
+    "subtitle": "Speaking with Data",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HhZuQUmEzjWz2tn3yvhM7w.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 3,
+    "title": "Which Movies Have “Aged Poorly”? A Statistical Analysis",
+    "subtitle": "Which films have not stood the test of time?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*p2htpYUEqySPz1SR.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 4,
+    "title": "Are you really getting the LLM you paid for?",
+    "subtitle": "Auditing model substitution in LLM APIs",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fLsXhWXSfCKc5PtVOeW6FQ.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 5,
+    "title": "Why Walmart Chose Apache Hudi for Their Lakehouse",
+    "subtitle": "What can we learn",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*nM3o-WL7EBgILgIB.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 6,
+    "title": "Only the Beginning Matters: How the LLM Decides Where to Focus Attention",
+    "subtitle": "Understanding How the First Token Shapes LLM’s Focus and Responses",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*U6uDd1XfGfHWgwMbYe2gzQ.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 7,
+    "title": "Introduction to U-Net for Image Segmentation",
+    "subtitle": "Computer vision has many sub fields and image segmentation is an important one of them. By classifying each individual pixel of an image or…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BjcHT3-ZJDfz3exToghzTQ.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 8,
+    "title": "Attention-based Neural Network Distillation: Enhancing Performance through Learned Weighted…",
+    "subtitle": "A Novel Framework Demonstrating Empirical Benefits and Probabilistic Interpretations via Neural Attention in Teacher-Student Distillation",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*DPRPFNmFPz-yOASa"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 9,
+    "title": "Fixing the Agent Handoff Problem in LlamaIndex’s AgentWorkflow System",
+    "subtitle": "The position bias in LLMs is the root cause of the problem",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QtPnjF4vCyfYNT7ijPMTYQ.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 10,
+    "title": "How to Win Every Round of Mario Kart: Uncovering the Secrets to Consistent Victory",
+    "subtitle": "Authors: Olivia Nguyen (Project Lead), Alfred Mastan, Thomas Le, Bryan Yu, Aarnav Sarvalya",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*bBCbdBAr9WY9U9Qb"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 11,
+    "title": "How to recognise a great manager (even if they are not your best friend)",
+    "subtitle": "The five overlooked traits that set exceptional leaders apart beyond charisma.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*xCz3_6VOw0z2_nSn.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 12,
+    "title": "Data Science on the Map: Why Georgia Has So Many Counties",
+    "subtitle": "Georgia has 159 counties, more than any other U.S. state except Texas, which has 254. This is surprising given that Texas is the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ju-RPE4c5KbRE8VOk09LOw.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 13,
+    "title": "Beyond Simple Inversion: Building and Applying Inverse Neural Networks",
+    "subtitle": "Theory, training tricks, and real‑world case studies — solving multi‑root equations and beyond",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*oeAprJD7lKIyotYw"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 14,
+    "title": "Testing Document Contextualized AI — Intuitively and Exhaustively Explained",
+    "subtitle": "How to Know If RAG and Agentic Systems Actually Work",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8ZT14LOTNwVME7xoaYH6hQ.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 15,
+    "title": "From Unstructured Text to Interactive Knowledge Graphs Using LLMs",
+    "subtitle": "How LLMs can used in a knowledge extraction and visualization pipeline",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*jNWQdkJwTMSN4P9_OvqBsQ.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 16,
+    "title": "The Power of a Simple Simulation",
+    "subtitle": "The Monte Carlo Method",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5msz25Exc5Zjhj5zE28wSg.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 17,
+    "title": "(Not) Fooled by Randomness",
+    "subtitle": "A Journey from Software Development to the Heart of Data Science",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-5ZBWnwQjzJVsL7vz1ZUaA.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 18,
+    "title": "Finally! A Clear Derivation of the VAE KL Loss",
+    "subtitle": "While analyzing the loss function of the variational autoencoder (VAE) model, I noticed that the Kullback-Leibler (KL) loss term has a nice…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RbZ5rzMxAKnSHqAMu6mCIA.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 19,
+    "title": "Gravitational SETI",
+    "subtitle": "One of the most exciting breakthroughs in astronomy over the past decade was the detection of gravitational waves. Since the days of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ON6R7VFopot1aYju1UL6-w.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 20,
+    "title": "When Do Viewers Get Hooked on a TV Show? A Statistical Analysis",
+    "subtitle": "When do TV viewers become committed fans?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Y16dMf209FuNk5lr.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 21,
+    "title": "Discover the Anatomy of the AI Mind.",
+    "subtitle": "Anthropic has published one of the most fascinating research papers I’ve read in months (or probably ever), one that dissects the anatomy…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*-u7jDlq7ehO-Sh6l"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 22,
+    "title": "Transforming Data into Stories with Python: A Guide to Effective Storytelling using Pynarrative",
+    "subtitle": "Effective data storytelling reveals not only patterns in the data, but the narrative around it.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*tQ1GYl7rb1y4g9S1OQv5wA.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 23,
+    "title": "Fractals in Code: Exploring Julia Sets with Python",
+    "subtitle": "Generating Complex Beauty Through Simple Code",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*13lfZqZCYA1RJ5hIztxnHQ.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 24,
+    "title": "How to Create a 4D Hyper-Fractal: The Magic Menger Hyper-Sponge",
+    "subtitle": "The fascinating geometric construct and visualization of a hypercube that confines a fractal four-dimensional Menger sponge—a universal…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*W3pIwKJGFDOC0WjfXv1zeg.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 25,
+    "title": "Loading Unquantized 70B LLM Across Friends Laptops",
+    "subtitle": "Distributional Loading on multiple laptops",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*iOfqPaA5sM4jbzYiQuhAeg.gif"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 26,
+    "title": "Reinforcement Learning-Enhanced Gradient Boosting Machines",
+    "subtitle": "A Novel Approach to Integrating Reinforcement Learning within Gradient Boosting Internal Optimization for Superior Predictive Performance",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*TaGoCl11hviKxAfc"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 27,
+    "title": "Graph Convolutional Networks — Intuitively and Exhaustively Explained",
+    "subtitle": "Applying AI to Complex Relationships",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eihXVS1N6OuFYJtqymYe7A.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 28,
+    "title": "TimeXer for Time Series Forecasting with Exogenous Features",
+    "subtitle": "Discover the architecture of TimeXer and implement it in a small experiment using Python.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*V1vX_ageTvt1hpdz"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 29,
+    "title": "Wow, Who Thought It Made Sense To Compare AI To Old, Dead Poets?",
+    "subtitle": "A study says people like AI poetry better than human poetry but the humans they chose were a problem",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*erYSljNvfAlCPe4oat9nVA.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 30,
+    "title": "How GenAIs build diverging color schemes",
+    "subtitle": "Gemini and Copilot suggestions for Pantone Mocha Mousse divergence.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*NMoK6BcFMfAKF1yqROaPxA.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 31,
+    "title": "How to use Hinge Loss and Squared Hinge Loss with Keras",
+    "subtitle": "In order to discover the ins and outs of the Keras deep learning framework, I’m writing blog posts about commonly used loss functions, then…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*G8RlIBlqzAV4aMVE"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 32,
+    "title": "Who Are the Six Star Finishers?",
+    "subtitle": "A deep dive on the runners who have completed all six World Marathon Majors",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dlSUAAQXOPv4sUYtT-0KZg.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 33,
+    "title": "When Science is Censored: Why Sex and Gender are Necessary in Health Research",
+    "subtitle": "On Designing Studies, Good Health Science, and the Pursuit of Understanding Humanity",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*VPqNbrw0iQm4UU2Z"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 34,
+    "title": "The Summer My HRV Crashed and How I Saved It",
+    "subtitle": "And the peanut butter spoon I had to leave behind",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*iAursGVC6prfq1Vb2sWvCg.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 35,
+    "title": "Which Countries Have the Most Unique Taste in Music? A Statistical Analysis",
+    "subtitle": "Which nations have the most distinct music tastes?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*aBdXPYSPlFYnJ-YB"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 36,
+    "title": "Understanding the Bivariate Normal Distribution",
+    "subtitle": "A Mathematical Derivation of its Probability Density Function",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*jjG1-4J6qFznrrYGV0Ov-g.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 37,
+    "title": "Boosting Data Pipeline Reliability with AI and Minimal Costs",
+    "subtitle": "A practical guide on how to leverage AI (Ollama) in data pipelines",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*lWPw9FwW8-qh4Jxb"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 38,
+    "title": "Speed up initial data analysis with Buckaroo",
+    "subtitle": "Buckaroo expedites the core task of data work by showing histograms and summary stats with every DataFrame.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9JOdiryeLDagD8m0iN7sqA.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 39,
+    "title": "Making an LLM that “sees” AND “reasons” is the next big thing. Why is no one talking about it?",
+    "subtitle": "DeepSeek-R1 reasons. GPT-4o sees. Can you make an LLM do both?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eZmPHFNjGsd0WW-q1Aw41w.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 40,
+    "title": "How Innocent SQL Statements Create Multiple Sources of Truth",
+    "subtitle": "There are usually a few different ways to write a SQL statement and produce the exact same output. While the output is the same, the…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*jC_BIY4hUZxWghsR"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 41,
+    "title": "What I Learned from 3 Years Working with Chinese Tech Teams",
+    "subtitle": "Busting 3 Myths and Confirming 1",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*O33Gv0XWDYbdRh1F1wthYw.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 42,
+    "title": "Social Science is Withering",
+    "subtitle": "In the past five years social science has dwindled. Physical science has not. Would it be so bad if social science died?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*1XEjJ13Je5L6-HRD.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 43,
+    "title": "The Incredible Predictive Power of OpenAI’s New “Deep Research”",
+    "subtitle": "The future, in a cup of coffee",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*A8mHDLGqdobJj9Ihw_LYQQ.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 44,
+    "title": "The Inevitability of AI Hybrids",
+    "subtitle": "A No-Look-Back Event",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*1xzQzmTsgANZjZkM"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 45,
+    "title": "Adaptive Multi-Teacher Distillation for Enhanced Supervised Learning",
+    "subtitle": "A Novel Approach for Dynamically Combining Multiple Predictive Models into a Lightweight High-Performance Student Model",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*PyBP_yOejQdh1-vN"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 46,
+    "title": "Model Context Protocol — Intuitively and Exhaustively Explained",
+    "subtitle": "Plug AI Into Everything",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zX56K-QFu-QlOL8pUNzLag.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 47,
+    "title": "How I Introduce Statistics to Graduate Students",
+    "subtitle": "The math I use to understand what is observed in studies and experiments, and how those results differ from what is expected.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fJ14KhS37IUXjsWZIhDlYg.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 48,
+    "title": "Structural Distillation for Cross-Dataset Uplift Modeling with Reinforcement Learning",
+    "subtitle": "A Novel Approach to Transfer Partial Teacher Model Knowledge from Control to Treatment Data for Rapid AB Testing and Campaign Optimization",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*lDpYFAIu8gHQJfu_"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 49,
+    "title": "What’s the Perfect Song Length? A Statistical Analysis",
+    "subtitle": "Investigating the “ideal” song length, and whether such a thing exists",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*dj9bHmS3Zxsz2Gzq.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 50,
+    "title": "What is Dark Energy?",
+    "subtitle": "The standard cosmological model is simple. The expanding Universe has the total mass density corresponding to a nearly flat geometry and…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vsYyDQTbfZvUL54qwYQggw.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 51,
+    "title": "Integrating LlamaIndex and DeepSeek-R1 for reasoning_content and Function Call Features",
+    "subtitle": "Empowering AgentWorkflow with the strong boost from DeepSeek-R1",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*VpLdbQmm5C8J1EA_muQFWQ.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 52,
+    "title": "Building an LLM Agent with N8N and Open-WebUI",
+    "subtitle": "A Hands-On Perspective from a Machine Learning Developer",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*qWM7rBnO1PoOzTnz"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 53,
+    "title": "Technological Signatures on Free-Floating or Non-Habitable Planets",
+    "subtitle": "It is customary to search for signs of life on rocky planets in the habitable zone of their host star. There, the planet’s surface is not…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2Fsf2n_fPuIc0sz579iGZg.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 54,
+    "title": "A First Look at the Field of the 2025 Boston Marathon",
+    "subtitle": "What can we learn from the entry list the BAA posted?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eBy4FWkwdwilEk-Jzb5ong.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 55,
+    "title": "AI is more likely to give a correct response when given the opportunity to give a wrong one first",
+    "subtitle": "My one-shot prompt improves accuracy and reduces hallucinations",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AyqkoNLuuf8CoAk3Jy3v4g.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 56,
+    "title": "When Tableau Met LookML: My Brain’s Identity Crisis",
+    "subtitle": "Trading drag-and-drop for code taught me to think in two languages (and I survived to tell about it)",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*SOoIeeQxzhkdZU2U"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 57,
+    "title": "Foundation Model for Personalized Recommendation",
+    "subtitle": "By Ko-Jen Hsiao, Yesu Feng and Sudarshan Lamkhede",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*1dhdoLxKnf_fcZOq"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 58,
+    "title": "The Moore’s Law for Agent Autonomy: AI’s Exponential Revolution",
+    "subtitle": "AI Is Learning to Work Like You And It’s Happening Faster Than You Think",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bUV6iBdagQ525MyhAxVztA.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 59,
+    "title": "A Simple Look at Simple Random Walks",
+    "subtitle": "A drunken man always returns home, but a drunken bird will eventually be lost.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YNpVVwb_DwK1f6gyTx3biA.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 60,
+    "title": "Bauplan: Operate your lakehouse with zero infrastructure",
+    "subtitle": "FaaS data pipelines on S3",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Zzf8W46eRWbuFn4F.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 61,
+    "title": "Maximizing Simple RAG Performance Using RL in Python",
+    "subtitle": "Greedy algorithm approach",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_NSsZD3OZecxnxfP3kRJQg.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 62,
+    "title": "Using AI to Develop a User Interface for the Co-STORM AI Research Algorithm",
+    "subtitle": "Conversational computer programing",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8Kc4Fr2TwB1giKzNoIS7qQ.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 63,
+    "title": "How to skip the AI buzzwords and Find Reliable Expert Information",
+    "subtitle": "A structured approach to filter high-quality content, avoid information overload and build practical skills that matter.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5_XGj41IFEtCKGZ1Zm6-Og.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 64,
+    "title": "Should Stakeholders be Writing SQL for Self-Service?",
+    "subtitle": "I’ve spent 25 years of my career in tech and the last 15 years as an analytics leader across Amazon, eBay, VMware, and more. During that…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*rY8yG4u7zTbCvAvd"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 65,
+    "title": "Fine-tuning ModernBERT as an Efficient Guardrail for LLMs",
+    "subtitle": "SpeedBot’s customer support chatbot was designed to handle shipping queries and delivery updates. The team expected simple questions about…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9w027aoqFa1c05GuAeFxRA.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 66,
+    "title": "Reinforcement Learning for Business Optimization: A Genetic Algorithm-Powered Pricing Strategy",
+    "subtitle": "Applying PPO and Genetic Algorithms to Dynamic Pricing in Competitive Markets",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*pN1SNlVtBk-mtBDG"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 67,
+    "title": "Graphs — Intuitively and Exhaustively Explained",
+    "subtitle": "Finding complex meaning in simple relationships",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ZrFHvXaNj1Ir2r6qnNZaAA.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 68,
+    "title": "The Enum Trick Every Python Developer Should Know",
+    "subtitle": "Learn how Python’s Enum can simplify constants, improve code readability, and add smart behavior to your projects. A must-know trick for…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*hQ56LOjCUsXtmRuI"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 69,
+    "title": "DBSCAN clustering with Python and Scikit-learn",
+    "subtitle": "There are many algorithms for clustering available today. DBSCAN, or density-based spatial clustering of applications with noise, is one of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yK40vBL7oGI-DkH4f8GxHA.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 70,
+    "title": "fastplotlib: driving scientific discovery through data visualization",
+    "subtitle": "fastplotlib is a new GPU-accelerated fast and interactive scientific plotting library that leverages WGPU",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*8uzCRfgah3FNc3Li97NhjA.gif"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 71,
+    "title": "Building Your First AI Agent (That Will Actually Improve You As An AI Engineer)",
+    "subtitle": "A guide to building a helpful Multi-agent AI system that helps you find the top 10 AI research papers published in ArXiv every day",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*hZ6a8lWeyufdPAZ9"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 72,
+    "title": "This Is the End of Normalization, and the Transformer Feels Fine",
+    "subtitle": "Exploring the Power of Dynamic Tanh in Transformer Models Without Normalization Layers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Gx-MulGzfL3nZCFQKpO2Mw.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 73,
+    "title": "3 Advanced Approaches to Tackle Domain-specific Text Classification",
+    "subtitle": "A deep dive of 3 customization-based methods to improve performances in an Engineering-domain text classification task.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*hz3rPIMkYQZQ0LBsrNSKaQ.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 74,
+    "title": "Learn Advanced Image Generation: Child Drawings to Avatars",
+    "subtitle": "By combining several technologies in ComfyUI",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ovELQDpgr1Kr-cP1G2Mokg.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 75,
+    "title": "Which Movies Do People Love to Hate? A Statistical Analysis",
+    "subtitle": "Which films and actors are famous for being bad?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*U5j1ASzkmckdoMqv.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 76,
+    "title": "Why This “Simple” Math Problem Is Harder Than You Think",
+    "subtitle": "A $10,000 challenge from 1962 still baffles the world’s greatest minds.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*oPZBZQOQlWLqehlV"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 77,
+    "title": "Revisiting The Basics: Rotary Position Embeddings (RoPE)",
+    "subtitle": "A lesson on Positional Embeddings all the way up to Rotary Position Embeddings (RoPE) from the ground up.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fz0s0sMU7zDgguqbkiUMDw.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 78,
+    "title": "A Close Look at Image Generation Using p-PCA and Variational Autoencoders",
+    "subtitle": "Agenda",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zPD8beQlDaXFpuqOx1N6kg.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 79,
+    "title": "Bridging Neural and Symbolic AI: A Step Toward Controlling AI’s Reasoning",
+    "subtitle": "A Dynamic Neuro-Symbolic Approach to Bridging Conceptual Knowledge Gaps Using GPT-guided Incremental Learning",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EGNlSyLRXKdDOhk5UlSkyg.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 80,
+    "title": "What Does ‘Elegance’ Mean in Math?",
+    "subtitle": "I look at a challenging problem to show an example of what we mean by ‘elegant’ when we describe a mathematical approach",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uZL6cnWz8bCRIdRWVCvISA.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 81,
+    "title": "After DeepSeek-R1, a goldmine of research is waiting to be discovered.",
+    "subtitle": "DeepSeek’s RL ideas are more game-changing than you think.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_KOmzurBHiwQa6PVw3yslg.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 82,
+    "title": "Introverted Engineering Managers Manage From The Background — Why That’s A Good Thing",
+    "subtitle": "Because you don’t need center stage!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rQpHG073MQdnpjsbV4YeBw.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 83,
+    "title": "Missing Data? Use Explainable AI to Fill the Gaps (Correctly)",
+    "subtitle": "Random Forests, XGBoost, and Neural Networks for interpolation without the black box problem",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*R2aJtuHTDqKVgaHefahfog.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 84,
+    "title": "Advanced Prompt Caching Techniques to Build Faster & Cheaper AI.",
+    "subtitle": "Let’s implement semantic cache retrieval using Postgres with custom TTL & more.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*kZTfT6yx-wRzeYDx"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 85,
+    "title": "AI Won’t Kill Us All",
+    "subtitle": "But fear might hold us back",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ogr_0neHrRl6eTZk0mMCvQ.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 86,
+    "title": "Linear Regression in Time Series: Sources of Spurious Regression",
+    "subtitle": "Why does the autocorrelation of the errors term matter?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fGdZN05NvlLiSQ1OD0y5uw.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 87,
+    "title": "Beyond the Hype: Rediscovering the Value of Relational Data Models",
+    "subtitle": "The Practical Benefits of Database Constraints in Production Systems",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kbcLDOsfhwbmg1t0ybw4dg.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 88,
+    "title": "Designing a New Access Measure for the Spatial Equity Data Tool API",
+    "subtitle": "The Urban Institute’s Spatial Equity Data Tool (SEDT) is a free, powerful software that allows users to upload point spatial data — such as…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DfbVggtojUe50jPD3Oum_g.png"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 89,
+    "title": "Why We Need More Than Correlation: A Tutorial on Causal Inference in Decision-Making",
+    "subtitle": "Measuring the causal effect — why is it so important?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3avyQgpXmt_0mvpc_e_Tlw.jpeg"
+  },
+  {
+    "category": "Data-Science",
+    "article_number": 90,
+    "title": "Struggling to be a great tech manager? This book has answers for you",
+    "subtitle": "Lessons from “The Manager’s Path” that every engineer-turned-manager should know",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*irsPe9ROERZXbkpp.png"
+  }
+]

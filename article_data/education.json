@@ -1,0 +1,842 @@
+[
+  {
+    "category": "education",
+    "article_number": 1,
+    "title": "Who We Left Behind",
+    "subtitle": "If we want a better answer to “Is college worth it?” — we need to start asking better questions — about access, equity, and what recovery…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LztngGh-V9oz31ryvG9REw.png"
+  },
+  {
+    "category": "education",
+    "article_number": 2,
+    "title": "“One Law, One Weight, and One Measure”",
+    "subtitle": "Teaching kids about the revolutionary dream of unifying measurement systems",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*hFzYUJH_nZKrdt5MzOsY0A.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 3,
+    "title": "The Walk of Life",
+    "subtitle": "The struggle to find our stride in a world demanding we conform",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*r9fmJCplMbWEKP9Z"
+  },
+  {
+    "category": "education",
+    "article_number": 4,
+    "title": "I Put In a Water Heater Today (Like No Problem)",
+    "subtitle": "A meditation on breath, Black labor, ancestral memory, and choosing the struggle that shapes you.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*J49wWWTQdi5kjR_j2PN1wg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 5,
+    "title": "My Gig as a Nepali TV Quiz-Show Host",
+    "subtitle": "My most-crazy moment of fame in Kathmandu",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uIrx2F1C8FSUjpTNPJRebQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 6,
+    "title": "Pythagoras and the Cult of Numbers",
+    "subtitle": "On the Pythagoreans, their fear of irrational numbers, and the search for universal music.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*5WEdz-A56IqjO7Cp.png"
+  },
+  {
+    "category": "education",
+    "article_number": 7,
+    "title": "How to choose a research question that genuinely matters",
+    "subtitle": "(And one that you can actually answer)",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8FC07Bk5RRMd4Z_G-vSuuA.png"
+  },
+  {
+    "category": "education",
+    "article_number": 8,
+    "title": "The Day I Learned the Power in Numbers",
+    "subtitle": "And how my graduating class confronted a new regime",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ffI_czR_SUioVuMmLqpA5w.png"
+  },
+  {
+    "category": "education",
+    "article_number": 9,
+    "title": "Benoit Mandelbrot, Educator",
+    "subtitle": "One of the greatest mathematicians of our age had a passion for education",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Ir82vDOP38Wbvdzgxfu5JA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 10,
+    "title": "Why Black Men Face So Many Barriers to a College Education",
+    "subtitle": "Some assign personal blame and overlook systemic barriers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fA6cQfwKWaRb3PFbRJB-LQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 11,
+    "title": "Trump’s Tariff Plan Stinks of AI",
+    "subtitle": "As a Professor, I’ve learned to pick out AI plagiarism — and I’d send this plan back with “F, See Me Please” written at the top.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ft0mj5cQrmj8YDrLr0J7LA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 12,
+    "title": "Beginners in Science: a Catch-22",
+    "subtitle": "You can’t solve problems unless you’re an expert, but how do you become an expert?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*WvSznhrvGqat3y3UKtXj-Q.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 13,
+    "title": "5 Mistakes That Hinder Progress When Learning a New Language",
+    "subtitle": "What I’ve learned by observing my students struggle",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YcBDbtBCgQ4BxB-FHaduzw.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 14,
+    "title": "Elliptic curves I: Why?",
+    "subtitle": "What motivates studying a mathematical concept",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*stpR9Bkr-JQJZwSO79cODg.png"
+  },
+  {
+    "category": "education",
+    "article_number": 15,
+    "title": "Elementary Schools Are Failing Our Children",
+    "subtitle": "It’s not the teachers — it’s about public board curriculums not adapting to changing times",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*R44_hpnjBhgFt9Fw"
+  },
+  {
+    "category": "education",
+    "article_number": 16,
+    "title": "The Literacy Crisis Isn’t About Ability, But Opportunity",
+    "subtitle": "Millions of people struggle with literacy. Not because they can’t learn, but because the resources to help them are out of reach.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*xLK2BIVrV8WGi_Rg1yJfCQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 17,
+    "title": "Mathematics and Anti-Fascism",
+    "subtitle": "How and Why the Boot of Fascism Supresses Mathematical Progress",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Pw0Vse0NzqTTGCX7"
+  },
+  {
+    "category": "education",
+    "article_number": 18,
+    "title": "One Of the Most Critical Natural Resources for Marine Life Is Disappearing",
+    "subtitle": "And it also happens to be important to us all…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*tQFhslX1hexNp4Qr25Y-gg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 19,
+    "title": "Negative Hype about Federal Healthcare Research is Misguided",
+    "subtitle": "Contrary to popular belief, the NIH review process is highly selective.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Zr4W1hX2Xc9qy-VHewpQAQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 20,
+    "title": "Academic reviewers can’t actually tell when AI writes research papers (and that changes everything)",
+    "subtitle": "The results of our new study that have huge implications for publishing",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*JkHCufJ_bjL4ERxZD-MeoQ.png"
+  },
+  {
+    "category": "education",
+    "article_number": 21,
+    "title": "It's Testing Season, Baby!",
+    "subtitle": "The \"Wonderful\" World of Standardized Testing",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*4xjivj2z4XyWACBp"
+  },
+  {
+    "category": "education",
+    "article_number": 22,
+    "title": "The Banality of Education",
+    "subtitle": "How Arendt’s warning on bureaucratic evil explains inequality in America’s schools",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Qt2NOUZc0y8kyXGZ"
+  },
+  {
+    "category": "education",
+    "article_number": 23,
+    "title": "On the Infinitude of Twin Primes: A Modular Proof",
+    "subtitle": "A Dynamical Approach to the Infinite Distribution of Twin Primes",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OTUhEyrz5f6g_5_Zli_CFA.png"
+  },
+  {
+    "category": "education",
+    "article_number": 24,
+    "title": "Books are the Last Resort for Human Insight",
+    "subtitle": "AI is clogging the internet and soon our bookshelves as well",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2O4j8FirRVPB0L53y9sDsg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 25,
+    "title": "Can States Bar Religious Charter Schools? The Supreme Court Will Soon Decide",
+    "subtitle": "This summer, in a hotly watched Oklahoma case, the U.S. Supreme Court will rule on whether states can ban faith-based charter schools or…",
+    "image_url": []
+  },
+  {
+    "category": "education",
+    "article_number": 26,
+    "title": "Sal Khan and Bill Gates Are Wrong About AI",
+    "subtitle": "What can we learn from a century of failed ed-tech hype?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*ZUVYsC4cIZIMo9mI.jpg"
+  },
+  {
+    "category": "education",
+    "article_number": 27,
+    "title": "Social Science is Withering",
+    "subtitle": "In the past five years social science has dwindled. Physical science has not. Would it be so bad if social science died?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*1XEjJ13Je5L6-HRD.png"
+  },
+  {
+    "category": "education",
+    "article_number": 28,
+    "title": "Creativity Is Flourishing In Schools",
+    "subtitle": "How to keep it going strong",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*qELJuSP9GJFONdsot6ralg.png"
+  },
+  {
+    "category": "education",
+    "article_number": 29,
+    "title": "Helping Students Overcome Their Biggest Obstacle… Themselves",
+    "subtitle": "The never-ending battle against learned helplessness.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MraajBihjHWb0Lo3svoP3Q.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 30,
+    "title": "Customer Service in Education",
+    "subtitle": "Why every interaction matters to your students",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*om9EIQNWWLg6LuDs"
+  },
+  {
+    "category": "education",
+    "article_number": 31,
+    "title": "How I Introduce Statistics to Graduate Students",
+    "subtitle": "The math I use to understand what is observed in studies and experiments, and how those results differ from what is expected.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fJ14KhS37IUXjsWZIhDlYg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 32,
+    "title": "Teachers No Longer Able to Welcome Everyone in Their Classrooms",
+    "subtitle": "Positive posters are bad now",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Sf1FsBzEum0dWqsE"
+  },
+  {
+    "category": "education",
+    "article_number": 33,
+    "title": "He Graduated with Honors, but Couldn’t Read or Spell His Name",
+    "subtitle": "My daughter says reading is her superpower — every kid should be able to profess the same",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2bQWav1oMYuj0PAA--6cSQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 34,
+    "title": "The Teacher in All of Us",
+    "subtitle": "An explanation of behavioral science’s imitation theories and reasoning how the world is shaped by us enacting others.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Jtv67q0xo2z9hanD"
+  },
+  {
+    "category": "education",
+    "article_number": 35,
+    "title": "AI in the Classroom or The Wild West Comes to Education",
+    "subtitle": "Reflection after attending an AI workshop",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*sYZw1ytP7kylAatr"
+  },
+  {
+    "category": "education",
+    "article_number": 36,
+    "title": "The Invention of Time: Why The Day Has Twenty-Four Hours",
+    "subtitle": "On the origins of calendars and clocks",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DnYhaEosWvVHy-U-6nh1jg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 37,
+    "title": "My Years at the Degree Mill",
+    "subtitle": "Welcome to for-profit higher education, where a degree’s just a pricey commodity, and an instructor’s a troublesome budget line.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*MXJRbDqDHx2RkaPq"
+  },
+  {
+    "category": "education",
+    "article_number": 38,
+    "title": "Allison Krause Believed \"Flowers Were Better Than Bullets.\" Kent State Proved Otherwise",
+    "subtitle": "The lessons of the Kent State shooting still haunts America.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IO4NJeq4V4DQOoCmQjdU9Q.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 39,
+    "title": "What Does ‘Elegance’ Mean in Math?",
+    "subtitle": "I look at a challenging problem to show an example of what we mean by ‘elegant’ when we describe a mathematical approach",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uZL6cnWz8bCRIdRWVCvISA.png"
+  },
+  {
+    "category": "education",
+    "article_number": 40,
+    "title": "Why Do We Have to Learn Math?",
+    "subtitle": "The answers I’ve debunked and the one I found",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*D5ar9fPqbRc-k_HRrFWuiA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 41,
+    "title": "Celebrating a Legacy: The Story of Peary Mohan Chatterjee",
+    "subtitle": "A Story That Needs to Be Told — Again and Again",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*sbRgE20M54BQ1_yHLlW8Rg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 42,
+    "title": "Are You Smarter Than A High School Graduate?",
+    "subtitle": "Probably. Graduating is easier than ever.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*CS3N3a2Wgp3HzK9_"
+  },
+  {
+    "category": "education",
+    "article_number": 43,
+    "title": "Martial Arts in PE Class?",
+    "subtitle": "5 reasons to bring it to your school",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*uSaNrGxdVQnaeJKH"
+  },
+  {
+    "category": "education",
+    "article_number": 44,
+    "title": "On What’s Wrong With Education and How to Actually Fix It",
+    "subtitle": "Our education system is still dominated by a model developed over 180 years ago",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*lbwn5boCeRg5C0Si.png"
+  },
+  {
+    "category": "education",
+    "article_number": 45,
+    "title": "Moons Once Sparked a Revolution in Astronomy. Are They About to Do So Again?",
+    "subtitle": "New telescopes promise to reveal countless moons scattered across the galaxy",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*QT8L4DSjvDCvCY0N"
+  },
+  {
+    "category": "education",
+    "article_number": 46,
+    "title": "Exploring Fandom with Data",
+    "subtitle": "Every February, International Fanworks Day celebrates the creativity and passion of fandoms around the world. Let’s observe it with code!",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*AWI_jKbadzDzK_V2"
+  },
+  {
+    "category": "education",
+    "article_number": 47,
+    "title": "It’s Time to talk about Time",
+    "subtitle": "Past, present, and future, do exist? Time is change+entropy",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*M2XitxHjJp_0ElIv_AO00g.png"
+  },
+  {
+    "category": "education",
+    "article_number": 48,
+    "title": "Braiding Sweetgrass, Embracing Bewilderment",
+    "subtitle": "An exploration of education, empathy and kinship",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*-A1B9MoIkKPWd-e5"
+  },
+  {
+    "category": "education",
+    "article_number": 49,
+    "title": "The Omens of Venus and The Bizarre Origins of Astronomy",
+    "subtitle": "How a lost library revealed the secrets of the Babylonian horoscopes",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*OrAU9e49gs73Jj5l"
+  },
+  {
+    "category": "education",
+    "article_number": 50,
+    "title": "Rhythms of Cultural Exchange",
+    "subtitle": "What an American music teacher learned from West African drumming and dance",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*cQtmh6ZmQolEC-N8"
+  },
+  {
+    "category": "education",
+    "article_number": 51,
+    "title": "Teaching History Through Comic-Book Biographies",
+    "subtitle": "The Ordinary People Change the World series humanizes historical figures and fascinates kids",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ljEYFUhXNXct3Z97Fb2CRg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 52,
+    "title": "Focusing on One Marginalized Community to Make Change",
+    "subtitle": "Or how bringing one thing into focus helps bring everything into focus",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*sdW4dLYhvq_Kuj_5mxkg_Q.png"
+  },
+  {
+    "category": "education",
+    "article_number": 53,
+    "title": "On Teaching Jonson’s The Masque Of Blackness in an Anti-Racist Classroom",
+    "subtitle": "by Jamie Paris",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*tRebqi9jzqeT6Cqj"
+  },
+  {
+    "category": "education",
+    "article_number": 54,
+    "title": "The Transparent Teacher",
+    "subtitle": "A Teacher’s Journey from Mountaintop to Classroom",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*pJBJjf3IP0rOQjERrY57GQ.png"
+  },
+  {
+    "category": "education",
+    "article_number": 55,
+    "title": "Learn a Smorgasboard of Math Techniques From This One Math Problem",
+    "subtitle": "Solving this one problem from a 1991 examination paper teaches you a very wide range of mathematical facts andtechniques",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*mLnufIy5AKeCtH0AKMNwWA.png"
+  },
+  {
+    "category": "education",
+    "article_number": 56,
+    "title": "What's the Deal with School Voucher Programs?",
+    "subtitle": "*Read in a \"Jerry Seinfeld\" voice.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*V-I2KDXKqcXAMoQVAVJ9YQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 57,
+    "title": "I Used to Fail High School Math. Now I’m Co-Founding a Math High School.",
+    "subtitle": "Years ago, as a flailing ISC Science student at an Indian high school, my family, teachers, friends, and I unanimously agreed with full…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*VqcxNCGzGGUQhB70n40_HQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 58,
+    "title": "Can a Degree Predict Job Performance",
+    "subtitle": "Thanks to AI, is a degree worth anything in the modern workplace?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*fqDDf0O4gsLK00Os.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 59,
+    "title": "4 key steps to transform the USA back into a scientific nation",
+    "subtitle": "We’ve wasted our time and resources ideologically policing and punishing each other for far too long. Here’s a better route to prosperity.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9fZCDODN3p5fxAjLhySa9w.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 60,
+    "title": "Why They Burned and Destroyed Black Schools During Jim Crow",
+    "subtitle": "Prejudice became an all too common accelerant",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5PAGhRPSjkEdNZrYbgUjUg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 61,
+    "title": "Resisting hatred, teaching truth",
+    "subtitle": "By Renee O’Connor",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AREJTLLwPC_d9cFt2WK1qA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 62,
+    "title": "The divisiveness of fairness, representation and belonging",
+    "subtitle": "A recent conversation has occupied my mind regarding whether equity, diversity, and inclusion (EDI) initiatives are inherently divisive.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*x2YHULGFmNtFp7_l"
+  },
+  {
+    "category": "education",
+    "article_number": 63,
+    "title": "I Was a Public School Teacher and Now I Homeschool My Own Kids",
+    "subtitle": "These are the parts of public education I was glad to leave behind",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*ZYr-1NMyJBp_9SKQ"
+  },
+  {
+    "category": "education",
+    "article_number": 64,
+    "title": "Corporal Punishment is Still Allowed in Schools",
+    "subtitle": "That is not OK.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*COaWHacA24gua88PmIF6IA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 65,
+    "title": "Singapore as a Living Archive:",
+    "subtitle": "A Journey Through a Multicultural City as a History Student.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*r-oMeVRJy03tPP5q1Y91lA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 66,
+    "title": "Did a Lost Star Inspire the Oldest Tale of Humanity?",
+    "subtitle": "On the origins of human thought, the missing star of the Pleiades, and the dawn of science.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*vdemAC3brIIhpKgX.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 67,
+    "title": "Student Debt and Private Insurance Are Fueling a Shortage of Healthcare Providers",
+    "subtitle": "The current trends will worsen an already struggling US healthcare system",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Au5phlYQjhE_zJY9"
+  },
+  {
+    "category": "education",
+    "article_number": 68,
+    "title": "What Starts with π and Ends with e?",
+    "subtitle": "Amazingly, you can use the digits of π to generate the base of the natural logarithm, e.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nNVQshgK3v3Wuq7G8idD6Q.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 69,
+    "title": "Jesus and the Art of Asking Better Questions",
+    "subtitle": "Why the Right Questions Matter More Than the Right Answers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9gYHCIyXmb826Y17wLCarQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 70,
+    "title": "The Simple Beauty of the Pigeonhole Principle",
+    "subtitle": "How A Basic Idea Leads to Big Results",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2J3arOtOzhowyWymHDLUhg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 71,
+    "title": "Of Munchkins and Manners",
+    "subtitle": "A childhood lesson in simple acts of kindness",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*I5mgCIOY4m2B5cIH"
+  },
+  {
+    "category": "education",
+    "article_number": 72,
+    "title": "The Growing Inaccessibility of Scientific Literature",
+    "subtitle": "Science Writing, Science Communication, and The Weird Language Gap of Research",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*7BYu601iXSYQyXvz"
+  },
+  {
+    "category": "education",
+    "article_number": 73,
+    "title": "Including People with Disabilities in the Workforce and Higher Education Benefits Everyone",
+    "subtitle": "Their presence improves the culture of the entire organization, making it more collaborative and responsive.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*GUBjaWyd4mwUFVf9"
+  },
+  {
+    "category": "education",
+    "article_number": 74,
+    "title": "Gamification in the Classroom",
+    "subtitle": "Leveraging Game Elements to Elements to Engage and Motivate Students",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*S9tsz07OT3arEigp"
+  },
+  {
+    "category": "education",
+    "article_number": 75,
+    "title": "The Bird With No Name",
+    "subtitle": "A complete guide on how not to name a new species",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*pU9w4b6QtizWwalfP123Zg.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 76,
+    "title": "I’m skeptical, not afraid, of AI",
+    "subtitle": "Rethinking education and integrity in the age of Artificial Intelligence",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IsodW902rn2ZYHLKIxuouQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 77,
+    "title": "Is Politics Inevitably Corrupting?",
+    "subtitle": "Machiavelli’s The Prince and The Politics of Power",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*bFCZ9llOAFlVuNLT"
+  },
+  {
+    "category": "education",
+    "article_number": 78,
+    "title": "Dear Teacher…",
+    "subtitle": "What your neurodiverse students need you to know",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OPcxVedvkZNagA_e9uEdUQ.png"
+  },
+  {
+    "category": "education",
+    "article_number": 79,
+    "title": "Colleges and universities taking Trump cuts",
+    "subtitle": "Posted on February 23, 2025 by Bryan Alexander",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*pAsEMaAYP2DdWmU0.jpg"
+  },
+  {
+    "category": "education",
+    "article_number": 80,
+    "title": "Dissecting the Research: Do Night Lights Make Children Nearsighted?",
+    "subtitle": "A 1999 study said night lights might hurt kids’ eyes. But let’s shed a bit more light on it.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/g:fp:0.33:0.41/0*U4JPTb1dkcW3MwMn"
+  },
+  {
+    "category": "education",
+    "article_number": 81,
+    "title": "Creating Your Own Photographer’s Bucket List",
+    "subtitle": "Thoughts on how to start",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rPxk0GnDSZTaduBYNtsIew.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 82,
+    "title": "Why Bad Bunny Finally Won Me Over",
+    "subtitle": "The human behind the auto-tune",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Yjk__tm64rrsXdVz-gY-_Q.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 83,
+    "title": "Five Proven Approaches for Raising Bilingual Kids",
+    "subtitle": "Every child is born with the ability to become bilingual, but simply growing up in a bilingual environment does not guarantee it.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nSGY1HW3k9CvvXfCXxF_cg.png"
+  },
+  {
+    "category": "education",
+    "article_number": 84,
+    "title": "Does Grammar Matter?",
+    "subtitle": "An inexpert discussion of grammar and our world",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9GDV75743daNMv1w_jP4NQ@2x.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 85,
+    "title": "The Paradox of the Amazing Menger Sponge",
+    "subtitle": "It has zero volume, infinite surface area, and real-life applications",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0KFXmtF9mRzpCwmqGJ3PnQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 86,
+    "title": "How To Be Readable.",
+    "subtitle": "Either you’re someone people want to read, or you’re not. Being a “stats fan” isn’t going to help.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Vw4Nl-8PuSDuT2jcr2wpKQ.png"
+  },
+  {
+    "category": "education",
+    "article_number": 87,
+    "title": "Red America will be Devastated by Closing the Department of Education",
+    "subtitle": "Biting the hand that feeds.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*M7w9_HxFMabGBaKqPZXCTw.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 88,
+    "title": "How Can A Powerful Nation Have So Many Children Who Can’t Read?",
+    "subtitle": "Undeniably Sad!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*FAT267rxEHHMe6wEqeVPvQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 89,
+    "title": "How Do You Raise Kids To Be Honest When Teachers Prefer AI?",
+    "subtitle": "Teachers say AI is a detriment to education but give better grades to students who are using AI",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ZwOBhOkYitbai86MWLMdmA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 90,
+    "title": "Make Exams Mandatory Again…for High-ranking Members of Government",
+    "subtitle": "We need politicians who are smarter and more knowledgeable than a 17-year-old",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MX1tglNSej4fJVUWknGliQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 91,
+    "title": "I Attended NVIDIA’s Lecture to Find NeMo (Guardrails)",
+    "subtitle": "How to make sure your LLM doesn’t get you sued",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*sZSgVMBiRhwtwrJYMbXVAg.png"
+  },
+  {
+    "category": "education",
+    "article_number": 92,
+    "title": "Watching Writing Die: An English Teacher’s Perspective",
+    "subtitle": "Is writing going the way of spelling, cursive, and grammar?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Zf1OPS0EFtXvcWRz"
+  },
+  {
+    "category": "education",
+    "article_number": 93,
+    "title": "Portuguese Influences in Asian Languages",
+    "subtitle": "The evolution of native tongues, from India to Japan",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*gCpifrROSnHVOtD7"
+  },
+  {
+    "category": "education",
+    "article_number": 94,
+    "title": "AI’s Impact on My Future: Will My Degree Matter?",
+    "subtitle": "This article explores the potential impact of artificial intelligence (AI) on industries, highlighting its benefits, drawbacks, and ethical…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*m21cV_58dCt0QOG6.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 95,
+    "title": "How to Explain Each Core Machine Learning Model in an Interview",
+    "subtitle": "From Regression to Clustering to CNNs: A Brief Guide to 25+ Machine Learning Models",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*mxUOGSzx4Mrkim6W"
+  },
+  {
+    "category": "education",
+    "article_number": 96,
+    "title": "Why Battle Against Black History is Taking Strange New Turn",
+    "subtitle": "What once was a problem of scarcity is now a one of censorship",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RA-YBri4kpTx5VrtLvHfRA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 97,
+    "title": "Google UX Design Certificate in 2025",
+    "subtitle": "Will the Google UX Certificate get you a UX designer job in 2025? How to take the most advantage of the course curriculum.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vtBrGienm0Z6DjhPzKiFsQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 98,
+    "title": "Thermodynamics and the World That Surrounds Us",
+    "subtitle": "As I have understood it so far",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*WIVxE4IGZIdMPCDY.jpg"
+  },
+  {
+    "category": "education",
+    "article_number": 99,
+    "title": "Why Learning Art History is Essential",
+    "subtitle": "The many benefits of learning Art History at school",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HXkde8IAkLqvXqtzQMaSEQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 100,
+    "title": "Throughlines from Baikal: Reflecting on the 20th Anniversary of Wellesley-in-Baikal",
+    "subtitle": "Originally published on the ‘Wellesley Underground’ blog on August 12, 2021",
+    "image_url": []
+  },
+  {
+    "category": "education",
+    "article_number": 101,
+    "title": "How glorifying ignorance leads to science illiteracy",
+    "subtitle": "If we wish to tackle the very real problems society faces, we require expert-level knowledge. Valuing it starts earlier than we realize.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MFJbLKh8VI6EoZRVRNtgKA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 102,
+    "title": "Trailblazing in Childhood: How My Son Learned to Follow His Heart Not the Crowd",
+    "subtitle": "Mentors and apprenticeships made the difference",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.46:0.4/1*9TRBFdJ4AMj-efYJIeD7sA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 103,
+    "title": "My Journey Toward Being an Anti-Racist Began With Three Books",
+    "subtitle": "When I feel discouraged, I turn back to these same books",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*6-t-4YuNqHiJpoTU"
+  },
+  {
+    "category": "education",
+    "article_number": 104,
+    "title": "Restrictions on Federal Grants to Universities Affect Everyone",
+    "subtitle": "The negative impact could last years",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*qTI2nxOyr51dClyk"
+  },
+  {
+    "category": "education",
+    "article_number": 105,
+    "title": "Dear Teenager…It’s Not You, It’s Us",
+    "subtitle": "by Rob Bradford, Head of Middle School at Sheridan School",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*2twiQVXL8Tyg_KdK"
+  },
+  {
+    "category": "education",
+    "article_number": 106,
+    "title": "Learning to Read and Write in Japan",
+    "subtitle": "The long road to mastering kanji",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2XmNeQRvHzF0-p0crLyRew.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 107,
+    "title": "Using crafts in everything we do",
+    "subtitle": "(Crafty ideas for facilitators and language teachers :)",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vmFcvxfbNScfqzDbIPJOXw.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 108,
+    "title": "How Ancient Long-Distance Trade May Hold the Secret to the Origin of Money",
+    "subtitle": "New study proposes long-distance trade between ancient societies may have facilitated the development of early monetary systems",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*25y8J_5FPaNFoKFTkxcw9A.png"
+  },
+  {
+    "category": "education",
+    "article_number": 109,
+    "title": "It’s All in Your Head: Physical Laws and the Brain Free Energy Principle",
+    "subtitle": "While physical reality exists independently of observers, physical models — along with their mathematics, causes, and effects — are…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*meHaC9A8Y6nlnTjUMWGoXg.png"
+  },
+  {
+    "category": "education",
+    "article_number": 110,
+    "title": "My First Day of Grade One",
+    "subtitle": "Homeschool freak turned primary school teacher, and how it changed my life",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*UDaOUQ710bl9D2ff.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 111,
+    "title": "Why Stories of Black Excellence Are Not Enough to Upend Racism",
+    "subtitle": "People see examples of black excellence as outliers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*PsIY_2xZIMRS_DprITAI5Q.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 112,
+    "title": "Why ChatGPT Can’t Help Schools",
+    "subtitle": "Plagiarism, the definition of the word ‘help,’ and technology training",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.58:0.37/1*NCR4fPq0SV5-O6IlhcjVDw.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 113,
+    "title": "On AI-Generated Art, Self-Driving Cars, and Nutella Slices",
+    "subtitle": "How teachers’ and students’ perspectives on AI differ",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6wC63VBsOZCkfOaVy5Cyzw.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 114,
+    "title": "Why We Need to Protect Black Students' Access to Education",
+    "subtitle": "America has a long history of unequal educational opportunity",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HSSGNRkKA9_JuR_vLFQcbQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 115,
+    "title": "Redesigning a class for hybrid/hyflex students",
+    "subtitle": "Posted on January 12, 2025 by Bryan Alexander",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*yAVwDhD58QaR5bG4.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 116,
+    "title": "Black History Month Is Canceled",
+    "subtitle": "The drive to hide and erase history",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Oz-q_ZcFD9SHKRd-"
+  },
+  {
+    "category": "education",
+    "article_number": 117,
+    "title": "The “End of Segregation” Didn’t Go as Planned",
+    "subtitle": "What Happened After Brown v. Board of Education?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*70g-LqTVu6F5VB3D.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 118,
+    "title": "Using Old Tech to Teach My Daughter Even Older Math",
+    "subtitle": "Preparing my daughter to not be paralyzed in the absence of a microprocessor.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MnsXS34ktE4-U8KYreHbCA.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 119,
+    "title": "Is a Degree in Linguistics Worth It in 2025 and Beyond?",
+    "subtitle": "What a linguist can do after studying — my story…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rZkBlvu5xXrdXHi-plF_SQ.jpeg"
+  },
+  {
+    "category": "education",
+    "article_number": 120,
+    "title": "Socrates the “Ugly” Public Philosopher",
+    "subtitle": "The History and Myths Behind Philosophy as We Know It",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*6p7OFuxCSjhiMTAN.jpg"
+  }
+]

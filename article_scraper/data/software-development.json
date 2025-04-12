@@ -1,0 +1,772 @@
+[
+  {
+    "category": "software-Development",
+    "article_number": 1,
+    "title": "Is AI Coding Cheating? A Tale of Slowpoke and Speedy",
+    "subtitle": "A difference of perspective",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QDastKDPXEQYHJpXJeQMOQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 2,
+    "title": "Stallman’s Shadow to Proprietary Chains: My Journey from College FOSS Enthusiast to the Walled…",
+    "subtitle": "How life and convenience led me away from free software and the renewed search for a middle ground",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*TmLOH0drZ5V_YC4AF8oErg.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 3,
+    "title": "Error handling: We’re doing it all wrong",
+    "subtitle": "How decades of exception-throwing have been making our programs less stable, and what we should be doing instead",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SshpMV9VUe9fG2xX1_ppag.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 4,
+    "title": "Ultimate Guide to Writing a High-Quality User Story",
+    "subtitle": "Since a User Story is a core, valuable deliverable in Agile, making a high-quality User Story is critical for a high-performance Agile…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9_np7NowmveTWVYaTH86vw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 5,
+    "title": "The Value Of Being Pedantic In Software Development",
+    "subtitle": "After decades of software engineering, we still call things what they’re not…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QHRjXi5sjhC1vLkbC7ieiw.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 6,
+    "title": "Structured Query Language — Intuitively and Exhaustively Explained",
+    "subtitle": "Speaking with Data",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HhZuQUmEzjWz2tn3yvhM7w.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 7,
+    "title": "Ignore It For Long Enough And It Will Definitely Go Away",
+    "subtitle": "Dealing with management ideas, HR events, and low value think-ins in modern day software engineering.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.13:0.45/1*IRdAltADmAjvPqT7dNGNpg.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 8,
+    "title": "Why Clean Architecture?",
+    "subtitle": "An intuitive explanation of “why” behind Clean Architecture.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*fA-CRSdyw-LZkc-u"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 9,
+    "title": "Testing Document Contextualized AI — Intuitively and Exhaustively Explained",
+    "subtitle": "How to Know If RAG and Agentic Systems Actually Work",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8ZT14LOTNwVME7xoaYH6hQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 10,
+    "title": "Hardware Metrics Collection with IOT Devices",
+    "subtitle": "In a self-made IOT stack, several applications provide, parse, and store data. You might have all applications running on the same or…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1yIrcVPofgmRmRlxUOVQ5g.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 11,
+    "title": "I Messed Up Hiring My First Developer So You Don’t Have To",
+    "subtitle": "Why entrepreneurs struggle hiring good tech talent and how you can avoid making the same mistake.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*X1OspOyyCvisDOdX"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 12,
+    "title": "Creating a Software Engineering Culture",
+    "subtitle": "Every organization develops a culture of its own. Here are ways to build and sustain a healthy software engineering culture.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*FVK-fls5Bh520YIo5ma_Ig.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 13,
+    "title": "(Not) Fooled by Randomness",
+    "subtitle": "A Journey from Software Development to the Heart of Data Science",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-5ZBWnwQjzJVsL7vz1ZUaA.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 14,
+    "title": "Beware the Crap Gap in Daily Life",
+    "subtitle": "Often, it takes little additional time on a product or service to separate quality from crap. It’s worth that extra effort.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*syQnsaZSymQzNySXTVlO1w.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 15,
+    "title": "Software Architecture for Developers",
+    "subtitle": "Why We Need Systems Thinking",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5-8UPNzuEbYNgce-o5QkRQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 16,
+    "title": "From Ground Zero to Software",
+    "subtitle": "A raw and honest story of transformation, struggle, and finding direction through software.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Lr2QDyKh9z8tlSlL47wRkA@2x.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 17,
+    "title": "I Wrote an Extended Kalman Filter for UAV Attitude Estimation — From Scratch in Rust",
+    "subtitle": "Part of my custom Rust-based UAV project, this EKF delivers real-time attitude estimation from raw IMU data using quaternions.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*b2yFqt3gCEOajCsyfx5cuQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 18,
+    "title": "Why GenAI is a lot like Punk Rock",
+    "subtitle": "I was at an impressionable age in 1975. I was living in the UK and listened to a lot of rock music. At that time, in a business dominated…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*WBnCg7-uWvZccipHalJ1Fg.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 19,
+    "title": "Graph Convolutional Networks — Intuitively and Exhaustively Explained",
+    "subtitle": "Applying AI to Complex Relationships",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eihXVS1N6OuFYJtqymYe7A.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 20,
+    "title": "Organized for Antiquity — Software Engineering’s Fundamental Flaw",
+    "subtitle": "Why We’re Organized for a Distant Past and How to Organize for Modernity Instead",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vqGXPmh-wBgoFDU4xnBsow.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 21,
+    "title": "How to Craft a Product Vision that Works",
+    "subtitle": "A simple guide to equip you to set powerful product visions",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*STmDzMVo-Z0isA74.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 22,
+    "title": "Part 2: Applying Systems Thinking to Software Development",
+    "subtitle": "How to get from A to Z while enjoying the journey",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*x0-31TW3B7xjQu7zMBcbWg.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 23,
+    "title": "Webviews: The Steroid Rush of Mobile Development",
+    "subtitle": "Avoid the Trap of Fast Delivery with Webview — The Payback Later Can Be Costly.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*sD1v0-zujziysmo3"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 24,
+    "title": "Model Context Protocol — Intuitively and Exhaustively Explained",
+    "subtitle": "Plug AI Into Everything",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zX56K-QFu-QlOL8pUNzLag.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 25,
+    "title": "Maybe We Do Too Much Pretending in Software",
+    "subtitle": "Pretending that the world is different from how it really is isn’t constructive. We must live with reality.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7SVUEZvji5gE82VrCyA_7g.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 26,
+    "title": "Building an LLM Agent with N8N and Open-WebUI",
+    "subtitle": "A Hands-On Perspective from a Machine Learning Developer",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*qWM7rBnO1PoOzTnz"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 27,
+    "title": "This is the Optimal Team Size That Improves Performance by 400%",
+    "subtitle": "Small teams outperform a large monolithic team. This is the exact team size based on scientific research.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OBFRkXR6X7dXSOGDhvk6tQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 28,
+    "title": "Cracking the code of vibe coding",
+    "subtitle": "Not all vibes are good.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*vOaWDgTmVpMfi9ws"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 29,
+    "title": "When Software Engineers live in a Spy Thriller.",
+    "subtitle": "Tech isn’t always about debugging code from a cozy office. Sometimes, it feels more like a spy movie. My time as a software engineer for…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vXmnS4kE8IDhGHKpC53c5g.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 30,
+    "title": "How to Implement a RESTful Web Service in Go Using OpenAPI (Swagger)",
+    "subtitle": "The Power of Api Code Generation from Specifications.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rzfiMZXLI9QkcjtYQagQEg.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 31,
+    "title": "Five Things Vibe Coders Should Know (From A Software Engineer)",
+    "subtitle": "How to keep your vibe coded app secure and your users safe.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*28CIvOnCJi3-VRk664FSfw.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 32,
+    "title": "Using AI to Develop a User Interface for the Co-STORM AI Research Algorithm",
+    "subtitle": "Conversational computer programing",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8Kc4Fr2TwB1giKzNoIS7qQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 33,
+    "title": "Everything I know about AI, I learnt from Costco pizza",
+    "subtitle": "The pizza that tastes like failure",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YXZERc3GFvl8TpZ1WmJtWQ.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 34,
+    "title": "A Tech CEO Told Me Tech Workers Should Learn Skills Outside of Tech",
+    "subtitle": "As AI shakes up the tech teams, industry experience is a key differentiator",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*037oxh91j_wPQ6KOHAStJQ.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 35,
+    "title": "Graphs — Intuitively and Exhaustively Explained",
+    "subtitle": "Finding complex meaning in simple relationships",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ZrFHvXaNj1Ir2r6qnNZaAA.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 36,
+    "title": "From Law to Code: How I Became a Software Engineer at a London Fintech Without a Tech Background",
+    "subtitle": "Introduction",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yXh_PuNmVAMSmAVKcFlyQg.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 37,
+    "title": "A Tool To Automatically Detect Memory Leaks",
+    "subtitle": "Find bugs before they find you 🔫",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*MA5Nz54Q6UBWYrgX.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 38,
+    "title": "What’s Requirements Development All About?",
+    "subtitle": "Effective requirements development involves much more than simply “gathering requirements.”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*VpZCfDJrXTQUlBldVNP7HQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 39,
+    "title": "The Combinatorial Bomb That Is “Vibe Coding”",
+    "subtitle": "Or, how the realpolitik of software engineering just makes the copy/pasters look very foolish indeed.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.5:0.46/1*8L8UVFyVr6phwaJXIPKOsQ.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 40,
+    "title": "Apple Can’t Do AI Right, But Can You?",
+    "subtitle": "Apple Intelligence doesn’t live up to its promise. That’s a fact. But let’s not pretend we haven’t all been in Apple’s shoes…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_8PmsKpsXJMbuVkNIHKerQ.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 41,
+    "title": "Elon Musk’s Chaos Saw Strikes Again",
+    "subtitle": "I can’t believe it. How can the same stuff happen to the same guy twice?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QoetP450YATaUD3ArvO2GA.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 42,
+    "title": "Dynamic JSONB Queries in PostgreSQL via REST: A Deep Dive with .NET",
+    "subtitle": "Understanding JSONB for Flexible Data in PostgreSQL",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7NRhOYw3Mwcef9lTjUQYSw.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 43,
+    "title": "Is Cursor better than VS Code with Copilot? Absolutely and it’s not close",
+    "subtitle": "Cursor 3.7 + Claude is the first time for me in coding that AI has got to a level that makes it absolutely ridiculous. It is far better…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OzS9E-P_I_C9hDQbO03LJg.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 44,
+    "title": "The Changing Landscape of Canadian SMB Banking and Learnings for Entrepreneurs",
+    "subtitle": "When I first heard about Venn’s recent $21.5 million Series A funding, I wasn’t just intrigued by the number. What caught my attention was…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*bZrJWdl_v8xe4YUn"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 45,
+    "title": "How To Connect Your Supabase DB To Cursor Via MCP",
+    "subtitle": "What is MCP and why should you care as a developer using AI?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rFCS69isHc8e2JFOO-X9Pw.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 46,
+    "title": "Beyond the Hype: Rediscovering the Value of Relational Data Models",
+    "subtitle": "The Practical Benefits of Database Constraints in Production Systems",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kbcLDOsfhwbmg1t0ybw4dg.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 47,
+    "title": "The Hidden Burden of Architectural Decision Fatigue (And How to Fix It)",
+    "subtitle": "As technology architects, we are expected to make decisions. Architectural decisions. Often, these are large scale, important, complex…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-_lVVroGN8AHz78sjOgZvA.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 48,
+    "title": "Convolutional Neural Networks: A Simple Guide to Their Architecture",
+    "subtitle": "Mastering the Basics of Convolutional Neural Networks(CNNs).",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3N_uY0tckRjmwVxcv_b17w.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 49,
+    "title": "15 Buttons to AI Chaos: Build a Connect 3 Stream Deck Game",
+    "subtitle": "Level Up Your Stream Deck: How I Added AI Smart to a Classic Game",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ClY-yBpDrdq_nZ80tmTqwg.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 50,
+    "title": "Rewilding Software Engineering",
+    "subtitle": "Chapter 4: Flexing those thinking muscles",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*X-Z0tT-dTQtiDFc9"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 51,
+    "title": "Dropout — Intuitively and Exhaustively Explained",
+    "subtitle": "Encouraging robust learning in AI",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YFKujdV8aeK100Uk9baAGg.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 52,
+    "title": "How to Manage Project Hold-Ups and Rebuild Trust",
+    "subtitle": "Actionable Strategies for Tackling Timeline Issues and Keeping Clients Engaged",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5Izyq9CuOm4zbj8QCTWT5g.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 53,
+    "title": "Turning Doubt into Confidence: A Roadmap for Agile Adoption",
+    "subtitle": "Balancing stakeholder concerns and technical goals through flexible, incremental practices",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DmSNd1L3pCOKhU5Cu9Oiiw.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 54,
+    "title": "The Triumph of the Unremarkable",
+    "subtitle": "The Unbearable Hyperbole",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Opmj9sns9tuENB41"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 55,
+    "title": "Useful Python libraries you might not know existed — PyInputPlus",
+    "subtitle": "Build robust, flexible input validations",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EfSsZCpjYpseiMFnxODChw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 56,
+    "title": "A 10-Minute Guide to Systems Thinking for Agilists",
+    "subtitle": "What is Systems Thinking? How does it apply to Agile and software delivery? And where can I learn more about it?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ltrfJZJg9I3u0PD9xnOmoQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 57,
+    "title": "Using the Android Context and Manifest to unveil the Android System Internals (2025 Edition)",
+    "subtitle": "How the Context and Manifest connect your app with Android’s core system",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bA5GSba-MSqZWzEaHCFJzw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 58,
+    "title": "Dependencies Destroy Agility and Predictability",
+    "subtitle": "Managers and executives don’t like to hear about self-inflicted wounds but structural dependencies are created as a result of past choices.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Pdmig0t_Lr_VzLmNXOs00Q.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 59,
+    "title": "Subtle Testing Mistakes Claude Code Makes",
+    "subtitle": "Mistakes in React/Redux testing code quality that anyone can do, even Claude Code.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*utwJbTQ0YmKRUIT-BpPfGQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 60,
+    "title": "Simplifying Hexagonal Architecture: How to Avoid Excessive Boilerplate",
+    "subtitle": "Hexagonal architecture, or Ports and Adapters, is a pattern that separates the core business logic of an application from its (external)…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*v6O2scOEeELctkmdiyraUQ.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 61,
+    "title": "Four stages of AI-assisted software development",
+    "subtitle": "No, this article will not be about “denial, anger, bargaining, … etc.” Hmmm… that might be a good topic, too, but I digress.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MCk_IKOXfRag_JQkCkKcvQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 62,
+    "title": "Peering Beneath the Surface of Distributed Architectures",
+    "subtitle": "Strategies and Lessons Learned for Comprehensive System Visibility",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YJfzQLlcxzdDINrb80E9HQ.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 63,
+    "title": "Why Synchronous Processing Kills API Scalability (And How to Fix It)",
+    "subtitle": "Unlocking API Scalability: The Hidden Costs of Synchronous Processing",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HH2vHY2u4SXhgoyUncleRw.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 64,
+    "title": "There’s no making without breaking",
+    "subtitle": "Fortnite wasn’t a hit when it started. It was a totally different game back then. No battle royale, no millions of dollars in prize money…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*hggZihoZlWb8AcTFsn_6Tg.gif"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 65,
+    "title": "The Friendly Hacker Who Saved Our Company",
+    "subtitle": "One careless checkbox, 1,000 exposed customer devices, and the security breach that changed everything",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dh0gL2LcFo_cceKEU5kbIg.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 66,
+    "title": "Ethical Foundations in Modern Software Development",
+    "subtitle": "Where Technical Excellence meets Social Responsibility",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zDaTB6bt9KRZ4-_hf7JuWQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 67,
+    "title": "A Quick Guide to Save You from the Perils of Product Intake",
+    "subtitle": "Start achieving outcomes by abandoning the feature factory.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QOpGGsVP_NJgEbiSYi6JnA.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 68,
+    "title": "Developer Productivity: Why Some Incentives Fail",
+    "subtitle": "The industry tried to gamify the workplace to make it more engaging. But have you noticed that we’ve ended up making games more like work…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*i2QoVYHLK67K9u3jDcAw8A.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 69,
+    "title": "When Microservices Meet Unpredictable APIs",
+    "subtitle": "Practical Steps to Minimize Downtime and Preserve User Trust",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CpEt69qVxtce2T1VD8NQcA.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 70,
+    "title": "License to Kill: Coding with Cursor AI Agents",
+    "subtitle": "Cursor, an AI code writing and editing tool, represents a significant advance in the practical use of artificial intelligence in software…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QCsys-Qhl0d8NeoM9oRRZQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 71,
+    "title": "The problem with indirections",
+    "subtitle": "Almost any program we write makes heavy use of different kind of indirections, at least if it should be remotely useful. Even though they…",
+    "image_url": []
+  },
+  {
+    "category": "software-Development",
+    "article_number": 72,
+    "title": "Strive to Have a Colleague, Rather Than a Customer, Find a Defect",
+    "subtitle": "Software reviews are a powerful quality practice. We can all do better work with a little help from our friends.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vpMR8TzdYhgOn4fIkrfiNQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 73,
+    "title": "Only Developers — Not CEOs — Can Turn AI from an Overvalued Toy into a Real Industry",
+    "subtitle": "No amount of executive hype can replace the human craftsmanship needed to turn AI into working solutions.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*KOkt1EfsImhgK0dI16IJPw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 74,
+    "title": "Leverage On Redux To Execute Your Tests 100x Times Faster",
+    "subtitle": "How separating the logic from the view can accelerate your test speed, test quality, and productivity.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rrGO0dBol0MsoDpwtWWoZw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 75,
+    "title": "AI Regulation: A Global Tug-of-War in Five Acts",
+    "subtitle": "OPENAI:+Rob Tyrie",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*17mysR4Q-jUWcvVCabBhkQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 76,
+    "title": "Java Meets JavaScript: A Modern Approach to Dynamic Page Rendering",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IHGKoTA38tqF1wwuzqVJTg.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 77,
+    "title": "A Wolf in Dark Mode: The Malicious VS Code Theme That Fooled Millions",
+    "subtitle": "Hey there, how long has it been? A month since the last time we had millions of developers exposed to malware through a marketplace? Well…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*y1EsjOV97dQf3ogGIQ5nFQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 78,
+    "title": "Code smell",
+    "subtitle": "Originally posted at Death, Love & Broken Records. Go to DL;BR for first reads, music news, and other announcements.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bHU7LKT47mA_u0F1_2hHrA.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 79,
+    "title": "Here’s Why Wearing Many Hats is Important for a Software Developer",
+    "subtitle": "A reflection on my professional work experience as a software developer and the value I’ve found in not letting traditional roles define me",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/1*W9ZJLCX-2PNMN-n-asPRjw.gif"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 80,
+    "title": "Database Modeling: Mapping Objects to Relational Databases",
+    "subtitle": "This article explores data modeling in software engineering, focusing on how to map object-oriented concepts to relational databases using…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*3BCgxHQUVd5RMRRL.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 81,
+    "title": "The Incuriosity Engine",
+    "subtitle": "There was a great article that Namanyay Goel wrote this week about how AI is leading to junior developers who can’t code that’s worth your…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*DxEif9RT3g3Ymfbb.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 82,
+    "title": "Minimal Options Problems",
+    "subtitle": "What happens when software engineering is too simple.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lvuImWsbLm2VzFgu9TBugA.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 83,
+    "title": "Securing Legacy Web Apps in a Modern World",
+    "subtitle": "Strategies for Safeguarding Legacy .NET Applications",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rms91PTLhpkL0Qrj6lZR_g.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 84,
+    "title": "Understanding UML Sequence Diagrams: A Hospital Management System Case Study",
+    "subtitle": "This article provides an overview of UML sequence diagrams, explaining their notation, strengths, and limitations in modeling dynamic…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*1LICuVw0bGPtvNQ2.jpg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 85,
+    "title": "Love Your Code: Conquer C++ Pointers with This Fun Guide",
+    "subtitle": "Dear Pointers, I have hated you all my life, and I don’t see that changing anytime soon. Never yours, Younger me.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*WDukzP6nPYyhJxirLYHouw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 86,
+    "title": "Engineer’s Notes: Archeological Sites & IT",
+    "subtitle": "A software engineer discussing product design based on his vacation experiences.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*F_QRdS2a0neuZU9-U3Wdhg.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 87,
+    "title": "SOLID Coding. Dependency Inversion: Breaking Free from Tight Coupling",
+    "subtitle": "How to Stop Your Code from Being a Fragile, Unmaintainable Mess",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*O0atckq7ktwx6-RYNuyIBw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 88,
+    "title": "Communicating Requirements: From Voice of the Customer to Ear of the Developer",
+    "subtitle": "A software team can use various communication pathways to connect requirements sources to solution builders.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*P2B9IoEeGzO8Q7o_f9X-aw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 89,
+    "title": "You Need TDD If You Use AI",
+    "subtitle": "AI Code is Fast, but is it Right?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*v9hBAvFf-2PaDb96EDM2ug.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 90,
+    "title": "The Performance Paradox: Hardware Scaling Can’t Fix Inefficient Software",
+    "subtitle": "Why Faster Hardware Can’t Overcome Poor Software Design",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Jk4rQgUrrhpsJr4_.jpg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 91,
+    "title": "Does Good Software Engineering Improve the Performance of Large Language Models with Software Tasks?",
+    "subtitle": "Thoughts about Chain-of-Thought LLMs and code.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*So1IvSooExNox7Bm.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 92,
+    "title": "Using AI to replace your dev team",
+    "subtitle": "Turning a whiteboard sketch into working code by telling stories to a machine isn’t actually about replacing developers.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AmAoeXHkBB2_j4Fy2JSwKA.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 93,
+    "title": "Rethinking Shared Services Teams in Software Development",
+    "subtitle": "When you need assistance from a specialist on a shared services team they are not sitting around waiting for your request",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*5DxhEYiiM3DshRBPyNaZ1w.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 94,
+    "title": "The Cruel Art of Layoffs at Meta",
+    "subtitle": "How they can lose trust, talent, and their reputation in one simple step",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*FCAuX2efeRThqmd2obOpwg.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 95,
+    "title": "Step-by-Step Guide to Boosting Enterprise RAG Accuracy",
+    "subtitle": "In my previous blog I wrote about how semantic chunking with newer models like Gemini Flash 2.0 with very large context sizes can…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8K2t2lE71MR-avy8apK5_g@2x.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 96,
+    "title": "Why Do People Hate The Corporate World?",
+    "subtitle": "Is It Just A Fad Thing To Say?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*SQsiltfVymf3Xr0L"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 97,
+    "title": "Economics of LLMs: Evaluations vs Pricing",
+    "subtitle": "Looking at which model to use for which task",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cltVNkrvfzqI-beMCkeibw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 98,
+    "title": "What I Wish I Knew as a Junior Developer",
+    "subtitle": "Lessons from Three Years in Tech",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*1-dm65GJYSUsxCSi"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 99,
+    "title": "Will Programmers Save the CEOs Who Laid Them Off?",
+    "subtitle": "They seem relentlessly determined to inflate the AI bubble — right up until it bursts.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*oM0QGHhBUJsfr5AgeH4InA.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 100,
+    "title": "Another Post About Progress",
+    "subtitle": "Another exciting week in project creation.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LRcx6eUTy3fdIoaLqOd2-w.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 101,
+    "title": "Six Principles for Complexity",
+    "subtitle": "A New Set of Principles for the Next Phase of Agile",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*2sQ9xcceH0MedI19"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 102,
+    "title": "Make Products Easy to Use Correctly and Hard to Use Incorrectly",
+    "subtitle": "Good user interface designs help users avoid and recover from errors. Why don’t all products do that?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*48Iy5QyFx4Ni5lr7jz99fQ.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 103,
+    "title": "Why AI Is Not Software",
+    "subtitle": "AI is not software.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BA5Fk9YcdbwDdD28Zw-eRw.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 104,
+    "title": "Why AI Won’t Flatten the Software Engineering Talent Curve",
+    "subtitle": "The equalizing potential of AI depends on the societal structures surrounding the technology and its users.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LpgXXT3yl8PyhoXyPl4cHg.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 105,
+    "title": "Overcoming Legacy Code: How Software Projects Move Forward",
+    "subtitle": "Lessons Learned from Windows Forms to Microservices",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6Q0vr0pv-9PbPeXIZMQ2nQ.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 106,
+    "title": "Why building “small” features at a FANG company can be surprisingly complex",
+    "subtitle": "I was explaining to a Product Manager friend why even seemingly “small” features take much longer to build at large companies compared to…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*z_ULqr9ELIiPv_1v_AQyzg.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 107,
+    "title": "The Myth of Predictability in Software Teams",
+    "subtitle": "“If teams miss their commitments, or promises, it should be painful.”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7ajZPDGjgZdXl8lAk2X0_Q.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 108,
+    "title": "Bring Your Own Examples",
+    "subtitle": "Embedding a Test Oracle in a Specification",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*R1NxArXbdCE1MPPPkrs6LQ.jpeg"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 109,
+    "title": "THE “AI OHHHM-MOMENT”",
+    "subtitle": "Artificial Intelligence Get Smarter by Slowing Down — Shouldn’t We Do the Same?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eorgHD9JDhX9o4rVsQiMLA.png"
+  },
+  {
+    "category": "software-Development",
+    "article_number": 110,
+    "title": "There’s No Such Thing as Real-time in Software",
+    "subtitle": "So don’t engineer a solution to a problem you don’t have.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SRT2qvU2VKAML6MN9kW8Bg.png"
+  }
+]

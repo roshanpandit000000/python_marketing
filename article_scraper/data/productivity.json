@@ -1,0 +1,772 @@
+[
+  {
+    "category": "productivity",
+    "article_number": 1,
+    "title": "The Value Of Being Pedantic In Software Development",
+    "subtitle": "After decades of software engineering, we still call things what they’re not…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QHRjXi5sjhC1vLkbC7ieiw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 2,
+    "title": "The Paradox of Effort: When and Why Hard Work Feels Worth Doing",
+    "subtitle": "Psychologists unravel how we value what we do, and learn that it depends whether we’ve done it or not",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*4f4dQdykOtShhc6l.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 3,
+    "title": "Overconfident at Scale: Gen AI and the Illusion of Expertise",
+    "subtitle": "If you’re like me, you’ve probably seen the Dunning-Kruger curve once or twice in a meme or slide deck and quietly huffed out your nose…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*uBnwg69W8ZvXVPnU"
+  },
+  {
+    "category": "productivity",
+    "article_number": 4,
+    "title": "You Need To Build Your Company 100 Percent Remote",
+    "subtitle": "If your company is new, small, or on the cutting edge, don’t mandate a return to office",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nKljmv8_nl-fAdwlm2-hfw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 5,
+    "title": "AI Took My Voice, And I Want It Back",
+    "subtitle": "‘Let’s dive deeper’ — and other phrases I don’t dare to use anymore…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Q13MIWWf8B8TAGmCgGXszg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 6,
+    "title": "What Can All Product Managers Learn from Apple’s Misstep With Apple Intelligence?",
+    "subtitle": "3 lessons from Apple’s AI debacle.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zDsBsfDSNMkAPh-aPebXKQ.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 7,
+    "title": "Forget Hustle Culture: Here’s The Case for Disciplined Daydreaming",
+    "subtitle": "Doing nothing is actually the most productive thing you can do",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QOXO2_VwGbs4LlHGOWIbSw.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 8,
+    "title": "The Importance of Wasting Time",
+    "subtitle": "In a culture that preaches capitalizing on every single moment, wasting time can provide peace and relief",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uZpyMPlkyKeOdtP_7UcivQ.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 9,
+    "title": "Is the iPad Good Enough to Replace Your Mac? My Real-World Experience as a Developer & Writer",
+    "subtitle": "A deep dive into how the iPad fits into my daily workflow — Why I prefer the iPad over the Mac, 90% of the time. And the moments I don’t.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-3ZvxvpHlSWx2geO5rVrkA.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 10,
+    "title": "From Burnout to Balance: How I Found Health in an Agile Lifestyle",
+    "subtitle": "A realistic approach to health, growth, and lasting change",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*UOhy7bsfk2AiKGwOPYWERg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 11,
+    "title": "Organized for Antiquity — Software Engineering’s Fundamental Flaw",
+    "subtitle": "Why We’re Organized for a Distant Past and How to Organize for Modernity Instead",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vqGXPmh-wBgoFDU4xnBsow.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 12,
+    "title": "Modern computers are too powerful",
+    "subtitle": "World-leading chips for bang average workloads",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*EH5GfOaXYq_TQ6PF"
+  },
+  {
+    "category": "productivity",
+    "article_number": 13,
+    "title": "These Nine Simple AuDHD-Friendly Organizing Hacks Actually Work For Me",
+    "subtitle": "My AuDHD brain needed a different approach to organizing — here’s what finally clicked",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*FzymCUJCN1FufKwA"
+  },
+  {
+    "category": "productivity",
+    "article_number": 14,
+    "title": "10,000 hours Can’t Help Dunning-Kruger Pass the Marshmallow Test",
+    "subtitle": "Three studies that suffer from the “Vizzini Effect.”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*khI2rHxAgBbAnVwDzROoyw.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 15,
+    "title": "When Workplace Change Requires More Than Quick Fixes and Band-Aids",
+    "subtitle": "A big leadership misstep — the epic post-it note collaboration fail",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Rce1XEgjm_WhzpbibzhJFw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 16,
+    "title": "Why Great Teams Argue, and Yours Should Too",
+    "subtitle": "Avoiding disagreement kills a team from inside — here’s what to do about it",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*eJbe-yVxybQLC9iR"
+  },
+  {
+    "category": "productivity",
+    "article_number": 17,
+    "title": "Reliance on Technology to Think for Us Will Lead to Cognitive Atrophy",
+    "subtitle": "But writing can keep us sharp as AI and convenience dull our minds",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*twJizsd5cp6_TpGx-Honog.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 18,
+    "title": "Burnout is Contagious",
+    "subtitle": "Navigating the relational contexts of work stress",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rKxCSO4y5wRZ8U17zu3iRw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 19,
+    "title": "I Tried Jeff Bezos’s 1-Hour Rule for 15 Days To Boost My Mental Health and Productivity— Here’s…",
+    "subtitle": "A comprehensive overview of my experience with Bezos’s no-scrolling-in-the-morning rule",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*gTNPQWIF97seZunH"
+  },
+  {
+    "category": "productivity",
+    "article_number": 20,
+    "title": "When Tableau Met LookML: My Brain’s Identity Crisis",
+    "subtitle": "Trading drag-and-drop for code taught me to think in two languages (and I survived to tell about it)",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*SOoIeeQxzhkdZU2U"
+  },
+  {
+    "category": "productivity",
+    "article_number": 21,
+    "title": "When More Isn’t More",
+    "subtitle": "Rethinking productivity in the age of AI",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MAiF6ENgIEqqoNnepv8jIw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 22,
+    "title": "How to grow as a designer even when you’re overwhelmed with work",
+    "subtitle": "Experimentation is a critical part of growing as a designer",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*pyqlXnDXpnJqBmCjvgnyHw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 23,
+    "title": "Keeping track of all my precious ones",
+    "subtitle": "Having a lot of work to send out is great, but keeping track of them isn’t easy",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*gdG8u5aeFmsI8RNdem3cyg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 24,
+    "title": "Stop Optimizing and Gamifying Your Life",
+    "subtitle": "Optimization is for machines, not humans",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*3h13t4ECbJRT1gt1.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 25,
+    "title": "Ditch the Guesswork: How to Use AI to Learn Faster and Build Useful Products",
+    "subtitle": "3 AI use cases you must know.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1aosMiKwOQFxLpq8NKTY7A.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 26,
+    "title": "Creating Boundaries in a Boundaryless Work World: A Quick Guide",
+    "subtitle": "Five ways to work better when your home is your office and your schedule is entirely up to you",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cHUWTnXiNmTrrP4MIh8N4A.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 27,
+    "title": "The M3 iPad Air: Apple’s Goldilocks Strategy to Define the iPad’s Future.",
+    "subtitle": "Powerful Enough, But Not Too Expensive, The M3 iPad Air Aims To Strike A Perfect Balance. But Is This Apple’s Way Towards Redefining The…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*xavolWvmoDIoG5cGZBN42A@2x.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 28,
+    "title": "The minimalist Apple ecosystem that has served me well",
+    "subtitle": "For the purposes I intended it for",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*E2ojLOujP5gVzFQEnUk7MQ.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 29,
+    "title": "5 Important Lessons I Learned as a Tech Consultant over the Last 5 Years",
+    "subtitle": "Underestimated Skills in IT-Consulting with Lessons Learned.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Ejopc-5TDZAPgpq1alv29w.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 30,
+    "title": "I Stayed in a Job I Hated for Years",
+    "subtitle": "I was stuck at an unfulfilling job but felt unable to leave due to family pressures",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*e1JUId3vxGsz963lY4wiBg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 31,
+    "title": "I Never Planned to Use Vim — Now I Can’t Imagine Coding Without It",
+    "subtitle": "How It Started",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vl03rEfcALRiQ4BDtQNf0A.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 32,
+    "title": "I Created a Headless MacBook Pro, and I’m Digging It",
+    "subtitle": "This is a whole new approach to “spatial computing.”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BRgmggpMLTgkrkLuE8XdSw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 33,
+    "title": "How to design the right thing in high-pressure situations",
+    "subtitle": "What should you do if the Product team says, “stop everything and build this?”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SxyL9852ERiLINXrpC7yqw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 34,
+    "title": "Developer Productivity: Why Some Incentives Fail",
+    "subtitle": "The industry tried to gamify the workplace to make it more engaging. But have you noticed that we’ve ended up making games more like work…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*i2QoVYHLK67K9u3jDcAw8A.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 35,
+    "title": "5 Questions to Ask Your Manager to 10x Your Impact at Work",
+    "subtitle": "Average players want to be left alone. Good players want to be coached. Great players want to be told the truth.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vNYuuGTi0dsCD5rST7EC3w.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 36,
+    "title": "How To Actually Gamify Your Life (A Game Designer’s Guide)",
+    "subtitle": "For years, I’ve been the guy companies call when they want to make their products more engaging. I’ve designed gamification systems for…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*NJdo6d6uhLZ5D--wRaC7Pw.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 37,
+    "title": "AI Regulation: A Global Tug-of-War in Five Acts",
+    "subtitle": "OPENAI:+Rob Tyrie",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*17mysR4Q-jUWcvVCabBhkQ.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 38,
+    "title": "What My Son’s Broken Toe Taught Me About Life’s Natural Feedback Loop",
+    "subtitle": "Resisting the urge for an immediate fix.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7Jw3W-lRtt_4olckyoZ9Tg.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 39,
+    "title": "Is This How You Stop Time?",
+    "subtitle": "Efficiency and optimization are not worthy goals",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*taTiPJr2UCn3Cbcpv5eLPg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 40,
+    "title": "Surviving the Deadline Gauntlet: How to Deliver on Time and Stay Sane",
+    "subtitle": "A Friendly Guide to Navigating High-Pressure Timelines Without Burning Out",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*s-8h_lH10f37Tuk6t7dcFg@2x.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 41,
+    "title": "The Art of Freeform Planning: Build Smart Templates for Seamless Organization",
+    "subtitle": "Discover One Smart Hack in Apple’s Freeform to Streamline Your Daily Workflow!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GHkmR0wjhWRsdE_TAiI21g.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 42,
+    "title": "All Change Involves Death",
+    "subtitle": "Endless growth is a destructive myth",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*HoXGDp-9y1Y4mResC0vSjA.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 43,
+    "title": "Dealing with the pressure of always learning",
+    "subtitle": "Technology is ever-expanding and growing. We see this at work and in our personal lives. I know I spend a significant amount of energy…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*vwBWYzD1APv8NsJZ"
+  },
+  {
+    "category": "productivity",
+    "article_number": 44,
+    "title": "Transform ChatGPT Into Your Free AI Email Assistant (With One Simple Shortcut)",
+    "subtitle": "Save Hours Every Week: Write Emails up to 3X Faster With This Smart AI Trick",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2EWzMHj7aWDZMhvE5EbxgA.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 45,
+    "title": "Why Peak Performers All Embrace the 80/20 Rule",
+    "subtitle": "Achieve More with Less",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*fPFmoqWTMg7PTy-r.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 46,
+    "title": "How to Actually Remember Words — Without Relying on Flashcards",
+    "subtitle": "Why meaningful input and output help vocabulary stick better than endless SRS reviews",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*vdGcMX1VP2319B6Z"
+  },
+  {
+    "category": "productivity",
+    "article_number": 47,
+    "title": "Forgetfulness & ADHD? How This Simple App Saved My Workday (And My Sanity)",
+    "subtitle": "Ubiquitous reminders are sometimes what it takes.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*koRRjS0h_Jgr6cDepOK8Mg.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 48,
+    "title": "5 Strategies for Successful Workplace Collaboration",
+    "subtitle": "Collaboration is one of the most failed efforts at work. Despite best attempts from managers and leaders, collaboration continues to be a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*y2F1YSoS9HcCeu_6QhLNNA.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 49,
+    "title": "Personal Knowledge Management at Scale — Analyzing 8,000 Notes and 64,000 Links",
+    "subtitle": "A deep dive into the technical implementation and analysis of my Personal Knowledge Management system containing 8,000 notes and 64,000…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7OininhNFFbKaKWE0Pv9Yw.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 50,
+    "title": "DeepSeek R1: Was It Fear or Empowerment That Drove Its Innovation?",
+    "subtitle": "The answer holds the secret to product team effectiveness.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0ZhZLKZ5hvBy3oWO8wjD5w.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 51,
+    "title": "Build A Brand, Not A Business",
+    "subtitle": "Rise above the noise that clutters your thinking",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*pYVQWySF480ykxtc"
+  },
+  {
+    "category": "productivity",
+    "article_number": 52,
+    "title": "Creating Your Team’s Style Guide",
+    "subtitle": "Ensure your documentation is consistent and clear, maintain a unified voice across your documentation, and reduce confusion for readers.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*piHHeVZxtTNZMSc5lzi86A.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 53,
+    "title": "How to Use Procrastination to Improve Your Creativity",
+    "subtitle": "Stop wrestling with the procrastination monster",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*wFek8b10vU0jo9Yq.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 54,
+    "title": "Photo-Days & Workshops",
+    "subtitle": "A great way to kick-start your motivation",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*19lFmsdOYyDWswLF4dR0SA.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 55,
+    "title": "The Leadership Mirror: I Was Teaching My Team How to Burn Out",
+    "subtitle": "Learn why teams adopt their leader’s habits, and what you can do about it",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*QWPQuVoOi7UsVxRH"
+  },
+  {
+    "category": "productivity",
+    "article_number": 56,
+    "title": "The ultimate note-taking solution — 2nd Edition (2025)",
+    "subtitle": "Just over 1 year ago, I wrote the first edition of this article. It’s time for a review and update. So much has changed in the last year…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*9o7eOa3LCyBFvLOM.jpg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 57,
+    "title": "From Archery to DevOps: How Systems Thinking and the Theory of Constraints Can Transform…",
+    "subtitle": "A powerful (and perhaps unexpected) illustration of systems thinking is archery. Far from being just “draw the bow and fire,” archery is a…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*kHGrBFHGnOoxux_6.jpg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 58,
+    "title": "Could This Meeting Have Been an Email? Or Literally Anything Else?",
+    "subtitle": "Truly, anything at all other than another meeting.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*H10NKb7ZQUsDCa-7M1EL_Q.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 59,
+    "title": "The Power of Slow Leadership",
+    "subtitle": "When my biggest weakness became our greatest strength",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Mkr6uhuW_wWTrbFl"
+  },
+  {
+    "category": "productivity",
+    "article_number": 60,
+    "title": "The Mnemonic You Already Know That Can Make Habits Easy",
+    "subtitle": "Made for ADHD, but strong enough for anyone!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fptEzkLgHk_9nfNLrwXm9Q.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 61,
+    "title": "Agile And The Ball We Dropped",
+    "subtitle": "An expensive ball that we now have no one else to trow to…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*u-41CmpsU_jslaak"
+  },
+  {
+    "category": "productivity",
+    "article_number": 62,
+    "title": "Two Titans and Me in the Middle: A Guide to Managing Conflict",
+    "subtitle": "Would you like to know how I accidentally became a referee between two tech titans? Here’s how I survived that battle.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*XQzg9UJTBp6XRLvlCQg5ZA.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 63,
+    "title": "The Seven Unexpected Ways High-Functioning ADHD Affects My Life",
+    "subtitle": "If you’ve ever been told, ‘You don’t seem like you have ADHD, ’ this is the post for you.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*4lgxftN3HxmyN1Ww"
+  },
+  {
+    "category": "productivity",
+    "article_number": 64,
+    "title": "How My 10-Year-Old Became My ADHD Coach, Part 672",
+    "subtitle": "The torture of getting started and the upheaval of being told to stop",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*V1P53Bo45ZodZZ1s.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 65,
+    "title": "Questions to ask yourself when a project goes off the rails",
+    "subtitle": "Disclaimer: All opinions are my own",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ufEMmQtHYFzYjGHq3cvRfw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 66,
+    "title": "Wait, Did You Just Say That?”: The Art (and Mess) of User Interviews",
+    "subtitle": "A latte, a developer, and a Slack poll sparked an unexpected crash course in user research.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*03Y4VTRFIrZQ9RzsKSGhJg.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 67,
+    "title": "From Darwin to Deep Work",
+    "subtitle": "Focus Strategies for Machine Learning Practitioners",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*g2GDll9oaaXLzQid"
+  },
+  {
+    "category": "productivity",
+    "article_number": 68,
+    "title": "Nesting with Purpose: ADHD-Friendly Organisation Tips",
+    "subtitle": "How to balance storage, comfort, and chaos",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*xc9ES9Y1reYdOzjM"
+  },
+  {
+    "category": "productivity",
+    "article_number": 69,
+    "title": "The Dark Side of Diagnosis",
+    "subtitle": "How labels are letting us down",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*E7m8HvQJZ83hzSBm76UVbg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 70,
+    "title": "Want a consistent flow of ideas?",
+    "subtitle": "Whether you want a business idea or your next creative project, there’s a lot you can do to encourage inspiration",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*NbQ84tnOD8ejluT4rRFn3A.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 71,
+    "title": "The Guilt of Being Human: How Productivity Anxiety Serves Capitalism",
+    "subtitle": "Every morning when I wake up, the clock starts ticking — not just on my day, but on my worth as a human being.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*ikG5ZcCIqMlXn8JX"
+  },
+  {
+    "category": "productivity",
+    "article_number": 72,
+    "title": "GitHub Copilot is a Game-Changer",
+    "subtitle": "It’s time to jump on the bandwagon!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MkTATpXA24eEQAQVcPYvQQ.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 73,
+    "title": "3 Reasons Why Your Morning Standup is Actually a Good Thing",
+    "subtitle": "Don’t miss the benefits of your standup that you didn’t even know existed",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*7uEWrxN4WRh3Ztnd"
+  },
+  {
+    "category": "productivity",
+    "article_number": 74,
+    "title": "The 5 paid subscriptions I actually use in 2025 as a Staff Software Engineer",
+    "subtitle": "Tools I use that are cheaper than Netflix",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3XS-8r8adjnRoNH4YjKXpw.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 75,
+    "title": "The one-page calendar that changes how you view the year",
+    "subtitle": "It’s simpler, more compact, and reusable from year-to-year in a way that no other calendar is. Here’s both how it works and how to use it.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*JVQMz_4V9hGXMaVinS6uMw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 76,
+    "title": "Product Ops is the Product Team’s Pit Crew",
+    "subtitle": "Curious about what Product Ops is, who’s on the team, and how they actually support product teams? Keep reading to find out.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rbDNHtQUyXC8DMwS47LkKA.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 77,
+    "title": "33 Anti-Patterns That Transform Product Managers Into Backlog Managers",
+    "subtitle": "Understanding common traps to rock the product world",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*dmI9y1CfrdxEPUbT.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 78,
+    "title": "The down-and-dirty board that gets everything done",
+    "subtitle": "I personally got involved with using a Kanban board in 2021. I was heavy into planning already and was looking for a visual tool to help me…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*i6EpqkqVxbVOVnYH"
+  },
+  {
+    "category": "productivity",
+    "article_number": 79,
+    "title": "How I Almost Let a Latte Ruin Our Product Launch",
+    "subtitle": "I once thought critical thinking meant strolling into a meeting, wearing a faux-intellectual expression, and just questioning everything…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vsDUWP8ZWvQU7yQMY7DLZg.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 80,
+    "title": "Your One Precious Life",
+    "subtitle": "A radical approach to productivity & time management",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yNv28ql-DaUJuJe3jdl20w.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 81,
+    "title": "Time Management 101 for Junior Designers: How to Handle Deadlines, Estimates, and Team Life",
+    "subtitle": "A beginner-friendly guide covering practical tips like setting priorities, giving accurate estimates, and balancing multiple projects.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SSjFZJYdPWuVjrkpK5wLKA@2x.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 82,
+    "title": "How to Conduct a Competitive Analysis That Truly Stands Out!",
+    "subtitle": "Start 2025 strong!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*KSf7ikPdNL2zgQbiyr0dLQ.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 83,
+    "title": "Why you should consider a Bullet Journal instead of a planner for the New Year",
+    "subtitle": "A simple approach can make wonders if done right.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dT49uNv7NV6DzLjeOSbAFA.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 84,
+    "title": "Time-to-critique: the metric that will level up how you manage your Design Team",
+    "subtitle": "Learn why measuring how fast and effectively can your design team members obtain high-quality critique is crucial for their success.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nODgaAMuIzC3pUp4bN-Ptw.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 85,
+    "title": "How to Deal with Struggling Junior Resources in Software Development",
+    "subtitle": "How Empathy and Leadership Turned Team Productivity Issues Around",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*V1YJILVcNUZNTCZ12GSrgQ.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 86,
+    "title": "The Truth About To-Do Lists: Why Productivity Isn’t About Doing It All",
+    "subtitle": "How one helpful gift taught me the true understanding of productivity and gave me peace of mind",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dvqxym2g7fUHReQOeBtevQ.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 87,
+    "title": "2025 Journals and Planners Most People Could Actually Use",
+    "subtitle": "Be realistic about your journaling goals for the new year",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Pb5U3jpJmRd4_VXFAix9lg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 88,
+    "title": "The (lost) art of focus: why we lost it — and how to get it back",
+    "subtitle": "Key insights from Johann Hari’s Stolen Focus, and a personal 4-step framework to regain control of it.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*i-LNuyeW8aLolsm-dD3Z1w.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 89,
+    "title": "Why Santa Claus is the Perfect Product Manager",
+    "subtitle": "If Santa Claus were looking for a job in tech, it’s hard to deny he’d slip effortlessly into the role of a Product Manager. Forget the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*oeFEiQ5pUh6-aumG_Folbg.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 90,
+    "title": "Your New Year’s Resolutions Are Already Over",
+    "subtitle": "2025: The year you stop pretending you will stick to resolutions.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*h0Nzwy4pHQd-0g50FwbMkQ.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 91,
+    "title": "Your Machine, Your AI — The Ultimate Local Productivity Stack with Ollama",
+    "subtitle": "Supercharge Workflows: How to 10x Your Productivity with Local AI, Ollama, and Raycast — 100% Free & Secure",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*y4MNHMMyCHfGKIRUS213mg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 92,
+    "title": "Dark Arts of Manipulation: How to Spot It Before You Say ‘Yes’ to That Awful Idea",
+    "subtitle": "You might remember my last piece, where I lovingly detailed how to influence with grace, authenticity, and just the right amount of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*0daZFomuX0tybZPElVH_CQ.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 93,
+    "title": "How Good is Apple Notes Handwriting?",
+    "subtitle": "I tweaked “If” by Kipling to test Apple Notes’ handwriting recognition",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*y3Clowu37xGgnCrfh306WQ.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 94,
+    "title": "Eight Contradictory ADHD Symptoms That Shape My Life",
+    "subtitle": "And how I reconcile them.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*bzs-Jq_KdzGEAXPj"
+  },
+  {
+    "category": "productivity",
+    "article_number": 95,
+    "title": "The TimeAlign Founding Story",
+    "subtitle": "How a Tragic Loss and a Calendar Extension Sparked a Startup",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BhBL2g5c8lvnBIcLNHtrig.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 96,
+    "title": "Beyond procrastination: the cognitive reasons behind unfinished projects",
+    "subtitle": "From impostor syndrome to cognitive overload — mastering the invisible forces that prevent project success",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*i5dszX8DSKW754isD9rpGA.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 97,
+    "title": "On making remote work more human: Meetings",
+    "subtitle": "New rules (and experiments) for remote work",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ZTZQ0JJPvhL7orO0plTS6Q.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 98,
+    "title": "How 60 Minutes a Day Can Change Your Life",
+    "subtitle": "The simple commitment most people avoid that can dramatically transform you",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*mQMV9oRJY-6lLMpqUJKehw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 99,
+    "title": "Overworked, Undervalued? Here’s How to Fix It",
+    "subtitle": "How to Balance Helpfulness with Self-Preservation",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fCwH9se8HdQaB8agJK73jw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 100,
+    "title": "Building Systems for Everything — How The E-Myth Changed the Way I Work and Live",
+    "subtitle": "Why building systems is the ultimate productivity hack for work and life",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*iI_IVGGK5xgYM21V.jpg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 101,
+    "title": "Tossing Out My Stuff Gave Me Amazing Clarity",
+    "subtitle": "It revealed how much better my life could be",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fq37jZXK5hkSdS5jg-TtUg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 102,
+    "title": "Things You Should Know to Become a Fast Programmer",
+    "subtitle": "Being “fast” doesn’t make you a fast programmer, but knowing these will",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*aFu7hC6dOkQPR5n6jjRnTA.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 103,
+    "title": "Learning Budgeting: How I Connected the Dots and Won Over Stakeholders",
+    "subtitle": "Budgeting didn’t come naturally to me at first, but through persistence, I began treating it like unraveling a mystery.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*qRpJ66fM8jUr2UPCafm0uw.png"
+  },
+  {
+    "category": "productivity",
+    "article_number": 104,
+    "title": "How to Establish a Regular Sleep Schedule",
+    "subtitle": "Sleep Strategy 101: Your ability to fall asleep quickly and get quality slumber rests on these foundational tactics",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*p_AnvLNvtsd_Dh-EYG-cgQ.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 105,
+    "title": "An Afternoon In My Strawberry Fields",
+    "subtitle": "Where there’s nothing to get hung about",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.37:0.28/1*TOA3cx3spcUz-pxVCa4wjg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 106,
+    "title": "The Sacred Art of Doing Nothing",
+    "subtitle": "Why Doing Nothing is Doing A Lot",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eLSg_YWgXy7LdkCGkyymGg.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 107,
+    "title": "Why Time Confetti Are Stealing Your Peace — and How to Get It Back",
+    "subtitle": "The way you live your days is the way you live your life.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*qQnAwDJaufWGKf5oDPYCeA.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 108,
+    "title": "You Are Not Your Mental Health",
+    "subtitle": "You are not your mental health. Thinking a diagnosis is a permanent part of you may be doing more harm than good.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QRVBjmdBfikYtk1G78IHRA.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 109,
+    "title": "Why The Best Productivity Hacks Won’t Save You from Distraction",
+    "subtitle": "The problem goes beyond our phone and social media.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*bzMKR23VG6vZhY_kbBc3Sw.jpeg"
+  },
+  {
+    "category": "productivity",
+    "article_number": 110,
+    "title": "You Really Need Some Alone Time",
+    "subtitle": "Solitude is mentally and emotionally invigorating, so long as it doesn’t make you feel lonely",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yc_0opEOzIISa_S2ahjAeQ.jpeg"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "category": "psychology",
+    "article_number": 1,
+    "title": "Mechanized",
+    "subtitle": "I am unconsidered",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ti6gGfQyeMPFungeQtk2vw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 2,
+    "title": "Complex Trauma and Self Blame",
+    "subtitle": "Liberating oneself from toxic penitence",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*r8SP99-SI2yYmRTi0JbRRg@2x.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 3,
+    "title": "If She Were Okay",
+    "subtitle": "The poetry might be gone",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*m6g_p7OtlgGyL5WiIX6CdA.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 4,
+    "title": "The Myth of Unbiased Media",
+    "subtitle": "The journalist Megyn Kelly wears her political bias on her sleeve, unlike most people in media (and in life) who fail to acknowledge their…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_Ucav5X40_mYYvRojkJl_g.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 5,
+    "title": "An Introduction to Spinoza: Pantheism",
+    "subtitle": "The Divine in Every Aspect of Nature",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*ENohWJgoiCO87aaY.jpg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 6,
+    "title": "Why White Americans See Black Self Defense as Ultimate Violence",
+    "subtitle": "Far too often, racial bias impacts perception of guilt.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*l7OwRlwhTA5ac3d--OIw1g.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 7,
+    "title": "Existential Dread as a Doorway, Not a Diagnosis",
+    "subtitle": "Exploring what this common state of being actually is",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*DoBC1D8cPMAXPJWO"
+  },
+  {
+    "category": "psychology",
+    "article_number": 8,
+    "title": "The High Cost of Hustle: A Psychologist’s Wake-Up Call.",
+    "subtitle": "The Breakdown That Forced Me to Ask What My Soul Really Needed",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*l2FxExQPqYM2LBPZe5s9GQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 9,
+    "title": "The Ringing In My Ears",
+    "subtitle": "And life’s flattening",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_0ZUCfTJONfwEqrdZjWSFw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 10,
+    "title": "The Challenge of Recognizing Neurodiversity vs. Trauma",
+    "subtitle": "Only after discovering my autism and ADHD could I make sense of trauma symptoms",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*VM5NbWjI27Nz-z5wXHuk4A.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 11,
+    "title": "The Paradox of Effort: When and Why Hard Work Feels Worth Doing",
+    "subtitle": "Psychologists unravel how we value what we do, and learn that it depends whether we’ve done it or not",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*4f4dQdykOtShhc6l.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 12,
+    "title": "Follow the Fence",
+    "subtitle": "It will lead you home",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AYoH3kCORNsk1giQPyiTBQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 13,
+    "title": "Beyond the Mirror: A Gay Therapist’s Guide to Healing Body Shame",
+    "subtitle": "A therapist’s raw look at how trauma, not vanity, drives the gay community’s body image crisis — and the path to healing",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8F5Yiv2SUsPEzJGZ6Vbl6A.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 14,
+    "title": "Color on the Edge of Vision",
+    "subtitle": "What a dying artist teaches us about color, memory, and the human brain",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*LFumLhaAeaP2g-CW"
+  },
+  {
+    "category": "psychology",
+    "article_number": 15,
+    "title": "Who Listens to the Listener?",
+    "subtitle": "A Psychologist Who Needs to Talk",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*8-M8x8Cm3dm3rcTjSDjCPw.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 16,
+    "title": "Steer the Horse",
+    "subtitle": "Why decision is the most powerful force you have",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*6FIk82hbdI62DY5Xi9RiTg.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 17,
+    "title": "A User’s Guide to Your Powerful, Fragile Prefrontal Cortex",
+    "subtitle": "Preserving your personality requires protecting the front of your brain. Here’s how.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*zHjI5JimlkVLpvzg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 18,
+    "title": "Why the World of Mental Health is Changing",
+    "subtitle": "The world of mental health is undergoing a quiet revolution — one that is shaking the foundations of how we understand psychological…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*W-31Fk09krXv_SKK5PXjpQ.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 19,
+    "title": "A Ranking of Inanimate Objects Most Likely to Say “I’m Not Racist, But…”",
+    "subtitle": "The printer is definitely the homophobic aunt of office supplies",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*HqK6y0j5l1w1vPII"
+  },
+  {
+    "category": "psychology",
+    "article_number": 20,
+    "title": "Solving the Consciousness Problem",
+    "subtitle": "Partly",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*LrifhbL-I9HBPyHH"
+  },
+  {
+    "category": "psychology",
+    "article_number": 21,
+    "title": "The Turned Out Light",
+    "subtitle": "Philosophy on buying a beautiful lamp",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DwOoZ2uYqlo65leHiDh9zw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 22,
+    "title": "The Night Amina Was Traded",
+    "subtitle": "Vani and its echoes across South Asia",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Nmrf9fj4MjKH0RbOKt543Q.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 23,
+    "title": "Why I Couldn’t Make It To Your Thing: A Retrospective",
+    "subtitle": "I’d love to come! But I just… can’t. Here’s why.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*BxwPUobNkWkX1C_-QdQnTQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 24,
+    "title": "A Sense of Place",
+    "subtitle": "What makes writing electric?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Y9pG4G2DslOs00Fv.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 25,
+    "title": "Learning to Fight Right",
+    "subtitle": "The Spirituality of Healthy Conflict",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cv_FeWY2eAFGDrCuE4br4g.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 26,
+    "title": "The (Social) Physics of Polarization — Part 1",
+    "subtitle": "Building Models to Understand Social Polarization",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*mKugrVlH1RTwupZa8Bi1CQ.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 27,
+    "title": "The Religion of Therapy — Zen, Psychoanalysis & The Counselor’s Secret Radicalism",
+    "subtitle": "Immersed, as many of us are, in a culture that frames regular therapy as part of a well-balanced self-care routine and inundated by…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*EhPwX5M7nY9-COAgX2tgNg.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 28,
+    "title": "Why Black Men Face So Many Barriers to a College Education",
+    "subtitle": "Some assign personal blame and overlook systemic barriers",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fA6cQfwKWaRb3PFbRJB-LQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 29,
+    "title": "The Quiet Uprising: When Emotions Speak Louder Than the World",
+    "subtitle": "A Philosophical Movie Analysis of Inside Out 2 (2024)",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*UuXm8X4FC-hGA8hC"
+  },
+  {
+    "category": "psychology",
+    "article_number": 30,
+    "title": "It’s the End of the World (But We Don’t Act Like It)",
+    "subtitle": "Why do Americans talk like the world is ending but behave like everything’s normal?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*HsFI1syEJmxS-rHt.jpg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 31,
+    "title": "Simple Leadership Lessons from the Epic Fail of My Water Heater",
+    "subtitle": "Being an anode rod leader — Overcome corrosion and build resilience",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*oT84IpGnKSaH2BNeUi_Scw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 32,
+    "title": "Generative AI, Human Psychology and Society — Where are we heading to?",
+    "subtitle": "A Perspective on how GenAI is Influencing the Art of Thinking in Today’s World, transpiring a race between Efficiency and Authenticity",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DnTuTn2KNZ-rE6tl-XmdGw.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 33,
+    "title": "The Importance of Wasting Time",
+    "subtitle": "In a culture that preaches capitalizing on every single moment, wasting time can provide peace and relief",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uZpyMPlkyKeOdtP_7UcivQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 34,
+    "title": "The Disappearance of Feeling",
+    "subtitle": "Our growing disinhibition shapes the way we experience the world — understanding its impact is essential.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cWwkb_Nqk5ctxsOk0IB2Ig.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 35,
+    "title": "On The Need For Creating Never Ending Book Lists",
+    "subtitle": "Bibliophile, bibliophagist, bibliosmiac-where’s the word for a book list maniac?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*DsNY2tNvPWGDLU93"
+  },
+  {
+    "category": "psychology",
+    "article_number": 36,
+    "title": "Beyond Dopamine Nation: Towards a Fuller Picture of Addiction and Recovery",
+    "subtitle": "Dopamine Nation by Anna Lembke has become an almost inescapable text in the past few years, even to those who have not read it. Thanks in…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yzEVU4vazPz2A7GmUX2Bbg.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 37,
+    "title": "My Husband’s Surgery Taught Me How to Guide My Child Through Fear and Uncertainty",
+    "subtitle": "And showed me the importance of shifting my perspective",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*faaV-J28C6hDq4CK4-XwsQ@2x.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 38,
+    "title": "To the Man Sitting Alone",
+    "subtitle": "Being alone is only romantic until you need someone",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*cDyEnY5INM6Ne8DC0vKz8g.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 39,
+    "title": "Patience isn’t waiting…it’s trusting the timing of things",
+    "subtitle": "Ask any successful person, they never ‘wait’; they trust timing instead",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*xNutRPslN6V9Mp31EK7ojA.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 40,
+    "title": "Autism Is of the Essence",
+    "subtitle": "What we do for autistic people today will determine the fate of future generations. What we do not do may condemn them.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*LkAtyx0PSqTEZiZe"
+  },
+  {
+    "category": "psychology",
+    "article_number": 41,
+    "title": "How to Have Better Conversations Using this Philosophical Principle",
+    "subtitle": "The Principle of Charity: a simple yet powerful approach to constructive conversations",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*7k4FfwT0yWwxWKdd"
+  },
+  {
+    "category": "psychology",
+    "article_number": 42,
+    "title": "John Rawls: On a Just Society!",
+    "subtitle": "Justice Behind the Veil: Establishing Fairness From the Original Position",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*9R2UK61-XmGtazbp"
+  },
+  {
+    "category": "psychology",
+    "article_number": 43,
+    "title": "Will Inducing a Near-Death Experience Become a Therapy for Alleviating Fear of Death?",
+    "subtitle": "Researchers are experimenting with techniques that can induce several traits of an NDE",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*rjtyWbSXLomdPDLE"
+  },
+  {
+    "category": "psychology",
+    "article_number": 44,
+    "title": "Negative Hype about Federal Healthcare Research is Misguided",
+    "subtitle": "Contrary to popular belief, the NIH review process is highly selective.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Zr4W1hX2Xc9qy-VHewpQAQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 45,
+    "title": "Why Black Women Carry The Burden of Racist Beauty Standards",
+    "subtitle": "Too often, they’re expected to change. And the methods to do so are dangerous",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1rW54J6ArZL5lYaVE6Uh_g.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 46,
+    "title": "Is Something Really Lurking in The Dark?",
+    "subtitle": "My struggles with crippling Nyctophobia, and how I cope with it",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*PB1mJs3rFZH0dg7q"
+  },
+  {
+    "category": "psychology",
+    "article_number": 47,
+    "title": "Does The Golden Gate Bridge Suicide Barrier Save Lives?",
+    "subtitle": "The value of suicide barriers remains unproven.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*-K8jO3WJ8NnwYmJC"
+  },
+  {
+    "category": "psychology",
+    "article_number": 48,
+    "title": "Shame as Fuel",
+    "subtitle": "How Jean Genet rewrote his worth and what we might learn from it",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*iv5pbVwDb7TfcEx9ekpArQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 49,
+    "title": "Why Your Child Can’t Stop Using That App (A Game Designer’s Warning)",
+    "subtitle": "Something mildly infuriating happened in my house last month.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*80vqhWFTtL1rCUn4NffZPg.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 50,
+    "title": "How Relationships Change After Healing Your Trauma",
+    "subtitle": "3 ways our perspectives change about relationships.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*J4SGsLufCuoUFW0h9WdD8g.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 51,
+    "title": "Superhuman AI is Closer Than We Think, for the Wrong Reason!",
+    "subtitle": "A couple of weeks ago, Nobel laureate Demis Hassabis forecasted that artificial intelligence (AI) will match human intelligence within the…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LWVaCVprhqE8O-JAKVr3vQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 52,
+    "title": "The Banality of Education",
+    "subtitle": "How Arendt’s warning on bureaucratic evil explains inequality in America’s schools",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Qt2NOUZc0y8kyXGZ"
+  },
+  {
+    "category": "psychology",
+    "article_number": 53,
+    "title": "We Live in a Culture of Fame-Mongering",
+    "subtitle": "I miss a time before the internet, when people’s private lives were private and we didn’t sell ourselves to the highest bidder.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fRTkE-Cno0fdpu-Mezbvsw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 54,
+    "title": "A Lantern",
+    "subtitle": "On the horizon across a stormy and dark sea",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*x2sJW-tVbuLk3tFJM1g4kQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 55,
+    "title": "“Adolescence” Episode Three: The Incel Wake-Up Call Netflix Gave Women",
+    "subtitle": "Mothers of boys and lovers of men: take heed",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QEd_eww7kimsMBs_CmtErw.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 56,
+    "title": "How We Made Brands Out of Physical and Mental Illnesses",
+    "subtitle": "Disease Debauchery: ‘Apple Cider Vinegar’",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*O1ZtHussOMVfgqJW6X26jQ.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 57,
+    "title": "What Is A Secret Friend?",
+    "subtitle": "And How Could Someone With Alzheimer’s Benefit?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*z5r9umUR7WTYvLBl"
+  },
+  {
+    "category": "psychology",
+    "article_number": 58,
+    "title": "Is this the death or dawn of human creativity?",
+    "subtitle": "Should we fear AI as a creativity villain or celebrate it as a creativity companion?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*9GWrzj3-m2cur2BH"
+  },
+  {
+    "category": "psychology",
+    "article_number": 59,
+    "title": "10,000 hours Can’t Help Dunning-Kruger Pass the Marshmallow Test",
+    "subtitle": "Three studies that suffer from the “Vizzini Effect.”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*khI2rHxAgBbAnVwDzROoyw.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 60,
+    "title": "What Getting Depressed in Japan Taught Me",
+    "subtitle": "Japan is a beautiful country to visit. But what about living here?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*XiqwYBD3bHDe2cyw"
+  },
+  {
+    "category": "psychology",
+    "article_number": 61,
+    "title": "We Ruined Our Minds",
+    "subtitle": "Apparently the planet is getting dumber. I know, I know, you don’t need a weatherman to know which way the wind blows and all that. But…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*h7Grzny6LetzxrW_nheL1Q.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 62,
+    "title": "Are Today’s Kids Missing Out on Deep Thinking Because We Give Them Quick Answers?",
+    "subtitle": "Nurturing Your Child’s Curiosity Through Easy Questions",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*NpZN7s99D7AYsp8j"
+  },
+  {
+    "category": "psychology",
+    "article_number": 63,
+    "title": "I Found A Canadian Community In The Most Unlikely Place",
+    "subtitle": "How our family’s trip to Florida changed my perspective and gave me hope",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LS7wCTSjc8SyfhXiYk3nHQ@2x.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 64,
+    "title": "as your hands grow heavy",
+    "subtitle": "sleep’s distant echoes — records",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rsz1d66FxaVv3gxzyRPR_Q.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 65,
+    "title": "NLP: The Secret Sauce in Irresistible Advertising",
+    "subtitle": "Ever wonder why some ads hook you in seconds while others fade into noise? Turns out, it’s not luck — it’s language. NLP is the secret…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*n8qIW-ob3nsuKviuWb-kWw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 66,
+    "title": "When Workplace Change Requires More Than Quick Fixes and Band-Aids",
+    "subtitle": "A big leadership misstep — the epic post-it note collaboration fail",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Rce1XEgjm_WhzpbibzhJFw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 67,
+    "title": "Spirituality Has Failed Us",
+    "subtitle": "The West’s attempt’s to “hack” religious phenomenology is a sign of a collective failure of meaning",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*oJpSqPIRRvQusBg1.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 68,
+    "title": "Social Science is Withering",
+    "subtitle": "In the past five years social science has dwindled. Physical science has not. Would it be so bad if social science died?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*1XEjJ13Je5L6-HRD.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 69,
+    "title": "Interview With a Trans Woman Doctor From Sweden",
+    "subtitle": "A Talk Between a Transgender Doctor and Psychologist: Transitioning in Sweden, Immigration from Russia, and Surgeries. Part — 1",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SviMlDBSP1HpEHiz-H90VA.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 70,
+    "title": "A Gay Therapist Speaks on the Queer Intimacy Paradox",
+    "subtitle": "On breaking free from self-protective patterns when queer people crave but struggle to build deep connections",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*u-v_F2TixfB08b9CFbPPVQ.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 71,
+    "title": "Dr. Grimm’s Unreleased Patient Files of Famous Fairy Tale Characters",
+    "subtitle": "You know their stories, but do you understand their trauma?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yFD9XV__NFK1bUCzKOP9GQ.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 72,
+    "title": "Helping Students Overcome Their Biggest Obstacle… Themselves",
+    "subtitle": "The never-ending battle against learned helplessness.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*MraajBihjHWb0Lo3svoP3Q.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 73,
+    "title": "Reliance on Technology to Think for Us Will Lead to Cognitive Atrophy",
+    "subtitle": "But writing can keep us sharp as AI and convenience dull our minds",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*twJizsd5cp6_TpGx-Honog.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 74,
+    "title": "The Paradoxical Relationship Between Mindfulness and Flow",
+    "subtitle": "Distinct States or Two Sides of The Same Coin?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2xsd0z9fe5HIM_HMhCCV8A.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 75,
+    "title": "Burnout is Contagious",
+    "subtitle": "Navigating the relational contexts of work stress",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rKxCSO4y5wRZ8U17zu3iRw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 76,
+    "title": "Living an Intentional Life",
+    "subtitle": "Embracing the ordinary in amongst the moments",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*K-voyPMjzSFHb7mq"
+  },
+  {
+    "category": "psychology",
+    "article_number": 77,
+    "title": "Consciousness and the Transformation of Nature",
+    "subtitle": "The role of qualia in nature’s taming of itself",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CR-WQ9awgnlPr6LslUI3kw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 78,
+    "title": "Nope, Trump Derangement Syndrome Isn’t a Real Condition",
+    "subtitle": "Misuse of mental health labels like “TDS” harms all Americans, and in this case, democracy itself.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CXASzuuNXOKmqS9OY97ASQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 79,
+    "title": "The Truth About Energy: Why Some Places and People Drain You",
+    "subtitle": "Are you absorbing other people’s negative energy without realizing it?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*mH3Q0T8HhypdRcST3t6hSw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 80,
+    "title": "I Tried Jeff Bezos’s 1-Hour Rule for 15 Days To Boost My Mental Health and Productivity— Here’s…",
+    "subtitle": "A comprehensive overview of my experience with Bezos’s no-scrolling-in-the-morning rule",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*gTNPQWIF97seZunH"
+  },
+  {
+    "category": "psychology",
+    "article_number": 81,
+    "title": "The Reasons Some People Won’t Heal Their Trauma",
+    "subtitle": "Understanding the hidden dynamics that can keep you from growth.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*qfuhSD_aFK4LMwSgcMKsgg.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 82,
+    "title": "The Buddha’s Most Disturbing Metaphor Reveals What’s Blocking Your Inner Happiness",
+    "subtitle": "The five biggest enemies you could imagine reside within you.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*W77h30uF7SWonu90MH59uQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 83,
+    "title": "What Actually is Religion?",
+    "subtitle": "In defence of symbols.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lEV3Dzh8hp1HqgqM2fB83A.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 84,
+    "title": "Morning Coffee",
+    "subtitle": "I am not right today",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9L6ywOY86V2hmbN9CNIQwQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 85,
+    "title": "The cognitive cost of convenience",
+    "subtitle": "As oversimplification and automation erode our cognitive abilities, embracing meaningful friction may be the key to restoring it.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*KZZkGUcwjujIYiDUDGZWdg.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 86,
+    "title": "I’m Back",
+    "subtitle": "A return home to my favorite bar",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OCKabTL6ZuBnRvXSwo52EA.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 87,
+    "title": "Beneath the Wheel",
+    "subtitle": "The fight against social convention",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*NL8sOSUvpDlm6GMY-aKU0Q.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 88,
+    "title": "The Teacher in All of Us",
+    "subtitle": "An explanation of behavioral science’s imitation theories and reasoning how the world is shaped by us enacting others.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Jtv67q0xo2z9hanD"
+  },
+  {
+    "category": "psychology",
+    "article_number": 89,
+    "title": "Japanese People Who Don’t Offer Their Seats to Elderly People",
+    "subtitle": "It’s more complicated than one might think…",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*KihZqluVtaQS5aCY"
+  },
+  {
+    "category": "psychology",
+    "article_number": 90,
+    "title": "On Love, Loss and Longing in ‘The Mighty Red’",
+    "subtitle": "A tender-hearted small town family epic set against the sweeping background of environmental collapse",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*k88NtXCGkabZAFCG"
+  },
+  {
+    "category": "psychology",
+    "article_number": 91,
+    "title": "Stop Networking and Focus on Ways to Empower People",
+    "subtitle": "The Magnetic Paradox — How leadership, online communities, and growth work",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*8XEMLs_aC0u_vavx"
+  },
+  {
+    "category": "psychology",
+    "article_number": 92,
+    "title": "When Humor Hampers Healing",
+    "subtitle": "Sometimes, we tell jokes not just to make people laugh, but also to hide the bitterness and hopelessness within ourselves",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DemX3aHW0l1jvJofgu0Bww.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 93,
+    "title": "Debunking the Myth of Hypergamy",
+    "subtitle": "“Dating up” is a male fantasy, not a real-world reality",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vgDTtw022aphpshBpjZKLw.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 94,
+    "title": "My Reading Lamp",
+    "subtitle": "Slowly dying like embers and stars and grandpa and everything else",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ZAhiFM9pQbXZWuZbpwalfw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 95,
+    "title": "State Natalism and The Long Fight",
+    "subtitle": "Or: Teddy Roosevelt Holding a Baby",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*jtPgwYEnrkan4KF3.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 96,
+    "title": "You’re Not Crazy, Dating Apps Suck for Finding Love",
+    "subtitle": "Dating apps give us choices — but do we know what we want?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ueT1EaXsFHOcU4dFR8Qg1w.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 97,
+    "title": "The Horrible Effects of Alcohol on Your Digestive System and Liver",
+    "subtitle": "Unfortunate lessons from my father helped me realize the true, deep impact of my drinking, so I’ve dug into the science so you can have all…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zzQG4JtqNvso28Cfkk5zUQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 98,
+    "title": "physics x branding",
+    "subtitle": "Why all brands become average. Unless they don’t.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*js8PslsTU-XI-GtKRlFDzA.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 99,
+    "title": "Do we have to live this way?",
+    "subtitle": "Discounting, Wall-E, and the moving sidewalk",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*nCCzNmbqn29lEiHtiUSSuQ.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 100,
+    "title": "The Case Against Hope",
+    "subtitle": "Is acceptance any better?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*VfOZo02MsjmCaq0PE4xsfw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 101,
+    "title": "What are your beliefs about the nature of reality?",
+    "subtitle": "Discover your cosmic worldview with this short two-step interview",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*9tcbBTIlj_Ips7P730PKrg.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 102,
+    "title": "When Gamification Goes Too Far: Signs Your Product is Becoming Predatory",
+    "subtitle": "A male friend of mine recently deleted Tinder after a late-night come-to-Jesus moment.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*KrRS7xQrE_ilqcPS3PPhgQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 103,
+    "title": "The Cacophony of Self: Why the Quietest Character in ‘The Dead’ Speaks Loudest",
+    "subtitle": "A Professor’s Journey Through the Soundscape of Joyce’s Dublin",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uDr1q8A5E-hmJGn-0tpV7w.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 104,
+    "title": "Why is the Climate Majority Silent?",
+    "subtitle": "Blame pluralistic ignorance — and college students",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Kcb94HEt4qbnmtId"
+  },
+  {
+    "category": "psychology",
+    "article_number": 105,
+    "title": "I Took a Yale Course in the Science of Well-Being and it Totally Changed My Outlook",
+    "subtitle": "My “happiness score” improved. Here’s how and why it worked.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SaRpFilvYr1g2HEDDNKb9g.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 106,
+    "title": "My Years at the Degree Mill",
+    "subtitle": "Welcome to for-profit higher education, where a degree’s just a pricey commodity, and an instructor’s a troublesome budget line.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*MXJRbDqDHx2RkaPq"
+  },
+  {
+    "category": "psychology",
+    "article_number": 107,
+    "title": "Shared LGBTQ+ History as Personal Trauma Requires Innovative Therapy",
+    "subtitle": "Insights from the therapy room on why many LGBTQ+ people feel broken despite supportive environments.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*24aHdqeAeANyETL9vyBTWA.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 108,
+    "title": "A Child, Found in Ice and Shadow",
+    "subtitle": "My children help me rediscover wonderment",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*s2_tTUfvy-MXai11I8dIAg.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 109,
+    "title": "Psychology and God",
+    "subtitle": "Religion and implicit and explicit language",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YmszhAu2_K5HH1eFZj9T7w.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 110,
+    "title": "The Six Surprising AuDHD Signs I Missed For Years",
+    "subtitle": "And how realizing that Autism was part of the equation changed everything",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*24stfJhJcIVNvjCz"
+  },
+  {
+    "category": "psychology",
+    "article_number": 111,
+    "title": "How Hospitality Work Wires Your Anxious Brain for Perfection",
+    "subtitle": "Why the best bars and restaurants demand perfection — and how it changes you at home",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*XLCZU3wKp3R8U2LAX2ZHig.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 112,
+    "title": "Can You Trust Your Memory?",
+    "subtitle": "Do you remember where your beliefs come from? If not, you may have lost your knowledge.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*zDK8ZnZ3RpJ5okhK"
+  },
+  {
+    "category": "psychology",
+    "article_number": 113,
+    "title": "The Impact of Authoritarian Parenting on Trauma Responding",
+    "subtitle": "How rigid rules, excessive demands and an inability to be ourselves influence 3 types of responding.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Vfao_2RhbUsYuyRl1WvotQ.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 114,
+    "title": "Why we chose duality: The Earth is a full-on 50-50 reality.",
+    "subtitle": "Balancing on the edge: how our polarized perception creates spiritual growth.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OFQwYW-W7BOIEJtfzVZGTw.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 115,
+    "title": "Allison Krause Believed \"Flowers Were Better Than Bullets.\" Kent State Proved Otherwise",
+    "subtitle": "The lessons of the Kent State shooting still haunts America.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IO4NJeq4V4DQOoCmQjdU9Q.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 116,
+    "title": "I Went To Rome and Am Now Thinking About Time Affluence",
+    "subtitle": "The Roman sun lingered long over the Vatican courtyard.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*U70VRW-SNb6IEB-c8SceMg.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 117,
+    "title": "The Wandering and the Woods",
+    "subtitle": "Short Stories of the Mind in Nature",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*1G7Ni106e0Gm4zQEHf37BA@2x.jpeg"
+  },
+  {
+    "category": "psychology",
+    "article_number": 118,
+    "title": "The Leviathan: Is all we want Self-Preservation?",
+    "subtitle": "Self-Interest and the Sovereign: Hobbes’ Vision of Order and Authority in a Conflict-Driven World",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*a78u9BvOhGn0-NxI.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 119,
+    "title": "Dopamine addiction: the obscure side of the seeking-reward loop",
+    "subtitle": "How the Pursuit of Pleasure is Rewiring Our Brains and Shaping Our World",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Hkj7uTpzBRFd4LBE1u_VLw.png"
+  },
+  {
+    "category": "psychology",
+    "article_number": 120,
+    "title": "How to Build a Hut for Your Psyche",
+    "subtitle": "The architecture of inner calm",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*7IeJqGxV6wsBA2Vj"
+  }
+]

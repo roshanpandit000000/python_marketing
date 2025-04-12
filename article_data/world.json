@@ -1,0 +1,842 @@
+[
+  {
+    "category": "world",
+    "article_number": 1,
+    "title": "Remembering a Forgotten Matriarch of the Televised Revolution",
+    "subtitle": "She sacrificed for freedom and justice in Selma and beyond, yet the history books don’t tell her story",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.67:0.42/1*dO8XLsdG60XZTxU-pl9UAA.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 2,
+    "title": "The Night Amina Was Traded",
+    "subtitle": "Vani and its echoes across South Asia",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Nmrf9fj4MjKH0RbOKt543Q.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 3,
+    "title": "What I Don’t Understand About Trump’s Tariff Strategy",
+    "subtitle": "How does he define “success” here?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OmwmERbgM3ug7XsoaIP4Mg.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 4,
+    "title": "The Real-Life Hooded Women of Blue Island",
+    "subtitle": "Not long ago, women still cloaked themselves under a peculiar costume in the Portuguese archipelago of the Azores",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.5:0.46/1*_SBhdu9GS41LVN7ly01uCQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 5,
+    "title": "Hair Politics: Why Can’t I Go to Work With My Natural Hair?",
+    "subtitle": "Apparently, my hair doesn’t fit into their idea of “professional”",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*f8c6e2kc6WqQxCHS0IM6_w@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 6,
+    "title": "MTG Tries to Shame AOC by Saying She Has Never Married or Had Kids",
+    "subtitle": "That’s not the insult she thinks it is",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*N42h-nUIC1ReSLX9oXPkOg.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 7,
+    "title": "Greenland: Everything Is on the Table",
+    "subtitle": "The US leadership doesn’t rule out military force",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*p3Uk27cl6q1mwUSqcFSETw@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 8,
+    "title": "Foreign Policy Doesn’t Matter to Voters, But Competence Does",
+    "subtitle": "Why Signalgate is a big deal",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zLgvoSm_1NR_tIlnOWkswg.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 9,
+    "title": "The Hidden Cost of Womanhood Today",
+    "subtitle": "From India to America, a look at the silent price women pay in a patriarchal world",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*pTZxaHr78sWulcZQZq-2TQ.png"
+  },
+  {
+    "category": "world",
+    "article_number": 10,
+    "title": "Daughters or Bargaining Chips?",
+    "subtitle": "Some women must pay a “lifetime membership” just to join their husband’s family",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*W3o71q1l21wjZ87nm2p6eQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 11,
+    "title": "He Graduated with Honors, but Couldn’t Read or Spell His Name",
+    "subtitle": "My daughter says reading is her superpower — every kid should be able to profess the same",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2bQWav1oMYuj0PAA--6cSQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 12,
+    "title": "A Day of Terror Shattered My Illusion of Safety",
+    "subtitle": "What the Brussels attack on March 22, 2016, taught me about humanity’s delicate thread and the importance of embracing life’s fleeting gift",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2kVDtPuSeLYp_wtBvPcAhA.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 13,
+    "title": "Trump Destroys U.S. “Soft Power” and Puts Millions at Risk",
+    "subtitle": "Trump administration demonizes, then terminates foreign assistance",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*zM7bV8L2ZEqGfOlHei4xrg.png"
+  },
+  {
+    "category": "world",
+    "article_number": 14,
+    "title": "I Was a Good Soldier",
+    "subtitle": "Then I was nothing",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*a8DPxzfT0VPo0SMeNa6Tvw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 15,
+    "title": "Dowry: A Deadly Tradition",
+    "subtitle": "Uncovering the shocking reality of dowry-related violence and abuse",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*rp9jBbm9jSXDECIS"
+  },
+  {
+    "category": "world",
+    "article_number": 16,
+    "title": "Unpacking the Carry-on of Unconscious Racism",
+    "subtitle": "And what’s hiding in your luggage",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AiLBEaLMkNjdMQlDESYCXQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 17,
+    "title": "Memories of a Stolen Homeland",
+    "subtitle": "Donbass, Putin’s motives, Ukraine’s fight for democracy, and the collapse of global security promises",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yhqNm6DLB5nPplDH3oCGWw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 18,
+    "title": "Gender Wars in a Broken System",
+    "subtitle": "The magnificent delusion",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*_lXCLIWImROAU6HlrBRTbQ.png"
+  },
+  {
+    "category": "world",
+    "article_number": 19,
+    "title": "Did a Lost Star Inspire the Oldest Tale of Humanity?",
+    "subtitle": "On the origins of human thought, the missing star of the Pleiades, and the dawn of science.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*vdemAC3brIIhpKgX.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 20,
+    "title": "The World Has Yet to Fully Grasp How The U.S. Treats Black People",
+    "subtitle": "So many stories are still missing from the collective record",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*AxKTyalaby3-2P107AZXyw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 21,
+    "title": "Scheherazade’s Sisters",
+    "subtitle": "A celebration of Arabic women’s literature",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ns4k3PArAPwiF2_FKmrjgA.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 22,
+    "title": "But Just What IS Fascism?",
+    "subtitle": "What does it have to do with us (or the U.S.)?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*NdWW7N_Hd_lobvGc"
+  },
+  {
+    "category": "world",
+    "article_number": 23,
+    "title": "Trump and the Ukraine-Russia War",
+    "subtitle": "The Trump administration makes its first moves in negotiating the end of the Ukraine-Russia war.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*OyNgxDDrxT0w-pP0.jpg"
+  },
+  {
+    "category": "world",
+    "article_number": 24,
+    "title": "The Russian Far-Right Embraces New Ideology",
+    "subtitle": "The Byzantine Empire is ready to strike back",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IdDr7-zjoOHsN6w_oHADBQ@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 25,
+    "title": "Why Trump’s Tariffs Have Destroyed America’s Credibility",
+    "subtitle": "Make no mistake, U.S. hegemony is now on the line",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*dZDypA1oLtnDymdkvgznlQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 26,
+    "title": "Trump’s Plan for Gaza",
+    "subtitle": "What do the President’s comments mean for the future of the Middle East?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*YkNeI6FeUkbrQOl7.jpg"
+  },
+  {
+    "category": "world",
+    "article_number": 27,
+    "title": "Kremlin Claims Trump Stole Putin’s Agenda",
+    "subtitle": "The global surge to the right will have only one leader",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IdDr7-zjoOHsN6w_oHADBQ@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 28,
+    "title": "End of Journalism? White House Opens Its Doors to Social Media",
+    "subtitle": "The seemingly dangerous shift in White House press briefings",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*3IMyhOnOOw35p2W5.jpg"
+  },
+  {
+    "category": "world",
+    "article_number": 29,
+    "title": "A Cultural Exchange Over Hairy Stories",
+    "subtitle": "The more we interact, the more sensitive we become to the beautiful diversity of our human race",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*i6-ZEHE6B2eoHCC0"
+  },
+  {
+    "category": "world",
+    "article_number": 30,
+    "title": "From Famine Walls to Welfare Conditions, Why Do We Always Punish The Poor?",
+    "subtitle": "In a little under two centuries, not much has changed in terms of how badly we treat the poor",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*z3yzNEOAIl7QrevUn-tTJQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 31,
+    "title": "Resilience In The Face of Disaster",
+    "subtitle": "Survival, healing, and thriving after the unthinkable happens",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*uPdS7stvplogRarvgiSxHw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 32,
+    "title": "How History Explains Why Porto Feels Like Portugal’s Most British City",
+    "subtitle": "Traces of a centuries-long fascination with British culture",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*QSX-Wh8ppJvXbiwWM0Fw9A.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 33,
+    "title": "Why Is Female Genital Mutilation Still Being Done in 2025?",
+    "subtitle": "This cultural practice is still harming millions of girls worldwide",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DQxhvNCLymlqMPOyJvq_xw@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 34,
+    "title": "Why the Media’s Portrayal of Women Is Both Predatory and Deceptive",
+    "subtitle": "What the media has taught you about women, and why it’s a lie",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.52:0.42/1*EI7c480fymKZbD4fH8kSmw@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 35,
+    "title": "Choosing to Die to Bring a Child into the World is Not Heroic",
+    "subtitle": "What do you do when motherhood demands the ultimate sacrifice?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*20l839vwkbpAcO-IiV_Nbg@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 36,
+    "title": "What Sex Trafficking Looks Like —  From Someone Who Lived It",
+    "subtitle": "This is the story of my friend Dolly",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*mK1PMV6126onuHiA"
+  },
+  {
+    "category": "world",
+    "article_number": 37,
+    "title": "How Patriarchy Poisons the Bond Between Mothers and Daughters",
+    "subtitle": "It doesn’t just dictate how women should behave — it pits mothers and daughters against each other",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*Fy2rJ5NO2Jf1VB4W"
+  },
+  {
+    "category": "world",
+    "article_number": 38,
+    "title": "Midjourney Has Lost Its Way with Maps",
+    "subtitle": "AI image generators may lack accuracy when drawing specific locations",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*sa3kSyOWrv_IhPw73FOxRQ.png"
+  },
+  {
+    "category": "world",
+    "article_number": 39,
+    "title": "Seven Ways Big Data Leaves Women Out of the Equation",
+    "subtitle": "We’ve been told that more data will drive equality — Let me show you how that’s a lie",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*gjnablOTPk8DZ5SYLgtmXQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 40,
+    "title": "To My Nigerian Friend Who Asked if I’m a Feminist",
+    "subtitle": "Confessions of a ‘shy’ feminist",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/g:fp:0.59:0.39/0*Bt8Jvu-3lT3h1kgb"
+  },
+  {
+    "category": "world",
+    "article_number": 41,
+    "title": "This Land, My Sister, Is A Woman",
+    "subtitle": "What feminist solidarity means in the face of genocide in Gaza",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*k_OflfTr716iEbtGJNC8cQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 42,
+    "title": "It’s The Regular Men, Not Strangers in the Bushes",
+    "subtitle": "They’re right under your nose",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*eUyVGQgFDg7BWLQbAeSnlw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 43,
+    "title": "The Controversial NYC Congestion Pricing Program",
+    "subtitle": "Why I like it as a New Yorker",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*xXbVli_sIyTZUHXl4wDs2A.png"
+  },
+  {
+    "category": "world",
+    "article_number": 44,
+    "title": "Sons Over Daughters: The Gender Bias That Won’t Go Away",
+    "subtitle": "Will daughters ever be enough?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*plIRudULtX2aXMuGVJLglg@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 45,
+    "title": "Why Black People Who Pass For White Hear The Darndest Things",
+    "subtitle": "They're given a birds-eye view of anti-black racism",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LQCbKciUNNC947QYTLgkeA.png"
+  },
+  {
+    "category": "world",
+    "article_number": 46,
+    "title": "How (mis)information won over Romania’s elections | ANALYSIS",
+    "subtitle": "Emotions, surprises and controversy. Romania’s 2024 presidential elections were a storm we barely understood. What, how and why it…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*7lGh_nbF6vaiBGR9lJEuPg.png"
+  },
+  {
+    "category": "world",
+    "article_number": 47,
+    "title": "The Girlbossification of Giorgia Meloni",
+    "subtitle": "Romanticizing Meloni’s rise as a fascist leader is the last thing feminism needs",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*4wNxMzFINVxnpmU8.jpg"
+  },
+  {
+    "category": "world",
+    "article_number": 48,
+    "title": "A Newer Seward",
+    "subtitle": "Donald Trump revives 19th-century imperialism",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*2sAXmruvUin1Nu5sRcPL2Q.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 49,
+    "title": "Ain’t No Mountain High Enough",
+    "subtitle": "Climbing Everest and the quest for validation",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*zPIICY7iHS4S7nmm"
+  },
+  {
+    "category": "world",
+    "article_number": 50,
+    "title": "Roasted Eggplants and Pomegranates: Home Cooking from Southern Iraq",
+    "subtitle": "The day I lost my guest-of-honor status",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*raDz5w2t4mJvvjekAsZZSg.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 51,
+    "title": "How Racism Creates an Echo Chamber Where Bigotry is Accepted",
+    "subtitle": "Unity is dependent upon our ability to engage. And engagement is dependent upon civility.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*rvFdJhbQpc__pA5ic5JayA.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 52,
+    "title": "Before the Election, We Wanted a Green Card — Now, We’re Not So Sure",
+    "subtitle": "Weighing the impact of “Mass Deportation Now” on the American Dream",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*L9EfmCS0ByRuPk49DTd61A.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 53,
+    "title": "We Never Thought This Day Would Come",
+    "subtitle": "The fall of a dictator brings many emotions",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*cXCSycfePNgAv3Tl"
+  },
+  {
+    "category": "world",
+    "article_number": 54,
+    "title": "Steak and Eggs Is How Aussies Do Breakfast",
+    "subtitle": "Nothing says “G’day, Mate” quite like a medium-rare sirloin at 11 A.M. on a Saturday",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-O6z-lwGtUbQlYXz4fYsAg.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 55,
+    "title": "Nationalism and Climate Change: A Fatal Embrace?",
+    "subtitle": "How to address a global problem in a tribal age.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*z40TXQs2YKz90pMqVb2XkQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 56,
+    "title": "How Beauty, Assault, and Racism Reverberate Through My Life",
+    "subtitle": "The first time a man touched me I was in sixth grade",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*g9cerSH_McGocTq4EWs0fA.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 57,
+    "title": "Life Starts Rough for Some People",
+    "subtitle": "A slice of my tumultuous start to teen years …",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CQnG7ifx5H04vWfPSkcSMg@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 58,
+    "title": "How Netflix Has Changed the Global Entertainment Industry?",
+    "subtitle": "Game-changing Startup 1997",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*YsQtWbKZ7VcNbTAX"
+  },
+  {
+    "category": "world",
+    "article_number": 59,
+    "title": "Trump’s Return and the US-China Trade War: Is Globalization at Risk?",
+    "subtitle": "Trump’s US-China trade war: Is this the end of globalization? Nations shift to “Slowbalization,” tightening borders and trade cautiously.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ibA7B7sN8ANEP8a9oQJgiQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 60,
+    "title": "Why Banning Abortion Affects Every Woman",
+    "subtitle": "The road is now clear for women who experience pregnancy loss, stillbirths included, to be prosecuted",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*SuEWwZyAxKibpFBXR9go1Q.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 61,
+    "title": "Would I Go Back to Where I Came From?",
+    "subtitle": "Would I relocate to India after living in the U.S. for nearly half my life?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/g:fp:0.48:0.46/0*tpNp1bujsKsZZstb"
+  },
+  {
+    "category": "world",
+    "article_number": 62,
+    "title": "Now That We Know, We Have to Do Something",
+    "subtitle": "Human evolution requires our attention",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IdgwTTwAlSricM5bOglU4w.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 63,
+    "title": "Peru Is Still Full of Classic VW Beetles",
+    "subtitle": "Splashes of character in a homogenized world",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*s895OpDDGNK0FNJPYS7WBA.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 64,
+    "title": "Not All Recycling is Created Equal",
+    "subtitle": "What happens to stuff after you throw it in the bin?",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*u111PGsjK4yj8k4b"
+  },
+  {
+    "category": "world",
+    "article_number": 65,
+    "title": "Where Did Red Go?",
+    "subtitle": "A man without a name, and the quiet void left behind",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*IOn8QCdm7ZfveetDju_iFA.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 66,
+    "title": "How Brush Fire at Rocky Neck State Park Deepened My Love for Nature",
+    "subtitle": "Our interdependence is both fragile and valuable",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.53:0.47/1*E2wcJzLOQPdIZhzrj_oQIw.png"
+  },
+  {
+    "category": "world",
+    "article_number": 67,
+    "title": "Light and Dark and Diwali",
+    "subtitle": "Experiencing the Hindu festival through local eyes",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*M7hn9TPUe3twbpkJq8bGcg.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 68,
+    "title": "The Japanese Do Everything Better",
+    "subtitle": "Glimpses from the land of the rising sun",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GoBkFbLGMe5ObglhKvYi5g.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 69,
+    "title": "Green Power is Soft Power",
+    "subtitle": "American climate inaction will weaken its position in the world.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*3aBzGp26swD8i-UJMiseyw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 70,
+    "title": "My complex Eastern European identity",
+    "subtitle": "Trying to understand who am I and who are we",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*j8z-VEaRHT6ih42A1ucsOQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 71,
+    "title": "The Man Who Yelled at Me Outside 10 Downing Street",
+    "subtitle": "The politics of who belongs and who doesn’t",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*GXsmJWjCkJfRyjgC"
+  },
+  {
+    "category": "world",
+    "article_number": 72,
+    "title": "How Can We Prevent Our Emotional Selves From Sinking Alongside Global Politics?",
+    "subtitle": "The mental health of the planet is at stake here",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*4IfCCkYEVcfkmkEOV8tW1g.png"
+  },
+  {
+    "category": "world",
+    "article_number": 73,
+    "title": "How Donald Trump Won the 2024 Election",
+    "subtitle": "And analyzing how Kamala Harris lost",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*41IyKEm0fkfHbuRlJbuNkg.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 74,
+    "title": "Adoption Often Doesn’t “Save” a Child but Adds Trauma to Trauma",
+    "subtitle": "Mila Konomos says that if you help the family, you help the child",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.41:0.21/1*LgfSUXkRAF47rgW5EW4h7A.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 75,
+    "title": "The Frame Matters",
+    "subtitle": "How we organize history courses shapes how students understand the world",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*OiJSWoqmOP52iU-A"
+  },
+  {
+    "category": "world",
+    "article_number": 76,
+    "title": "That Which Divides Women Divides Us All",
+    "subtitle": "In the fight for women’s rights, Sojourner Truth foretold the alliance needed to lift us all",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*4gBytkha7pEbeyzz"
+  },
+  {
+    "category": "world",
+    "article_number": 77,
+    "title": "Saoirse Ronan Shows the World is Different for Women",
+    "subtitle": "“Women think about it all the time”",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*lTUSOamrVhhLal65"
+  },
+  {
+    "category": "world",
+    "article_number": 78,
+    "title": "Is Race The Final Identity Card?",
+    "subtitle": "Could reflecting on Michelle Obama’s lived experiences shed light on us all?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.5:0.69/1*LUBeNsh33VENtiRon9GkOA.png"
+  },
+  {
+    "category": "world",
+    "article_number": 79,
+    "title": "The Draghi Report on the EU: “It’s either radical change or slow agony”",
+    "subtitle": "Key takeaways, criticisms, and prospects of Mario Draghi’s proposals for the EU economy",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*gAVqWgrkiCKEYpbd9UQvhw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 80,
+    "title": "The Unseen Labor of Women of Color and “Other” Voices in Feminism",
+    "subtitle": "Creating a truly inclusive feminism isn’t just the right thing to do — it’s the smart thing to do",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*wanOa5SGjyhH8M54"
+  },
+  {
+    "category": "world",
+    "article_number": 81,
+    "title": "Tell Me About Your Favorite Song",
+    "subtitle": "Think how terrible it would be if we all liked the same things",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*OkZzR-n6Si_wMX3VXld25Q.png"
+  },
+  {
+    "category": "world",
+    "article_number": 82,
+    "title": "“Born in Lahore, India.” A Mistake of Geography, or History?",
+    "subtitle": "A piece of humdrum paperwork prompts reflections on questions of birth, borders and citizenship",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*VT755Y8RYNyQZ41q0zomxw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 83,
+    "title": "The Hollow Echo of “Thank You For Your Service”",
+    "subtitle": "Surviving the war wasn’t the hard part — coming home was",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RN9sGO-HtpvhN-olySV8Fw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 84,
+    "title": "How Can Feminism Have “Gone Too Far”",
+    "subtitle": "When the culture clearly could use less violence and more egalitarianism?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*kDteTf2ZuGE-XAqRNXo14A.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 85,
+    "title": "How to Photograph the Dalai Lama",
+    "subtitle": "His Tibetan Bodyguards in India Don’t Make It Easy",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*CPOv_qnbiHY_UvJ-I0b38Q.png"
+  },
+  {
+    "category": "world",
+    "article_number": 86,
+    "title": "It Wasn’t the Rain, Cold or Hunger that Got to Me — It Was the Smell",
+    "subtitle": "Homelessness and addiction in America’s shadows",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*R2O0DcfGpoOmyNi2"
+  },
+  {
+    "category": "world",
+    "article_number": 87,
+    "title": "What A Woman’s Purse Teaches Us About Bodily Autonomy",
+    "subtitle": "If you wouldn’t do it to her purse, don’t do it to her body",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*CJJFaDUMndcn_AMm"
+  },
+  {
+    "category": "world",
+    "article_number": 88,
+    "title": "What Does It Take to Live in a Multipolar World?",
+    "subtitle": "Key Concepts to Understand Modern International Affairs and More Recent Peace-Friendly Ideas",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*YDcBJb0c3xaxMx3V7FB_jA.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 89,
+    "title": "Ukraine Update April 11",
+    "subtitle": "2025 — So Much Drone News, Strelkov Alive,",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*lxwczZ05P-vo1pdqS9wslQ.png"
+  },
+  {
+    "category": "world",
+    "article_number": 90,
+    "title": "8 American “Norms” That Make Absolutely No Sense Outside The U.S.!",
+    "subtitle": "What I Didn’t Realize About Life in the U.S… That is Until I Moved Abroad and Got a Reality Check!",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*LDRaBsPQ6yNXpY3zHAtpyg.png"
+  },
+  {
+    "category": "world",
+    "article_number": 91,
+    "title": "The Biggest Trump Damage That Nobody Is Talking About",
+    "subtitle": "Have your Xanax ready",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*YqRr-SnunqkGTklF"
+  },
+  {
+    "category": "world",
+    "article_number": 92,
+    "title": "The Evolution of ‘Krasnov’: Russian Mafia Associate, KGB Asset, US President, Traitor",
+    "subtitle": "Trump’s connection with the KGB, Russian mafia, and his alignment with and promotion of Russia’s strategic interests.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*NToXjrTSrVTJfn2Cocx8Kw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 93,
+    "title": "The Quiet Collapse: Why Russia’s Economy Is Running on Fumes!",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*aiLX7LmLADhs5-3D88_hxg@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 94,
+    "title": "Ukraine Update April 4",
+    "subtitle": "2025 — Endless War, Front Line Assaults, Trump Placates Putin",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*ImGYChPcLxyPMNlL_ckm3w.png"
+  },
+  {
+    "category": "world",
+    "article_number": 95,
+    "title": "Russia’s New Conscripts May Be Headed Straight to Ukraine!",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*DfrfRoN_dTfK4igkSF_pLA@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 96,
+    "title": "Ukraine Update April 3",
+    "subtitle": "2025 - Call up, Falling Backfire, Who Doesn’t have Cards?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-Hps2BpobDdDROn1wX2eJg.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 97,
+    "title": "Trump, Tariffs, and Turmoil: Inside the 2025 Trade Shock",
+    "subtitle": "Our thoughts on the on the current wave of tariff policies and their impact on global trade, economic stability, and the markets.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/0*Erh3hr6E8hQSk8nW.jpg"
+  },
+  {
+    "category": "world",
+    "article_number": 98,
+    "title": "Is Washington Prepared for a Post-Collapse Russia?",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*WrmsFn7iXFjJnB5mMD3gBA@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 99,
+    "title": "Could These Tariffs Tip the World into Recession?",
+    "subtitle": "",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Z3a816KmkRNSn0EtO2vIaQ@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 100,
+    "title": "Hitler’s Biggest Mistake — Nazi Germany Could Have Won the War",
+    "subtitle": "Hitler deliberately made this decision.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fXfJDaM0usW2rEyeNvZunw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 101,
+    "title": "US–Russia Rapprochement: Endgame Still Unclear",
+    "subtitle": "The key takeaways from Chatham House conference",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*fp_iSkMHirYSLs75xPt05w@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 102,
+    "title": "No More Benefits? Fine. We’re Done Paying Taxes. And Working For You.",
+    "subtitle": "The tax revolt starts here. See this essay free: HERE.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*GXRKsT7998dPzMQ5"
+  },
+  {
+    "category": "world",
+    "article_number": 103,
+    "title": "Australia’s floating forest",
+    "subtitle": "A Natural Wonder In the Homebush Bay area of Sydney, Australia, there is an amazing and beautiful sight that the world knows as the…",
+    "image_url": []
+  },
+  {
+    "category": "world",
+    "article_number": 104,
+    "title": "If You’re Planning to Leave Trump’s America, Don’t Come To Europe",
+    "subtitle": "Reality looks different on the other side of the Atlantic",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*-VUZyok1IJmSwPvLMHMV9g.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 105,
+    "title": "The Brief and Turbulent History of Modern Libya",
+    "subtitle": "Chaos, war, and instability reign",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*yb6MKk49eYIpVG-_78Eb3w.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 106,
+    "title": "Might Imperial Collapse Be The Best Thing Ever To Happen To America?",
+    "subtitle": "Yes or no?",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GCPdk6Dx6HGPUfjHxPRQFQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 107,
+    "title": "“Why countries are ditching the dollar, and what it means for the future of your wallet (and your…",
+    "subtitle": "Remember when the U.S. dollar was like that one popular kid in school who everyone wanted to sit next to at lunch? Flashy, Rich, and…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*H7RSTq8lFnjgbg-NgKRkbQ.png"
+  },
+  {
+    "category": "world",
+    "article_number": 108,
+    "title": "“Tuberculosis has become rife on Russia's front lines, with thousands of soldiers being treated…",
+    "subtitle": "War, famine, plague and death. The barbaric venture of the Russian Empire has called all four riders of the apocalypse to her doorstep.",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Zw3g2EjgWowLBrlna9GPqQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 109,
+    "title": "Living Awake: Integrating Spiritual Insights into Everyday Life",
+    "subtitle": "Bridging the gap between spiritual experiences and practical living.",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*tO8KmPNXcbnRGub-"
+  },
+  {
+    "category": "world",
+    "article_number": 110,
+    "title": "The protectionist US tariffs are accelerating the impending poverty driven and crushing defeat of…",
+    "subtitle": "In 2024, the liquid assets of the Russian national wealth fund have dropped to 35 billion dollars. The energy and commodity revenues of…",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*P6v_hLX9W7Y55oDvS9tzEQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 111,
+    "title": "Falsehood About Ukrainians’ Actions",
+    "subtitle": "Live report",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*vUuX0df_vaJsa6ngN6el2Q@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 112,
+    "title": "Why American Life Is Cruel, Abnormal, and Unhealthy",
+    "subtitle": "From Europe, America looks like a different planet",
+    "image_url": "https://miro.medium.com/v2/da:true/resize:fill:240:161/0*aEFmAio08RmuT8ou"
+  },
+  {
+    "category": "world",
+    "article_number": 113,
+    "title": "I Felt Like Crying This Morning",
+    "subtitle": "The juxtaposition of kindness and cruelty was making me sad",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/g:fp:0.32:0.74/1*Ifeizb0IuG7NskVzGBpslQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 114,
+    "title": "Men Own Everything",
+    "subtitle": "So yes, Doofus, we still need feminism",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*Svt2Gnd3kw3VFKUYNu675w.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 115,
+    "title": "Donald Trump Temporarily Rescinds His Tariff Policy",
+    "subtitle": "Donald Trump pulls back as the market collapses",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*d6-cTFTgpP1PQkF1J5ApEw.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 116,
+    "title": "What Would Happen To The Piles of Corpses After Ancient Battles?",
+    "subtitle": "The graphic cost of war",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*TM9PQnoHWPO5RQklmrLR0w.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 117,
+    "title": "Filler",
+    "subtitle": "The Sunday Feed",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*JllVJ8FIUWR35ig68WSK2Q.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 118,
+    "title": "All The Cards Ukraine Has Dealt",
+    "subtitle": "Live report",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*GqaTTP5D0lWARYtFN0_JfQ@2x.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 119,
+    "title": "America’s Fate Is Sealed",
+    "subtitle": "Black Americans and all Americans should begin to face the truth",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*RmbbL15DegVOeFMqDFP7jQ.jpeg"
+  },
+  {
+    "category": "world",
+    "article_number": 120,
+    "title": "Snow and Corpses",
+    "subtitle": "Live report",
+    "image_url": "https://miro.medium.com/v2/resize:fill:240:161/1*tm2tR_DqT2n3lGdt0KlanA@2x.jpeg"
+  }
+]
