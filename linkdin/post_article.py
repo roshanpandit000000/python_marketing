@@ -48,6 +48,7 @@ if not products:
     exit()
 
 SKIP_COUNT = int(input("Enter number of posts to skip: "))
+MAX_POSTS = int(input("Enter the number of posts to submit: "))
 products = products[SKIP_COUNT:]
 
 
@@ -100,6 +101,10 @@ try:
     password_input.send_keys(Keys.RETURN)
 
     for index, selected_products in enumerate(products, start=1):
+        if index > MAX_POSTS:
+            print(f"\nReached the limit of {MAX_POSTS} posts. Exiting loop.")
+            break
+
         total = len(products)
         print(
             f"\n=== Submitting post {index} of {total}: {selected_products.get('title', 'Untitled')} ==="
