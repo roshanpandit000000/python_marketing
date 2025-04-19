@@ -3,6 +3,11 @@ import os
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
+import time
 
 # Set up Chrome options
 options = Options()
@@ -18,12 +23,20 @@ options.add_experimental_option("detach", True)
 
 # Launch Chrome
 driver = webdriver.Chrome(service=Service(), options=options)
-
+wait = WebDriverWait(driver, 15)
 # Go to YouTube
 driver.get("https://www.youtube.com")
 
 try:
-    short = wait
+    short = wait.until(
+        EC.presence_of_element_located((By.XPATH, "//a[@title='Shorts']"))
+    )
+    short.click()
+    time.sleep(2)
+
+
+except Exception as e:
+    print(f"Error submitting article): {e}\n")
 
 # Define the path to the Videos folder
 # videos_folder = os.path.expanduser(r"~\Videos")
