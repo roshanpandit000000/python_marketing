@@ -240,7 +240,7 @@ def post_article():
 
             # Send the topic input
             topic_input.send_keys(topics[index])
-            time.sleep(2)
+            time.sleep(1)
 
             # Select the first available suggestion
             first_suggestion = wait.until(

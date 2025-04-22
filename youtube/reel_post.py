@@ -37,23 +37,3 @@ try:
 
 except Exception as e:
     print(f"Error submitting article): {e}\n")
-
-# Define the path to the Videos folder
-# videos_folder = os.path.expanduser(r"~\Videos")
-
-# # Ensure the folder exists
-# os.makedirs(videos_folder, exist_ok=True)
-
-# url = "https://www.youtube.com/shorts/_cH3TMArFyI"
-
-# ydl_opts = {
-#     "outtmpl": os.path.join(videos_folder, "downloaded_video.%(ext)s"),
-#     "format": "bestvideo+bestaudio/best",
-#     "merge_output_format": "mp4",  # Force final output to be mp4
-#     "postprocessors": [
-#         {"key": "FFmpegVideoConvertor", "preferedformat": "mp4"}  # Convert to mp4
-#     ],
-# }
-
-# with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-#     ydl.download([url])

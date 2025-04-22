@@ -1,9 +1,0 @@
-"_id": "66ab31b1fbfb73366f218181",
-"title": "At Ridhaav Hair Studio, Use Hair Extensions to Transform Your Look",
-"slug": "at-ridhaav-hair-studio-use-hair-extensions-to-transform-your-look",
-"shortDescription": "Do you have dreams of adding volume to your hair or having long, beautiful locks? The easiest way to effortlessly get your preferred hairdo is using hair extensions. At Ridhaav Hair Studio, we're  pre-wrap; font-size: 11pt;\"> right now, and let our professionals style your hair to perfection. We have the ideal answer for you, whether you want to add volume, length, or a pop of color.</span></p></strong><br></p>",
-"categories": "hair-extension",
-"images": "https://res.cloudinary.com/dyvdiwgo5/image/upload/v1722495335/hc5pzdscr9wus8iy0bcl.jpg",
-"createdAt": "2024-08-01T06:56:49.551Z",
-"updatedAt": "2024-08-01T06:56:49.551Z",
-"__v": 0
