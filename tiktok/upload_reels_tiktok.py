@@ -1,4 +1,3 @@
-import instaloader
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
@@ -9,6 +8,7 @@ import time
 import os
 import json
 import pyautogui
+import re
 
 
 # ====== USER INPUT ======
@@ -52,6 +52,16 @@ wait = WebDriverWait(driver, 15)
 # wait = WebDriverWait(driver, 15)
 
 
+def keep_bmp_emojis(text):
+    return "".join(c for c in text if ord(c) <= 0xFFFF)
+
+
+def extract_caption_and_hashtags(text):
+    hashtags = re.findall(r"#\w+", text)
+    text_without_tags = re.sub(r"#\w+", "", text)
+    return keep_bmp_emojis(text_without_tags.strip()), hashtags
+
+
 try:
     driver.get("https://www.tiktok.com/tiktokstudio/upload")
     time.sleep(2)
@@ -79,12 +89,15 @@ try:
                 )
             )
             upload_button.click()
+            print("Clicking upload button...")
             time.sleep(2)
+            print(f"Typing file path: {filepath}")
             pyautogui.write(filepath)
-            time.sleep(1)
+            time.sleep(2)
             pyautogui.press("enter")
+            print("Pressing enter to upload")
             time.sleep(1)
-
+            print("Waiting for caption field...")
             upload_caption = wait.until(
                 EC.presence_of_element_located(
                     (
@@ -96,9 +109,28 @@ try:
             upload_caption.click()
             print("caption input click")
             upload_caption.clear()
-            print("caption input clear")
-            upload_caption.send_keys(caption)
-            print("caption input send")
+            print("Clear caption feild")
+            time.sleep(1)
+            main_caption, hashtags = extract_caption_and_hashtags(caption)
+            print("Typing caption without hashtags...")
+            time.sleep(1)
+            upload_caption.send_keys(main_caption)
+            print("Send input caption")
+            time.sleep(2)
+            # Send each hashtag one by one with dropdown selection
+            for tag in hashtags:
+                print(f"Typing hashtag: {tag}")
+                upload_caption.send_keys(" " + tag)
+                # time.sleep(1.5)  # wait for dropdown to show up
+                try:
+                    xpath_status = "(//div[@role='option'])[1]"
+                    tiktok_tag = WebDriverWait(driver, 7).until(
+                        EC.element_to_be_clickable((By.XPATH, xpath_status))
+                    )
+                    tiktok_tag.click()
+                    print(f"✅ Selected dropdown for: {tag}")
+                except Exception as e:
+                    print(f"⚠️ Could not select dropdown for {tag}: {e}")
 
             try:
                 xpath_status = "//span[@data-testid='CheckCircleFill']"
@@ -119,7 +151,24 @@ try:
                 )
                 post.click()
                 print("post button click")
-                time.sleep(2)
+                time.sleep(1)
+                WebDriverWait(driver, 20).until(EC.url_contains("tiktokstudio/content"))
+                download_count += 1
+                time.sleep(1)
+
+                plus_button = wait.until(
+                    EC.presence_of_element_located(
+                        (
+                            By.XPATH,
+                            "(//button[@type='button' and @data-tt='Sidebar_Sidebar_Button'])[2]",
+                        )
+                    )
+                )
+                plus_button.click()
+                time.sleep(1)
+
+                WebDriverWait(driver, 20).until(EC.url_contains("tiktokstudio/upload"))
+
             except Exception as e:
                 print(
                     "No 'Submitting...' message or URL didn't change — skipping wait."
