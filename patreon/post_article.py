@@ -6,8 +6,10 @@ from selenium.webdriver.support import expected_conditions as EC
 import re
 from bs4 import BeautifulSoup
 from selenium.webdriver.support.select import Select
+from selenium.webdriver.common.keys import Keys
 import json
 import random
+import pyperclip
 
 # API Endpoint for Articles
 json_path = (
@@ -57,7 +59,7 @@ def extract_text_with_links(html):
         href = a.get("href")
         text = a.get_text(strip=True)
         if href:
-            a.replace_with(f"[{text}]({href})")
+            a.replace_with(f"{text} ({href})")
         else:
             a.unwrap()
 
@@ -95,97 +97,124 @@ try:
             time.sleep(random.uniform(2.5, 4.5))
 
             try:
-                driver.get("https://lemm.ee/create_post?communityId=20926")
-                time.sleep(2)
+                driver.get("https://www.patreon.com/c/BellaHararo")
+                time.sleep(random.uniform(1.5, 3.5))
                 # Type each image path and press 'enter'
+                create = wait.until(
+                    EC.presence_of_element_located(
+                        (
+                            By.XPATH,
+                            "(//button[@aria-label='Create post'])[1]",
+                        )
+                    )
+                )
+                create.click()
+                print("✅ Click Create Button")
+                time.sleep(random.uniform(1.5, 3.5))
+                image_button = wait.until(
+                    EC.presence_of_element_located(
+                        (
+                            By.XPATH,
+                            "//button[.//text()[contains(., 'Image')]]",
+                        )
+                    )
+                )
+                image_button.click()
+                print("✅ Click Image Button")
+                time.sleep(random.uniform(1.5, 3.5))
+                image_url_button = wait.until(
+                    EC.presence_of_element_located(
+                        (
+                            By.XPATH,
+                            "(//button[text()='embed URL'])[2]",
+                        )
+                    )
+                )
+                image_url_button.click()
+                print("✅ Click Image Input Button")
+                time.sleep(random.uniform(1.5, 3.5))
+                image_input = wait.until(
+                    EC.presence_of_element_located(
+                        (
+                            By.XPATH,
+                            "(//input[@aria-label='Type or paste URL'])",
+                        )
+                    )
+                )
+                image_input.click()
+                image_input.clear()
+                image_input.send_keys(image_url)
+                print("✅ Click image Url Input Send Button")
+                WebDriverWait(driver, 15).until(
+                    EC.presence_of_element_located((By.XPATH, "//div[@role='button']"))
+                )
+                print("✅ Image Url Found proceeding...")
+
+                # time.sleep(random.uniform(1.5, 3.5))
                 title_input = wait.until(
                     EC.presence_of_element_located(
                         (
                             By.XPATH,
-                            "//textarea[@id='post-title']",
+                            "(//textarea[@placeholder='Title'])",
                         )
-                    )
-                )
-                title_input.click()
-                title_input.clear()
-                title_input.send_keys(title)
-                print("✅ Title input filled")
-                time.sleep(random.uniform(0.5, 2.5))
-
-                url_input = wait.until(
-                    EC.presence_of_element_located(
-                        (
-                            By.XPATH,
-                            "//input[@id='post-url']",
-                        )
-                    )
-                )
-                url_input.click()
-                url_input.clear()
-                url_input.send_keys(slug)
-                print("✅ URL input filled")
-                time.sleep(random.uniform(0.5, 2.5))
-                thumbnail_input = wait.until(
-                    EC.presence_of_element_located(
-                        (
-                            By.XPATH,
-                            "//input[@id='post-custom-thumbnail']",
-                        )
-                    )
-                )
-                thumbnail_input.click()
-                thumbnail_input.send_keys(image_url)
-                print("✅ Thumbnail input clicked")
-                time.sleep(random.uniform(0.5, 2.5))
-                body_input = wait.until(
-                    EC.presence_of_element_located(
-                        (
-                            By.XPATH,
-                            "(//textarea[@required])[2]",
-                        )
-                    )
-                )
-                body_input.click()
-                body_input.clear()
-                formatted_title = f"**{title}**"
-                plain_text_description = extract_text_with_links(description)
-                main_text_input = (
-                    formatted_title + "\n\n" + plain_text_description + "\n\n" + link
-                )
-
-                body_input.send_keys(main_text_input)
-                print("✅ Body input filled")
-                time.sleep(1)
-
-                # Select the language from the dropdown
-                select_element = wait.until(
-                    EC.presence_of_element_located(
-                        (By.XPATH, "(//select[@aria-label='Select language'])")
                     )
                 )
                 driver.execute_script(
                     "arguments[0].scrollIntoView({ behavior: 'smooth', block: 'center' });",
-                    select_element,
+                    title_input,
                 )
-                time.sleep(random.uniform(0.5, 2.5))
-                select_option = Select(select_element)
-                select_option.select_by_value("37")
-                print(f"✅ Select 'Option' Input")
-                time.sleep(random.uniform(0.5, 2.5))
-                create_post_button = wait.until(
-                    EC.element_to_be_clickable(
+                title_input.click()
+                title_input.send_keys(title)
+                print("✅ Title input filled")
+                time.sleep(random.uniform(1.5, 3.5))
+
+                description_input = wait.until(
+                    EC.presence_of_element_located(
                         (
                             By.XPATH,
-                            "//button[text()='Create']",
+                            "(//div[@contenteditable='true'])",
                         )
                     )
                 )
-                create_post_button.click()
-                print("✅ Create post button clicked")
+                driver.execute_script(
+                    "arguments[0].scrollIntoView({ behavior: 'smooth', block: 'center' });",
+                    description_input,
+                )
+                description_input.click()
+                print("✅ Click Description Button")
+                plain_text_description = extract_text_with_links(description)
                 time.sleep(random.uniform(0.5, 2.5))
+                pyperclip.copy(plain_text_description)
+                description_input.send_keys(Keys.CONTROL + "v")
+                time.sleep(random.uniform(0.5, 2.5))
+                description_input.send_keys(Keys.ENTER)
+                print("✅ Description input filled")
+                time.sleep(random.uniform(0.5, 2.5))
+                next_button = wait.until(
+                    EC.presence_of_element_located(
+                        (
+                            By.XPATH,
+                            "//button[.//text()[contains(., 'Next')]]",
+                        )
+                    )
+                )
+                next_button.click()
+                print("✅ Click Next Button")
+                time.sleep(random.uniform(1.5, 2.5))
+                publish = wait.until(
+                    EC.presence_of_element_located(
+                        (
+                            By.XPATH,
+                            "//button[.//text()[contains(., 'Publish')]]",
+                        )
+                    )
+                )
+                publish.click()
+                print("✅ Click Publish Button")
+                time.sleep(random.uniform(1.5, 2.5))
 
                 # Wait for the "Submitting..." message to appear
-                xpath_status = "(//textarea[@placeholder='Type here to comment...'])"
+                xpath_status = "//p[text()='Your post is live and ready to share!']"
                 WebDriverWait(driver, 20).until(
                     EC.presence_of_element_located((By.XPATH, xpath_status))
                 )
